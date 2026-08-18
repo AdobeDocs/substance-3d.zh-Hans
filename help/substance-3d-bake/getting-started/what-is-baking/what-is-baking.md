@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
->> 
+&#x200B;>> 
 
 (来源：[Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)
 
@@ -60,7 +60,7 @@ Substance软件可以生成纹理，这些纹理可以使用与网格几何相�
 * **曲率**（几何形状的边和腔）
 * **位置**（规范化多维数据集内几何的相对位置）
 
-有关详细信息，请参阅每个烘焙师](../../bakers-settings/bakers-settings.md)的[文档。
+有关详细信息，请参阅每个烘焙师[&#128279;](../../bakers-settings/bakers-settings.md)的文档。
 
 ## “常规”和“来自网格”面包师之间的差异
 

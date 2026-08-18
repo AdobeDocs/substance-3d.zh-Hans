@@ -51,12 +51,12 @@ ht-degree: 1%
 | **voidSubstance.Game.SubstanceGraph**.*SetInputTexture*（string inputName， Texture2D值） | 更新SubstanceTexture2D输入 | **字符串** *输入名称*&#x200B;用于更新参数的SBSAR中的输入名称&#x200B;**Texture2D** *值* |
 | **Texture2DSubstance.Game.SubstanceGraph**.*GetInputTexture*(string inputName) | 获取SubstanceTexture2D输入 | **字符串** *输入名称* SBSAR中的输入名称 |
 | **VectorIntSubstance.Game.SubstanceGraph**.*GetTexturesResolution*() | 获取图形的“目标设置”纹理分辨率（Vector4Int&#39;s x = width， y = Height，值为32， 64， 128， 256， 512， 1024， 2048和4096） | 无 |
-| **intSubstance.Game.SubstanceGraph**.*SetTexturesResolution*（Vector2Int大小） | 设置图形的目标设置纹理分辨率（Vector2Int的x =宽度，y =Height，值可以是32、64、128、256、512、1024、2048和4096）如果成功，则返回0，否则： -1。 | **Vector2Int** *大小*&#x200B;用于更新参数**.** |
+| **intSubstance.Game.SubstanceGraph**.*SetTexturesResolution*（Vector2Int大小） | 设置图形的目标设置纹理分辨率（Vector2Int的x =宽度，y =Height，值可以是32、64、128、256、512、1024、2048和4096）如果成功，则返回0，否则： -1。 | **Vector2Int** *大小*&#x200B;用于更新参数&#x200B;**.** |
 | **列出Substance.Game.SubstanceGraph**。*GetGeneratedTextures*() | 返回图形的材质着色器使用的所有SubstanceTexture2D对象。 | 无 |
 | **intSubstance.Game.SubstanceGraph**.*烘焙*（ Texture2D纹理，字符串absolutePath） | 为图形的材质着色器使用的所有SubstanceTexture2D对象生成.png文件。 | 无 |
-| **** Substance.游戏。** SubstanceGraph**.*重复*() | 复制Substance 图形 | 无 |
+| **&#x200B;**&#x200B;Substance.游戏。**&#x200B; SubstanceGraph**.*重复*() | 复制Substance 图形 | 无 |
 | **Substance.Game.SubstanceGraph**.*重复*(string newGraphName) | 复制Substance 图形并为其命名（相应的素材也将具有相同的名称） | **String newGraphName** |
-| **** Substance.游戏。** SubstanceGraph**.*GetInputProperties*() | 查询程序性输入信息，返回“InputProperties”的数组，其中:public结构InputProperties {公共字符串名称； // inputName公共字符串标签； // GUI公共字符串组中的小部件标签； // GUI公共字符串组中的小部件组[] componentLabels； //用于滑块（最多4个标签）公共字符串[] enumOptions； //用于选项公共输入属性类型；公共向量4最大值；//用于滑块公共向量4最小值；//用于滑块公共浮点步骤；//用于滑块公共enum inputPropertiesType { Boolean = 0，// 0 Float， // 1 Vector2， // 2 Vector3， // 3 Vector4， // 4 Color， // 5 Enum， // 6 Texture， // 7 String， // 8 Invalid = -1// -1 }； | 无 |
+| **&#x200B;**&#x200B;Substance.游戏。**&#x200B; SubstanceGraph**.*GetInputProperties*() | 查询程序性输入信息，返回“InputProperties”的数组，其中:public结构InputProperties &lbrace;公共字符串名称； // inputName公共字符串标签； // GUI公共字符串组中的小部件标签； // GUI公共字符串组中的小部件组[] componentLabels； //用于滑块（最多4个标签）公共字符串[] enumOptions； //用于选项公共输入属性类型；公共向量4最大值；//用于滑块公共向量4最小值；//用于滑块公共浮点步骤；//用于滑块公共enum inputPropertiesType { Boolean = 0，// 0 Float， // 1 Vector2， // 2 Vector3， // 3 Vector4， // 4 Color， // 5 Enum， // 6 Texture， // 7 String， // 8 Invalid = -1// -1 }； | 无 |
 | **bool** **Substance.Game.SubstanceGraph**.*HasInput*（**字符串**&#x200B;输入名称） | 检查图形中是否存在输入，返回true/false： | **字符串** *输入名称* SBSAR中的输入名称 |
 | **bool** **Substance.Game.SubstanceGraph**.*IsInputVisible*（**字符串**&#x200B;输入名称） | 检查可见输入是否可见，返回true/false | **字符串** *输入名称* SBSAR中的输入名称 |
 
@@ -65,8 +65,8 @@ ht-degree: 1%
 | Public方法 | 描述 | 参数 |
 | --- | --- | --- |
 | 公共&#x200B;**void** *QueueForRender*() | 将Substance图形添加到队列 | 无 |
-| ***mySubstance.**RenderAsync()* | 异步渲染所有排队Substance图表 | 无 |
-| ***mySubstance.**RenderSync()* | 同步渲染所有排队Substance图表 | 无 |
+| ***mySubstance.**&#x200B;RenderAsync()* | 异步渲染所有排队Substance图表 | 无 |
+| ***mySubstance.**&#x200B;RenderSync()* | 同步渲染所有排队Substance图表 | 无 |
 
 ## 编辑器模式下的脚本：
 

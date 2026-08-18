@@ -56,7 +56,7 @@ ht-degree: 0%
 * [正在删除Substance增效工具](../../game-engines/unity/removing-plugin/removing-substance-plugin.md)
 * [UnityTutorials中的Substance 3D](../../game-engines/unity/3d-in-unity-tutorials/substance-3d-in-unity-tutorials.md)
 * [统一的物理尺寸](../../game-engines/unity/physical-size-in-unity/physical-size-in-unity.md)
-* [在项目之间共享sbsar文件](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html)[](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
+* [在项目之间共享sbsar文件](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html) [&#128279;](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
 
 **[找到表单 — 需要规则]**
 

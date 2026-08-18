@@ -60,24 +60,24 @@ ht-degree: 18%
 
 | 烘焙 | 支持GPU 射线追踪 |
 | --- | --- |
-| 环境光遮蔽 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 弯曲法线 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| Color | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 弯曲 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 高度 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 法线 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 法线世界空间 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 环境光遮蔽 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 弯曲法线 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| Color | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 弯曲 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 高度 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 法线 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 法线世界空间 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 
 | 烘焙 | 支持GPU 射线追踪 |
 | --- | --- |
-| 不透明度蒙版 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 位置 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 位置低 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 厚度 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 已传输纹理 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 世界空间到切线空间 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 不透明度蒙版 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 位置 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 位置低 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 厚度 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 已传输纹理 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 世界空间到切线空间 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ ht-degree: 18%
 
 | 烘焙 | 支持GPU 射线追踪 |
 | --- | --- |
-| 环境光遮蔽 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 网格中的环境光遮蔽 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 网格中的弯曲法线 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 网格中的颜色 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| Convert UV to SVG | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 网格中的曲率 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 网格中的高度 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 网格中的法线 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 环境光遮蔽 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 网格中的环境光遮蔽 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 网格中的弯曲法线 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 网格中的颜色 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| Convert UV to SVG | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 网格中的曲率 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 网格中的高度 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 网格中的法线 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | 烘焙 | 支持GPU 射线追踪 |
 | --- | --- |
-| 来自网格的不透明度蒙版 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 网格中的布局 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 位置 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 网格中的厚度 | <div><img alt="（刻度）" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 已转移网格中的纹理 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 世界空间方向 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 世界空间法线 | <div><img alt="（错误）" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 来自网格的不透明度蒙版 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 网格中的布局 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 位置 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 网格中的厚度 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 已转移网格中的纹理 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 世界空间方向 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 世界空间法线 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*：支持CPU光线追踪，它比GPU 射线追踪慢得多。

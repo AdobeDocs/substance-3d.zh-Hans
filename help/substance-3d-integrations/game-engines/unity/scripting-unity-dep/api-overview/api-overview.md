@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.Game是包含用于脚本的类的程序集。 这些类别如下：
 
-**Substance.游戏。****Substance**：引用sbsar
+**Substance.游戏。**&#x200B;**Substance**：引用sbsar
 
 **Substance.Game.SubstanceGraph**： sbsar.*（在Unity 2017中曾是ProcedualMaterial）*&#x200B;中的单个图形
 
