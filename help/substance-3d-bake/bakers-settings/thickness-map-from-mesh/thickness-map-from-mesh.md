@@ -1,0 +1,48 @@
+---
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+breadcrumb-title: ''
+description: 通过从网格表面向内投射光线来生成Thickness图，以便在SSS着色器和蒙版中使用。
+helpx_creative_field: ""
+helpx_description: bakers > Bakers Settings > Thickness Map from Mesh
+helpx_experience_level: ""
+helpx_learn_topic: ""
+helpx_tags: ""
+title: 网格中的厚度贴图
+user-guide-description: ''
+user-guide-title: ''
+source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+workflow-type: tm+mt
+source-wordcount: '387'
+ht-degree: 5%
+
+---
+
+
+# 网格中的厚度贴图
+
+网格中的Thickness映射与环境的遮蔽烘焙机非常相似，但它会将光线从网格表面投射到内部。 此纹理可用于子表面散射(SSS)着色器或蒙版纹理。
+
+纹理属性定义为：
+
+* 黑色值表示模型的薄部分。
+* 白色值表示模型的厚部分。
+
+**适用于：**
+
+* Substance Painter
+* Substance Designer
+* Substance自动化工具包
+
+## 参数
+
+| *参数* | *描述* |
+| --- | --- |
+| **次生射线** | 遮蔽光线的数量。 较高的值会产生较少的杂色，但计算时间较长。 默认值为64。 |
+| **分钟遮挡距离** | 遮蔽光线将照射到高多边形几何的最小距离。 默认值为0.00001。 |
+| **最大遮挡距离** | 遮蔽光线将照射到高多边形几何的最大距离。 默认值为0.1。 |
+| **相对于定界框** | 如果启用，单位将相对于对象的定界框（1.0是定界框的对角长度）。 如果禁用，则用于最小和最大遮挡距离的单位是导出网格时定义的单位（米、厘米或导出场景的任何单位）。 |
+| **扩散角度** | 遮蔽射线的最大扩散角度。 默认值为180。 |
+| **分发** | 遮蔽射线的角度分布。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>余弦</strong>（默认）</li><li data-preserve-html="true"><strong>一致</strong></li></ul> |
+| **忽略背面** | 如果启用，遮蔽光线将忽略背面的击中（如果高多边形法线与发射光线的低多边形朝向相反的方向）。 大多数情况下，应启用此设置以避免出现伪影。 |
+| **自遮蔽** | 按名称匹配遮蔽光线。 指示面包师应如何匹配低多边形和高多边形几何。 它可用于过滤烘焙过程，而无需手动分离（分解）网格。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>始终</strong>（默认）：低多边形网格与每个高多边形网格匹配。</li><li data-preserve-html="true"><strong>按网格名称</strong>：按网格名称过滤网格，以避免与不需要的几何相匹配。</li></ul>要了解有关匹配几何的更多信息，请参阅： [按名称匹配](../../features/matching-by-name/matching-by-name.md)。 |
+| **自动标准化** | 定义是否应缩放输出值以适合0-1范围（最亮点设置为纯白色，最暗点设置为纯黑色）。 |
