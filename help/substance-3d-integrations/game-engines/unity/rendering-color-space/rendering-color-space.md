@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: 配置Unity的色彩空间设置，以确保使用基于物理的着色器正确渲染Substance素材。
 helpx_creative_field: ""

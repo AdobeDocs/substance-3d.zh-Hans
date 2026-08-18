@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: 了解适用于Blender的Substance 3D插件以及如何导入并使用项目中的Substance素材。
 helpx_creative_field: ""
@@ -72,7 +72,7 @@ Substance 3D面板用于管理项目中的Substance素材并调整其各个参�
 
 ## 查找更多Substance材质
 
-数千种专业创作的材料和其他资源可在[Substance 3D Assets页面](https://helpx.adobe.com/substance-3d/unlisted/assets.html)上下载。 在[Substance 3D社区资源页面](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)上可以找到更多已由社区免费共享的资源
+数千种专业创作的材料和其他资源可在[Substance 3D Assets页面](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)上下载。 在[Substance 3D社区资源页面](https://helpx.adobe.com/cn/substance-3d/unlisted/community-assets.html)上可以找到更多已由社区免费共享的资源
 
 ## 社区
 

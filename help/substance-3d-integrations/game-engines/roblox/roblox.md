@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: 使用Roblox Studio中的Substance材质和“PBR金属粗糙度”工作流程，打造沉浸式3D体验。
 helpx_creative_field: ""
@@ -83,7 +83,7 @@ ht-degree: 0%
 * 转到`templates`目录并单击&#x200B;**选择文件夹**
 * 单击&#x200B;**确定**&#x200B;按钮
 * 转到&#x200B;**文件>新建>Substance图形……**
-* 检查`Roblox`模板是否列在[新建Substance图形](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)窗口的模板列表底部
+* 检查`Roblox`模板是否列在[新建Substance图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)窗口的模板列表底部
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,7 +102,7 @@ ht-degree: 0%
 
 使用Roblox模板创建图形，并在处理完材质后从该图形导出位图。
 
-* 在[新建Substance图形](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)窗口中，选择`Roblox`模板
+* 在[新建Substance图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)窗口中，选择`Roblox`模板
 * 为图形设置任何标识符和其他参数，然后单击&#x200B;**确定**
 * 在[图形视图](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中处理您的材质 — 请参阅[此处](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何开始使用工作流
 * 完成后，请转到&#x200B;**工具>导出位图……**，在图形视图&#x200B;*工具栏*&#x200B;中

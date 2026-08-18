@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: 了解网格三角化如何影响烘焙结果并了解准备几何图形的最佳实践。
 helpx_creative_field: ""

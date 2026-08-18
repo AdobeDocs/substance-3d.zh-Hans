@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: 在关键帧渲染器中使用Substance素材，通过导出的纹理图实现产品可视化。
 helpx_creative_field: ""

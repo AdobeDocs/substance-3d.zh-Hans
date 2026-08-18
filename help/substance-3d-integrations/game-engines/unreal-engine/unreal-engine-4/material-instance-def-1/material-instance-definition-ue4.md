@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
 breadcrumb-title: ''
 description: 在Unreal Engine 4中使用Substance素材创建素材实例定义，以优化GPU渲染性能。
 helpx_creative_field: ""
@@ -43,4 +43,4 @@ ht-degree: 0%
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/03-6?$png$&jpegSize=200&wid=1011){width="800px"}
 
-您现在有一个UE4材质实例，它使用一组特定的Substance纹理。 这是在UE4项目中处理多种物质的一种更优化的方式。 要了解如何使用Blueprint创建MID，请查看此页面。 [蓝图(UE4)：动态素材实例](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+您现在有一个UE4材质实例，它使用一组特定的Substance纹理。 这是在UE4项目中处理多种物质的一种更优化的方式。 要了解如何使用Blueprint创建MID，请查看此页面。 [蓝图(UE4)：动态素材实例](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

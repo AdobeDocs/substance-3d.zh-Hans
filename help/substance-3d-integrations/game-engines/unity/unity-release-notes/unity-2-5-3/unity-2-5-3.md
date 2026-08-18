@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
 breadcrumb-title: ''
 description: 查看Unity增效工具版本2.5.3的发行说明，了解新增功能、改进和错误修复。
 helpx_creative_field: ""

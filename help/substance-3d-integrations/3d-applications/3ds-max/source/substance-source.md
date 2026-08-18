@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
 breadcrumb-title: ''
 description: 直接在3ds Max项目中访问和使用Substance Source库中的Substance素材。
 helpx_creative_field: ""

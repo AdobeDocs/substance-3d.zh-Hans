@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/legacy-versions.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/ecosystem/legacy-versions.html"
 breadcrumb-title: ''
 description: 访问使用以前的许可证密钥文件激活系统的Substance 3D应用程序的旧版本。
 helpx_creative_field: ""

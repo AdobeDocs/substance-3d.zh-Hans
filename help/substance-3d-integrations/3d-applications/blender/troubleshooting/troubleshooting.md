@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
 breadcrumb-title: ''
 description: 使用系统控制台诊断并解决Blender中Substance 3D插件的常见问题。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: 支持硬件加速GPU 射线追踪，将烘焙计算速度提高25倍或更多，从而加快工作流程。
 helpx_creative_field: ""

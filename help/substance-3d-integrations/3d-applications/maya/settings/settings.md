@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: 通过Substance架或菜单配置Maya中的Substance增效工具设置，以自定义行为。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
 breadcrumb-title: ''
 description: 在Unreal Engine 5中使用Substance素材创建素材实例定义，以优化GPU渲染性能。
 helpx_creative_field: ""
@@ -35,4 +35,4 @@ ht-degree: 0%
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)
 
-您现在有一个UE5材质实例，它使用一组特定的Substance纹理。 这是在UE5项目中处理多种物质的一种更优化的方式。 要了解如何使用蓝图创建MID，请查看此页面。 [蓝图(UE5)：动态素材实例](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+您现在有一个UE5材质实例，它使用一组特定的Substance纹理。 这是在UE5项目中处理多种物质的一种更优化的方式。 要了解如何使用蓝图创建MID，请查看此页面。 [蓝图(UE5)：动态素材实例](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

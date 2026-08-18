@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/presets.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/presets.html"
 breadcrumb-title: ''
 description: 管理Substance文件中的嵌入预设或在Maya中创建新预设以保存参数配置。
 helpx_creative_field: ""

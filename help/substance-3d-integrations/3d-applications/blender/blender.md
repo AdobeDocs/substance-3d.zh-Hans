@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender.html"
 breadcrumb-title: ''
 description: 安装并使用适用于Blender的Substance 3D插件，以在3D项目中导入和使用Substance素材。
 helpx_creative_field: ""

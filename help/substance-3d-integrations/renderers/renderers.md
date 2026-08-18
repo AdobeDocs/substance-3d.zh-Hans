@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: 在3D工作流程中将主要渲染器（例如Arnold、V-Ray、Redshift等）与Substance素材结合使用。
 helpx_creative_field: ""

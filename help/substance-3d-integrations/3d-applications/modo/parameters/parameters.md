@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: 通过“Substance属性”面板在MODO中修改Substance材质参数以自定义材质。
 helpx_creative_field: ""

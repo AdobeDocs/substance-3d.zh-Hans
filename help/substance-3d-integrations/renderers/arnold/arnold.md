@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/arnold.html"
 breadcrumb-title: ''
 description: 在Maya和3ds Max中将带有Arnold渲染器的Substance素材与工作流程配合使用，包括对金属质感的工作流程输出的支持。
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ Arnold 5中的标准表面材质现在支持金属工作流。 在使用默认�
 
 ## 目录
 
-* [Arnold — 在3ds Max中Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
-* [阿诺德 — 玛雅Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
+* [Arnold — 在3ds Max中Substance](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
+* [阿诺德 — 玛雅Substance](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
 * [Arnold -Substance Painter](../../renderers/arnold/arnold-painter/arnold-substance-painter.md)

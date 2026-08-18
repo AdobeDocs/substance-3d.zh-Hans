@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray.html"
 breadcrumb-title: ''
 description: 使用导出的映射或Substance增效工具，在Maya和3ds Max中使用V-Ray渲染Substance素材。
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ Substance Painter2020.1 (6.1.0)随附VrayMtl着色器，适用于金属和Specul
 
 ## 目录
 
-* [Vray Next — 玛雅Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
-* [Vray Next — 以3ds MaxSubstance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
+* [Vray Next — 玛雅Substance](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
+* [Vray Next — 以3ds MaxSubstance](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
 * [虚拟下一个 — Substance Painter](../../renderers/vray/vray-next-painter/vray-next-substance-painter.md)

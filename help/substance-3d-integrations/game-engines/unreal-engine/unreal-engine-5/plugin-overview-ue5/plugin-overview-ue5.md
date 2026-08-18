@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5.html"
 breadcrumb-title: ''
 description: 了解如何通过Substance增效工具概述指南，在Unreal Engine 5中导入和使用Substance素材。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/how-to-export-the-baked-maps.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-questions/how-to-export-the-baked-maps.html"
 breadcrumb-title: ''
 description: 了解如何从Substance Designer和Painter导出烘焙纹理以在其他应用程序中使用。
 helpx_creative_field: ""

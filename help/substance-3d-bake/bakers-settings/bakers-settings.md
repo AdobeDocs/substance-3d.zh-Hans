@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: 探索所有可用的面包机设置，并了解如何配置每种面包机类型以获得最佳纹理生成结果。
 helpx_creative_field: ""

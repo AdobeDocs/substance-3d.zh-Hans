@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
 description: 在Maya中控制程序纹理取样大小，以优化Substance素材的质量和性能。
 helpx_creative_field: ""

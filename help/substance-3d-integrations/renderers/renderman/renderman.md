@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/renderman.html"
 breadcrumb-title: ''
 description: 使用Maya和其他DCC应用程序中的pxrSurface或pxrDisney素材，通过Renderman渲染Substance素材。
 helpx_creative_field: ""

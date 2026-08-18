@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/common-parameters.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
 description: 了解适用于所有烘焙师的常见参数，以及如何配置这些参数以优化纹理生成。
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 1%
 | **消除锯齿** | 控制消除锯齿，以提高烘焙纹理的质量，并减少不同几何连接处的锯齿。要了解有关锯齿的更多信息，请参阅[UV接缝上的锯齿](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)和[维基百科上的锯齿](https://en.wikipedia.org/wiki/Aliasing)。可用值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>无</strong>（默认）</li><li data-preserve-html="true"><strong>次取样2x2</strong></li><li data-preserve-html="true"><strong>对4x4</strong>进行次采样</li><li data-preserve-html="true"><strong>次取样8x8</strong></li></ul>  **注意：**&#x200B;启用消除锯齿功能可以显着增加烘焙时间，因为消除锯齿功能是通过计算更高分辨率的纹理，然后将其缩小到最初选择的大小来起作用的。 这意味着具有2x2次采样的2K纹理将实际计算4K纹理。有时，增加烘焙机中的光线数量而不是增加次采样会更好。 它可以在无需等待太长时间的情况下取得更好的结果。 |
 | **UV集** | 控制将使用来自低多边形网格的哪些UV来计算烘焙纹理。*在Substance Painter中不可用。* |
 |  |  |
-| **扩展(px)** | 按给定的像素量扩展UV外部或其边框的像素。 当这些边界没有与纹理像素完全对齐或纹理分辨率降低时（例如：中间映射），此操作可以避免在UV边界处接缝。 这是烘焙过程之后应用的后处理。 有时也可以称为“填充”。要了解有关膨胀的更多信息，请参阅[UV接缝](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)上的锯齿和[填充](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。 |
+| **扩展(px)** | 按给定的像素量扩展UV外部或其边框的像素。 当这些边界没有与纹理像素完全对齐或纹理分辨率降低时（例如：中间映射），此操作可以避免在UV边界处接缝。 这是烘焙过程之后应用的后处理。 有时也可以称为“填充”。要了解有关膨胀的更多信息，请参阅[UV接缝](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)上的锯齿和[填充](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。 |
 | **应用扩散** | 如果启用，UV外部将填充基于UV边框的平滑渐变颜色。 此过程可确保当纹理大小减小时，它保持稳定，而不会创建过度可见的接缝（例如：mipmaps）。 这是烘焙过程之后应用的后处理。 |
 | **平均法线** | 如果启用，则在烘焙的网格匹配过程中计算顶点的平均法线，以确定在哪个方向发送光线。 如果禁用，光线将遵循网格的原始顶点法线。 |
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/lumberyard.html"
 breadcrumb-title: ''
 description: 将Amazon Lumberyard游戏引擎中的Substance素材与素材工作流程的原生增效工具支持配合使用。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-questions/why-is-my-mesh-fully-black-after-baking.html"
 breadcrumb-title: ''
 description: 解决网格在烘焙后完全变黑的原因，并了解如何修复常见原因。
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 > 
 > 有两种可能的解决方案：
 > 
-> * 修复您的烘焙设置以避免黑色纹理，请参阅： [烘焙器输出完全黑色或为空](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+> * 修复您的烘焙设置以避免黑色纹理，请参阅： [烘焙器输出完全黑色或为空](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 > * 从[纹理集设置](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)中移除黑色纹理。
