@@ -10,7 +10,7 @@ helpx_tags: ""
 title: '正在烘焙 '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 &#x200B;>> 
 
-(来源：[Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)
+（来源： [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
 烘焙是有关&#x200B;**将与** 3D网格&#x200B;**相关的信息**&#x200B;保存到&#x200B;**纹理**&#x200B;文件（[位图](https://en.wikipedia.org/wiki/Raster_graphics)）中的进程名称。 大多数情况下，此过程涉及另一个网格。 在这种情况下，第一网格的信息被转移到第二网格UV上，然后存储到纹理中。
 
