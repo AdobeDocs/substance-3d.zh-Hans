@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: 了解什么是烘焙，并了解如何将3D网格信息保存到纹理文件中，以增强您的Substance素材。
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: '正在烘焙 '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
-(来源：[Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)
+（来源： [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
 烘焙是有关&#x200B;**将与** 3D网格&#x200B;**相关的信息**&#x200B;保存到&#x200B;**纹理**&#x200B;文件（[位图](https://en.wikipedia.org/wiki/Raster_graphics)）中的进程名称。 大多数情况下，此过程涉及另一个网格。 在这种情况下，第一网格的信息被转移到第二网格UV上，然后存储到纹理中。
 
@@ -60,7 +60,7 @@ Substance软件可以生成纹理，这些纹理可以使用与网格几何相�
 * **曲率**（几何形状的边和腔）
 * **位置**（规范化多维数据集内几何的相对位置）
 
-有关详细信息，请参阅每个烘焙师[&#128279;](../../bakers-settings/bakers-settings.md)的文档。
+有关详细信息，请参阅每个烘焙师](../../bakers-settings/bakers-settings.md)的[文档。
 
 ## “常规”和“来自网格”面包师之间的差异
 
