@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-可以通过[纹理集设置](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)访问烘焙窗口。 单击名为“**烘焙网格图**”的按钮以打开当前项目的烘焙窗口。
+可以通过[纹理集设置](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)访问烘焙窗口。 单击名为“**烘焙网格图**”的按钮以打开当前项目的烘焙窗口。
 
 ## 概述
 

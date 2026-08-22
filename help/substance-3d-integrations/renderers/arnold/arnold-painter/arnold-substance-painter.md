@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Arnold -Substance Painter
 
-Substance Painter2020.1 (6.1.0)附带使用[aiStandard素材](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)的Arnold [输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)。
+Substance Painter2020.1 (6.1.0)附带使用[aiStandard素材](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)的Arnold [输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)。
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

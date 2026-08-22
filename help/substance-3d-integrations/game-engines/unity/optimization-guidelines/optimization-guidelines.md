@@ -35,6 +35,6 @@ Substance素材越复杂，渲染它们所需的处理能力就越强。 因此�
 >   
 > SubstanceCPU引擎可以在4K下计算，但速度非常慢，可能导致集成挂起或崩溃。
 
-在以下示例中，[平铺Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler)节点的输出大小设置为[绝对](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096。 它使下游的几个节点先以4K计算，然后再进行缩放，以获得2048年最终输出分辨率。
+在以下示例中，[平铺Sampler](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler)节点的输出大小设置为[绝对](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/substance-graphs/output-size) 4096。 它使下游的几个节点先以4K计算，然后再进行缩放，以获得2048年最终输出分辨率。
 
 ![](../../../assets/absolute.png){width="1000px"}

@@ -75,6 +75,6 @@ ht-degree: 0%
 1. 将解压缩的许可证密钥文件放在共享挂载的网络上。
 1. 在用户计算机上，设置指向许可证密钥文件的环境变量，如以下页面所述：
 
-   * Substance 3D Painter - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D Designer - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * Substance 3D Sampler - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D Painter - <https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D Designer - <https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * Substance 3D Sampler - <https://experienceleague.adobe.com/zh-hans/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

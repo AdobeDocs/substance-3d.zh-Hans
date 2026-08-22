@@ -66,7 +66,7 @@ SBSAR文件可能会随预设一起发布，这些预设可在“预设”下拉
 
 可通过下拉菜单切换和更改输出纹理的文件格式。
 
-有关详细信息，请参阅Designer文档页面上的[公开参数](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)。
+有关详细信息，请参阅Designer文档页面上的[公开参数](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)。
 
 ## 技术参数
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 生态系统和插件
 
-所有主要游戏和数字内容创建(DCC)工具都支持[Substance素材sbsar格式](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)。 该格式从Designer发布为.sbsar文件。 此sbsar文件可以加载到支持Substance素材的DCC应用程序和游戏引擎中，通过Substance增效工具或本机集成。
+所有主要游戏和数字内容创建(DCC)工具都支持[Substance素材sbsar格式](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)。 该格式从Designer发布为.sbsar文件。 此sbsar文件可以加载到支持Substance素材的DCC应用程序和游戏引擎中，通过Substance增效工具或本机集成。
 
 * 可在[3DSubstance资源](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)网站上找到免费社区材料。
 * 可下载的Substance材料作为Substance订阅的一部分通过[Substance 3D Assets](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)网站提供。

@@ -31,4 +31,4 @@ ht-degree: 7%
 | *参数* | *描述* |
 | --- | --- |
 | **映射类型** | 控制烘焙器应输出的常规纹理类型。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>世界空间</strong></li><li data-preserve-html="true"><strong>相切空间</strong> （默认）</li></ul>*在Substance Painter中，无法控制此参数，且此参数设置为“相切空间”。* |
-| **正常方向** | 如果&#x200B;**映射类型**&#x200B;参数设置为“相切空间”，则定义法线纹理的格式。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong>（默认）</li></ul>*在Substance Painter中，此参数由[项目设置](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration)控制。* |
+| **正常方向** | 如果&#x200B;**映射类型**&#x200B;参数设置为“相切空间”，则定义法线纹理的格式。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong>（默认）</li></ul>*在Substance Painter中，此参数由[项目设置](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/interface/project-configuration)控制。* |
