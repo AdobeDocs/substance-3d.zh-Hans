@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Substance 3D Designer模板
 
-要为Roblox创建纹理，您可以将下面的Substance 3D文件用作[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)中的[Substance合成图表](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)模板。
+要为Roblox创建纹理，您可以将下面的Substance 3D文件用作[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)中的[Substance合成图表](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs)模板。
 
 [![链接到roblox模板的sbs文件格式图标的图像。](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,7 +78,7 @@ ht-degree: 0%
 然后，让Designer *观看*&#x200B;模板文件夹以查找图表模板。
 
 * 在Designer中，转到&#x200B;**编辑>首选项……**
-* 在[首选项](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window)窗口中，转到&#x200B;**项目>用户项目>常规**
+* 在[首选项](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/workspace/preferences/preferences-window)窗口中，转到&#x200B;**项目>用户项目>常规**
 * 在&#x200B;**模板目录**&#x200B;列表中，单击&#x200B;**+**&#x200B;按钮
 * 转到`templates`目录并单击&#x200B;**选择文件夹**
 * 单击&#x200B;**确定**&#x200B;按钮
@@ -104,9 +104,9 @@ ht-degree: 0%
 
 * 在[新建Substance图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html)窗口中，选择`Roblox`模板
 * 为图形设置任何标识符和其他参数，然后单击&#x200B;**确定**
-* 在[图形视图](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中处理您的材质 — 请参阅[此处](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何开始使用工作流
+* 在[图形视图](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)中处理您的材质 — 请参阅[此处](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/getting-started/workflow-overview)了解如何开始使用工作流
 * 完成后，请转到&#x200B;**工具>导出位图……**，在图形视图&#x200B;*工具栏*&#x200B;中
-* 在[导出位图](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)窗口中，设置有效的&#x200B;**目标**&#x200B;路径，确保&#x200B;*全部*&#x200B;输出已&#x200B;*选中*，然后单击&#x200B;**导出**
+* 在[导出位图](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps)窗口中，设置有效的&#x200B;**目标**&#x200B;路径，确保&#x200B;*全部*&#x200B;输出已&#x200B;*选中*，然后单击&#x200B;**导出**
 * 检查纹理是否已正确导出到&#x200B;**目标**&#x200B;路径
 
 </td>

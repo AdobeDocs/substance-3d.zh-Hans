@@ -26,7 +26,7 @@ ht-degree: 1%
 
 例如，对于“Arnold”或“Vray Next”，可以直接使用金属/粗糙度输出。 但是，使用Renderman的pxrSurface时，基色/金属输出需要转换为漫射和Specular表面颜色。 如果支持渲染器，Substance集成增效工具将自动处理这些转换。
 
-使用Substance Painter，您可以选择一个[输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)，它将创建给定渲染器所需的适当映射类型。 如果默认情况下不支持渲染器，您还可以创建自定义输出模板。
+使用Substance Painter，您可以选择一个[输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)，它将创建给定渲染器所需的适当映射类型。 如果默认情况下不支持渲染器，您还可以创建自定义输出模板。
 
 **输出模板**
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maxwell -Substance Painter
 
-Substance Painter2020.1 (6.1.0)支持Maxwell [输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)的金属质感/粗糙度和Specular/光泽度。 只需使用Maxwell**即可导出。\
+Substance Painter2020.1 (6.1.0)支持Maxwell [输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/export)的金属质感/粗糙度和Specular/光泽度。 只需使用Maxwell**即可导出。\
 Maxwell 5.1.0**与Substance Painter集成，可轻松导入纹理并自动设置Maxwell素材。
 
 ## 导出纹理
