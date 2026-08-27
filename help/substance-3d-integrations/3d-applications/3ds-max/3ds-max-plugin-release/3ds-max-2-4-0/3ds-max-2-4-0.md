@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-0.html"
 breadcrumb-title: ''
 description: 查看3ds Max增效工具版本2.4.0的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""

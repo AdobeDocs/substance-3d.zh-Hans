@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-4.html"
 breadcrumb-title: ''
 description: 查看3ds Max增效工具版本2.3.4的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 1. 3.4版本：
 
-* 添加了适用于3ds Max 2021的PBR（规格/光泽）着色器工作流程选项
-* 添加了适用于3ds Max 2021的PBR（金属/粗糙）着色器工作流程选项
+* 添加了适用于3ds Max 2021的PBR（规格/光泽）着色器的工作流程选项
+* 添加了适用于3ds Max 2021的PBR（金属/粗糙）着色器的工作流程选项
 * 在SME中的不同视图之间移动节点时，工作流程脚本不再失败
 * 现在，可以在资源跟踪器中设置相对路径
 * 如果缺少工作流脚本所需的输出，则现在会将其记录到控制台中

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
-description: 探索所有可用的面包机设置，并了解如何配置每种面包机类型以获得最佳纹理生成结果。
+description: 浏览所有可用的Baker设置，并了解如何配置每个Baker类型以获得最佳纹理生成结果。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 41%
 
 # 面包师设置
 
-要详细了解每个烘焙商及其设置，请查看其专用页面：
+要详细了解每个Baker及其设置，请查看其专用页面：
 
 * [通用参数](../bakers-settings/common-parameters/common-parameters.md)
 * [环境光遮蔽](../bakers-settings/ambient-occlusion/ambient-occlusion.md)

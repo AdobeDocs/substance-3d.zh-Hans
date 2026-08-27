@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: 了解如何优化硬件设置和网格准备以实现更快的烘焙性能。
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ ht-degree: 0%
 * 使用环境遮蔽烘焙器烘焙密集网格时
 * 使用具有非常密集的高多边形网格（超过60,000,000个三角形）的DXR加速面包时
 
-您可以在以下位置找到有关TDR的其他信息以及有关如何修改其关联设置的分步指南： [GPU驱动程序崩溃导致计算时间过长（TDR崩溃）](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+您可以在以下位置找到有关TDR的其他信息以及有关如何修改其关联设置的分步指南： [GPU驱动程序崩溃导致计算时间过长（TDR崩溃）](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

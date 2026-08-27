@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: 从网格中提取曲率信息，以创建突出显示几何图形的型腔和边缘的纹理。
 helpx_creative_field: ""

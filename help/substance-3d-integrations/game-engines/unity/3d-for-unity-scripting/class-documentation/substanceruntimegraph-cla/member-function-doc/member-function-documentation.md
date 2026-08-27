@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: 有关Unity脚本中SubstanceRuntimeGraph类的所有成员函数的详细文档。
 helpx_creative_field: ""
@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-获取Substance浮点输入
+获取Float输入
 
 **参数**
 
@@ -363,7 +363,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.LoadPreset ( string presetXML
 ```
 
 
-使用预设XML设置图形输入参数。
+使用预设XML设置输入参数。
 
 **参数**
 

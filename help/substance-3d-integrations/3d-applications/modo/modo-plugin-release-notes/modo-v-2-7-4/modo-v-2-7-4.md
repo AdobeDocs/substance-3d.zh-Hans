@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-plugin-release-notes/modo-v-2-7-4.html"
 breadcrumb-title: ''
 description: 查看MODO增效工具版本2.7.4的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ ht-degree: 3%
 
 已修复：
 
-* 在Modo 12.2v2中使用辛烷时，纹理为黑色
+* 在Modo 12.2v2中使用“辛烷”时，纹理为黑色
 
 支持Modo版本12.0及更高版本

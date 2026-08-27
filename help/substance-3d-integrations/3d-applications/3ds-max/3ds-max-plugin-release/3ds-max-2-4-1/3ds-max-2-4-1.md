@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-1.html"
 breadcrumb-title: ''
 description: 查看3ds Max增效工具版本2.4.1的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -32,6 +32,6 @@ ht-degree: 0%
 * substance\_link.dll占用大量CPU周期
 * 导出Substance预设时出现断言错误
 * 在没有预设的情况下创建预设时崩溃
-* 使用Corona渲染器的降噪器崩溃
+* 用于Corona渲染器的降噪器崩溃
 
 此版本针对3ds Max 2019、2020和2021发行

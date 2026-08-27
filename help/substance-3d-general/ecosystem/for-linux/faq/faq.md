@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/ecosystem/substance-for-linux/faq.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux/faq.html"
 breadcrumb-title: ''
 description: 查找有关管理Substance 3D许可证和通过Adobe下载访问门户访问软件的常见问题解答。
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ ADA门户可作为一个中央位置，供您管理许可证和认证。 使用A
 
 
 
-如果您遇到其他类型的错误，请[联系我们的企业支持](https://helpx.adobe.com/cn/enterprise/using/support-for-enterprise.html)。
+如果您遇到其他类型的错误，请[联系我们的企业支持](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
 
 
 
@@ -118,20 +118,20 @@ ADA门户可作为一个中央位置，供您管理许可证和认证。 使用A
 
 * 单击“搜索”。
 
-[此处提供了有关LWS的更多信息](https://helpx.adobe.com/cn/x-productkb/policy-pricing/volume-licensing-site.html)。
+[此处提供了有关LWS的更多信息](https://helpx.adobe.com/x-productkb/policy-pricing/volume-licensing-site.html)。
 
 
 
 +++
 
 +++如果需要更多帮助，我可以联系谁？
-如需进一步帮助，请联系我们的企业支持团队。 您的管理员需要[登录AdobeAdmin Console并打开支持案例](https://helpx.adobe.com/cn/enterprise/using/support-for-enterprise.html)。
+如需进一步帮助，请联系我们的企业支持团队。 您的管理员需要[登录AdobeAdmin Console并打开支持案例](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
 
 如果您需要进一步的帮助，可以联系AdobeCSM。
 
 +++
 
 +++我无法使用ADA中的许可证密钥文件激活软件。
-[此处提供了详细的激活说明](../../../ecosystem/for-linux/substance-for-linux.md)。 如果这些方法无法解决您的问题，请[联系企业支持团队](https://helpx.adobe.com/cn/enterprise/using/support-for-enterprise.html)。
+[此处提供了详细的激活说明](../../../ecosystem/for-linux/substance-for-linux.md)。 如果这些方法无法解决您的问题，请[联系企业支持团队](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)。
 
 +++

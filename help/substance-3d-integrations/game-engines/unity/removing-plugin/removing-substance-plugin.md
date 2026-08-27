@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
 breadcrumb-title: ''
 description: 了解如何从Unity项目正确删除Substance 3D增效工具并清理关联文件。
 helpx_creative_field: ""
@@ -23,5 +23,5 @@ ht-degree: 0%
 您可以在删除Substance文件夹和Adobe.meta文件之前或之后删除Adobe材料。
 
 1. 团结一致。 需要关闭Unity才能删除插件。 如果项目已打开且插件已删除，它将继续重新导入引擎dll。
-1. 使用文件资源管理器，浏览到“资源文件夹”并删除Adobe文件夹和Adobe.meta文件。
+1. 使用文件资源管理器浏览到“资源文件夹” ，然后删除Adobe文件夹和Adobe.meta文件。
 1. 重新启动Unity。

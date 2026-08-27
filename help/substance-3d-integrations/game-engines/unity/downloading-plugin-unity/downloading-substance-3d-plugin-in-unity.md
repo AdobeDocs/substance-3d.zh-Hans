@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
 breadcrumb-title: ''
 description: 从Unity Asset Store或包管理器下载并安装适用于Unity的Substance 3D插件。
 helpx_creative_field: ""

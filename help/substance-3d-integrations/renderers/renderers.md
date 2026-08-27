@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
-description: 在3D工作流程中将主要渲染器（例如Arnold、V-Ray、Redshift等）与Substance素材结合使用。
+description: 在3D材料中将主要渲染器（例如Arnold、V-Ray、Redshift等）与Substance工作流程结合使用。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers
 helpx_experience_level: ""
@@ -20,13 +20,13 @@ ht-degree: 1%
 
 # 渲染器
 
-[Substance Source](https://source.substance3d.com/)中提供的Substance素材包含基于物理的着色器的输出，并支持[金属/粗糙度（默认工作流程）和Specular/光泽度](https://academy.substance3d.com/courses/pbrguides)。 了解渲染器素材支持的工作流程很重要。 根据渲染器，您可能可以直接使用Substance材质输出，或者可能需要转换输出纹理。 从Substance share下载的自定义Substance素材或素材可能不包含给定渲染器所需的适当输出。
+在[Substance Source](https://source.substance3d.com/)中提供的Substance材料包含基于物理的着色器的输出，并支持[金属/粗糙度（默认工作流程）和Specular/光泽度工作流程](https://academy.substance3d.com/courses/pbrguides)。 了解渲染器材料支持的工作流程很重要。 根据渲染器，您可能可以直接使用材料输出，或者可能需要转换输出纹理。 从Substance share下载的自定义Substance材料或材料可能不包含给定渲染器所需的适当输出。
 
 ![](../assets/outputs.png){width="200px"}
 
-例如，对于“Arnold”或“Vray Next”，可以直接使用金属/粗糙度输出。 但是，使用Renderman的pxrSurface时，基色/金属输出需要转换为漫射和Specular表面颜色。 如果支持渲染器，Substance集成增效工具将自动处理这些转换。
+例如，对于Arnold或Vray Next，您可以直接使用金属/粗糙度输出。 但是，使用Renderman的pxrSurface时，基色/金属输出需要转换为漫射和Specular脸部。 如果支持渲染器，Substance集成增效工具将自动处理这些转换。
 
-使用Substance Painter，您可以选择一个[输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)，它将创建给定渲染器所需的适当映射类型。 如果默认情况下不支持渲染器，您还可以创建自定义输出模板。
+使用Substance Painter，您可以选择一个[输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)，它将创建给定渲染器所需的适当映射类型。 如果默认情况下不支持渲染器，您还可以创建自定义输出模板。
 
 **输出模板**
 

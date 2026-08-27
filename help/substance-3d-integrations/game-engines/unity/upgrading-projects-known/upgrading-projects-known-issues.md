@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/upgrading-projects-known-issues.html"
 breadcrumb-title: ''
-description: 了解升级Unity项目的Substance材料和迁移期间要避免的已知问题。
+description: 了解升级具有材料的Unity项目以及迁移期间要避免的已知问题。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Upgrading ProjectsKnown Issues
 helpx_experience_level: ""

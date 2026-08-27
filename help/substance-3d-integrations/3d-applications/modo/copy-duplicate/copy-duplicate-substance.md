@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
 breadcrumb-title: ''
 description: 在MODO中复制、实例或复制Substance素材，以便有效地跨多个对象重复使用素材。
 helpx_creative_field: ""

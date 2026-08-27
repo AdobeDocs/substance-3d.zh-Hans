@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting.html"
 breadcrumb-title: ''
 description: 使用SubstanceUnreal Engine 4脚本API以编程方式管理项目中的Substance素材。
 helpx_creative_field: ""

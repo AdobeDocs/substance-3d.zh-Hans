@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/cn/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: 使用“按名称匹配”功能可隔离低多边形和高多边形网格，并防止在烘焙过程中出现几何出血。
 helpx_creative_field: ''
@@ -50,22 +50,22 @@ ht-degree: 0%
 
 ## 按名称匹配的工作方式
 
-“按名称匹配”系统的工作方式是：读取低多边形网格和高多边形网格中的几何名称，然后使用关键字（后缀）来识别/匹配名称。 默认情况下，生成器使用特定的后缀，但可以进行更改（请参阅下文）。
+“按名称匹配”系统的工作方式是：读取低多边形网格和高多边形网格中的几何名称，然后使用关键字（后缀）来识别/匹配名称。 默认情况下，Baker使用特定的后缀，但可以进行更改（请参阅下文）。
 
 支持的当前后缀包括：
 
 | *后缀类型* | *默认值* | *用法* |
 | --- | --- | --- |
-| 高多边形 | *\_high* | 用于隔离高多边形网格的名称，以便与低多边形网格匹配。 |
-| 低多边形 | *\_low* | 用于隔离低多边形网格的名称，以便与高多边形网格匹配。 |
-| 忽略背面 | *\_ignorebf* | 用于忽略使用次生射线（如环境遮蔽）的面包师的背面。*此后缀应仅存在于高多边形网格上，例如：**mesh\_high\_ignorebf*** |
+| 高多边形 | *\_high* | 用于隔离高模网格名称以匹配低位多边形。 |
+| 低多边形 | *\_low* | 用于隔离低模网格名称以匹配高多边形名称。 |
+| 忽略背面 | *\_ignorebf* | 用于忽略使用次生射线（如Ambient occlusion）的Baker的背面。*此后缀应仅存在于高多边形网格上，例如：**网格\_high\_ignorebf*** |
 
 为使此功能正常工作需要考虑的一些规则：
 
 * 必须在[公共参数](../../bakers-settings/common-parameters/common-parameters.md)中启用“按名称匹配”，因为默认情况下为&#x200B;**关闭**。
-* 某些烘焙师（如[环境遮蔽](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)）中可能启用了按名称匹配的辅助设置，因为它们会生成次生射线。
-* 匹配区分大小写，这意味着名为“**Vela**”的网格将与名为“**Vela**”的网格不匹配。
-* 可根据几何名称中后缀出现的位置一起匹配多个网格。
+* 某些Baker（如[Ambient occlusion](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)）中可能启用了按名称匹配的辅助设置，因为它们会生成次生射线。
+* 匹配区分大小写，这意味着名为“**Vela**”的网格将与名为“**vela**”的路径不匹配。
+* 可根据几何名称中后缀出现的位置来匹配多个网格。
 
 下面是匹配可能的工作方式示例（使用默认后缀）：
 
@@ -90,14 +90,14 @@ ht-degree: 0%
 
 默认后缀为\_low和\_high，可通过以下方式进行更改：
 
-* **Substance Painter**：在[烘焙窗口](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)中，公共参数内。
-* **Substance Designer**：在[项目设置](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/workspace/preferences/project-settings)中的烘焙设置下。
+* **Substance Painter**：在[烘焙窗口](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)中，在公共参数内。
+* **Substance Designer**：在[项目设置](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)中的烘焙设置下。
 
 ## zBrush中的高多边形网格
 
-从zBrush导出的高多边形网格可用于烘焙具有“按名称匹配”功能，但可能会遵循某些设置：
+从zBrush导出的高多边形网格可用于通过“按名称匹配”功能烘焙，但遵循一些设置：
 
 | *文件格式* | *描述* |
 | --- | --- |
-| **FBX** | 没有要启用/禁用的特定参数，网格文件可按原样使用。 |
-| **对象** | 默认情况下，zBrush导出的OBJ文件不能使用&#x200B;**按名称匹配**。 相反，可以指示Substance Painter改用网格文件名按名称匹配网格。要执行此操作，请确保：<ol data-preserve-html="true"><li data-preserve-html="true"><strong>禁用</strong>每个</strong>子工具的组(Grp)参数。<strong></li><li data-preserve-html="true">适当命名OBJ文件<strong></strong>（例如： <strong>body_high.obj</strong>）。</li></ol> ![](../../assets/zbrush-setting.png) |
+| **FBX** | 无特定参数可启用/禁用，网格文件可按原样使用。 |
+| **对象** | 默认情况下，zBrush导出的OBJ文件不能使用&#x200B;**按名称匹配**。 相反，可以指示Substance Painter改用网格文件名按名称匹配网格。要执行此操作，请确保：<ol data-preserve-html="true"><li data-preserve-html="true"><strong>禁用</strong>每个</strong>子工具的组(Grp)参数。<strong></li><li data-preserve-html="true">适当地<strong>命名</strong> OBJ文件（例如： <strong>body_high.obj</strong>）。</li></ol> ![](../../assets/zbrush-setting.png) |

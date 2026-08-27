@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/common-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
-description: 了解适用于所有烘焙师的常见参数，以及如何配置这些参数以优化纹理生成。
+description: 了解适用于所有Baker的常见参数，以及如何配置这些参数以生成最佳纹理。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Common Parameters
 helpx_experience_level: ""
@@ -20,32 +20,32 @@ ht-degree: 1%
 
 # 通用参数
 
-常用参数适用于所有烘焙师。 这些参数通常定义烘焙师将怎样行为以及如何处理高多边形网格，但如何生成最终纹理。 这些参数中的某些参数可以由特定的面包师覆盖。
+通用参数适用于所有Baker。 这些参数通常定义Baker的行为以及与高多边形网格配合使用的方式，但如何生成最终纹理。 这些参数中的某些参数可以由特定Baker覆盖。
 
 虽然这些参数中的大部分在所有软件（包括Substance自动化工具包）中均可使用，但它们的行为可能略有不同；或者根据软件工作流程和实施情况，有些参数可能不可用。
 
 ## 常规参数
 
-这些参数会影响烘焙师生成纹理的方式。
+这些参数会影响Baker生成纹理的方式。
 
 | *名称* | *描述* |
 | --- | --- |
-| **大小**（默认大小或输出大小） | 控制烘焙输出纹理分辨率（以像素为单位）。可用值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>32</strong></li><li data-preserve-html="true"><strong>64</strong></li><li data-preserve-html="true"><strong>128</strong></li><li data-preserve-html="true"><strong>256</strong></li><li data-preserve-html="true"><strong>512</strong></li><li data-preserve-html="true"><strong>1024</strong></li><li data-preserve-html="true"><strong>2048</strong>（默认）</li><li data-preserve-html="true"><strong>4096</strong></li><li data-preserve-html="true"><strong>8192</strong></li></ul>还支持非方形分辨率，例如：2048x1024（2:1比率）。 在Substance Designer中，此参数可由面包机本身覆盖。 |
-| **格式** | 烘焙纹理的文件格式。*在Substance Painter中不可用。* 请参阅： [如何导出已烘焙贴图](../../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md)。 |
-| **消除锯齿** | 控制消除锯齿，以提高烘焙纹理的质量，并减少不同几何连接处的锯齿。要了解有关锯齿的更多信息，请参阅[UV接缝上的锯齿](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)和[维基百科上的锯齿](https://en.wikipedia.org/wiki/Aliasing)。可用值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>无</strong>（默认）</li><li data-preserve-html="true"><strong>次取样2x2</strong></li><li data-preserve-html="true"><strong>对4x4</strong>进行次采样</li><li data-preserve-html="true"><strong>次取样8x8</strong></li></ul>  **注意：**&#x200B;启用消除锯齿功能可以显着增加烘焙时间，因为消除锯齿功能是通过计算更高分辨率的纹理，然后将其缩小到最初选择的大小来起作用的。 这意味着具有2x2次采样的2K纹理将实际计算4K纹理。有时，增加烘焙机中的光线数量而不是增加次采样会更好。 它可以在无需等待太长时间的情况下取得更好的结果。 |
+| **大小**（默认大小或输出大小） | 控制烘焙输出纹理分辨率（以像素为单位）。可用值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>32</strong></li><li data-preserve-html="true"><strong>64</strong></li><li data-preserve-html="true"><strong>128</strong></li><li data-preserve-html="true"><strong>256</strong></li><li data-preserve-html="true"><strong>512</strong></li><li data-preserve-html="true"><strong>1024</strong></li><li data-preserve-html="true"><strong>2048</strong>（默认）</li><li data-preserve-html="true"><strong>4096</strong></li><li data-preserve-html="true"><strong>8192</strong></li></ul>还支持非方形分辨率，例如：2048x1024（2:1比率）。 在Substance Designer中，此参数可以由Baker本身覆盖。 |
+| **格式** | 纹理的文件格式。*在Substance Painter中不可用。* 请参阅： [如何导出已烘焙贴图](../../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md)。 |
+| **消除锯齿** | 控制消除锯齿，这可以提高纹理的质量，并减少不同几何连接处的锯齿。要了解有关锯齿的更多信息，请参阅[接缝上的锯齿](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)和[维基百科上的锯齿](https://en.wikipedia.org/wiki/Aliasing)。可用值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>无</strong>（默认）</li><li data-preserve-html="true"><strong>次取样2x2</strong></li><li data-preserve-html="true"><strong>次取样4x4</strong></li><li data-preserve-html="true"><strong>次取样8x8</strong></li></ul>  **注意：**&#x200B;启用消除锯齿功能可以显着增加烘焙时间，因为消除锯齿功能是通过以更高的分辨率计算纹理然后再将其缩小到最初选择的大小来起作用的。 这意味着具有2x2次取样的2K纹理将实际计算4K纹理。有时，最好增加Baker中的光线数量，而不是增加次取样。 它可以在无需等待太长时间的情况下取得更好的结果。 |
 | **UV集** | 控制将使用来自低多边形网格的哪些UV来计算烘焙纹理。*在Substance Painter中不可用。* |
 |  |  |
-| **扩展(px)** | 按给定的像素量扩展UV外部或其边框的像素。 当这些边界没有与纹理像素完全对齐或纹理分辨率降低时（例如：中间映射），此操作可以避免在UV边界处接缝。 这是烘焙过程之后应用的后处理。 有时也可以称为“填充”。要了解有关膨胀的更多信息，请参阅[UV接缝](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)上的锯齿和[填充](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。 |
-| **应用扩散** | 如果启用，UV外部将填充基于UV边框的平滑渐变颜色。 此过程可确保当纹理大小减小时，它保持稳定，而不会创建过度可见的接缝（例如：mipmaps）。 这是烘焙过程之后应用的后处理。 |
-| **平均法线** | 如果启用，则在烘焙的网格匹配过程中计算顶点的平均法线，以确定在哪个方向发送光线。 如果禁用，光线将遵循网格的原始顶点法线。 |
+| **膨胀（像素）** | 按给定的像素量扩展UV外部或其边框的像素。 当这些边框未与UV像素完全对齐或当纹理分辨率降低（例如：中间映射）时，此操作可以避免在纹理边框接缝。 这是在烘焙过程之后应用的后过程。 有时也可以称为“填充”。要了解有关膨胀的更多信息，请参阅[UV接缝上的别名](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)和[填充](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。 |
+| **应用漫射** | 如果启用，UV外部将填充基于UV边框的平滑渐变色。 此过程可确保纹理大小在减小后保持稳定，不会创建过度可见的接缝（例如：mipmap）。 这是在烘焙过程之后应用的后过程。 |
+| **平均法线** | 如果启用，将计算顶点的平均法线，以了解烘焙的网格匹配过程中要向哪个方向发送光线。 如果禁用，光线将遵循网格的原始顶点法线。 |
 
 ## 高多边形参数
 
-以下参数用于控制高多边形到低多边形网格烘焙（“从网格”烘焙）。
+以下参数用于控制高多边形到低多边形烘焙（“从网格”Baker）。
 
 | *名称* | *描述* |
 | --- | --- |
-| **高清网格** | 包含高多边形网格的文件（或Substance包资源）的列表。 当烘焙过程开始计算不同信息并将网格信息保存到纹理中时，烘焙商将网格信息加载到内存中。 如果启用“**使用低作为高清**”，则会忽略此列表。 |
+| **高清晰度网格** | 包含高多边形网格的文件（或Substance包资源）的列表。 当烘焙过程开始计算不同信息并将网格信息保存到纹理中时，烘焙商将网格信息加载到内存中。 如果启用“**使用低作为高清**”，则会忽略此列表。 |
 | **使用低作为高清**&#x200B;或&#x200B;**使用低多边形网格作为高多边形网格** | 如果启用，提供给烘焙师的高多边形网格列表将被忽略，而低多边形网格将自行烘焙。直接处理高多边形网格时，此参数非常有用。 例如，在启用此设置的情况下烘焙高多边形汽车的环境遮蔽纹理时，将忽略光线距离，烘焙器将生成完美的烘焙（无光线缺失或几何不匹配）。 |
 |  |  |
 | **设置与笼子的距离**&#x200B;或&#x200B;**使用笼子** | 指示在烘焙过程中是否使用笼形网格文件，而不是使用光线距离值。 笼子控制光线的最大距离和方向。 |

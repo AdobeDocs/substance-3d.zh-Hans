@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/detailed-description.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/detailed-description.html"
 breadcrumb-title: ''
 description: Unity中运行时Substance操作的SubstanceRuntimeGraph类功能的详细说明。
 helpx_creative_field: ""

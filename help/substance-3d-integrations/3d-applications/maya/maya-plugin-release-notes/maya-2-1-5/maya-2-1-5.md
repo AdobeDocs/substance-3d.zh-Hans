@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-5.html"
 breadcrumb-title: ''
 description: 查看Maya插件版本2.1.5的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 * 现在应显示sbsar文件，并且可以在文件路径编辑器中对其进行设置
 * 共享项目时，文件路径应由Maya亲属设置
-* 现在，从Substance启动器发送到将把sbsar文件复制到项目目录中
+* 现在，从Substance启动器发送到的内容会将sbsar 文件复制到项目目录中
 
 此版本在Linux、MacOS和Windows上为Maya 2017、2018、2019和2020发布，在MacOS和Windows上为Maya LT 2018、2019和2020发布

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/environment-and-rendering-setup.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/environment-and-rendering-setup.html"
 breadcrumb-title: ''
-description: 在MODO中配置环境和渲染设置，以优化Substance材质外观和品质。
+description: 在MODO中配置环境和渲染设置，以优化材料的外观和品质。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Environment and Rendering Setup
 helpx_experience_level: ""
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ## 环境设置和渲染
 
-要获得基于物理的渲染和高级视口设置的最佳效果，您需要在“环境”中使用HDR映射。 MODO随附了多个可在“版面”选项卡中找到的环境预设。\
-加载HDR环境后，您需要设置“高级视口照明”和“背景”选项。 您可以按O键以显示3D视口属性，然后在高级选项中设置\
-“光照和环境到环境”选项。 或者，如果具有场景光，则对于光照可使用“场景+环境”。
+要通过基于物理的渲染和高级视口设置获得最佳效果，您需要在Environment中使用HDR映射。 MODO随附了多个可在“版面”选项卡中找到的环境预设。\
+加载HDR环境后，您需要设置“高级视口光照”和“背景”选项。 您可以按O键以显示3D视口属性，然后在高级选项中设置\
+“光照和环境到环境”选项。 或者，如果有场景光照，则可以在光照中使用“场景”+“环境” 。
 
 ![](../../../assets/env.png)
 

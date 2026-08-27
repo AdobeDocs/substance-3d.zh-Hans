@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
 breadcrumb-title: ''
-description: 通过“项目设置”配置Unreal Engine 5中的Substance增效工具设置，以自定义增效工具行为。
+description: 通过“项目设置”在“虚构引擎5”中配置Substance增效工具设置以自定义增效工具行为。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Plugin Settings - UE5
 helpx_experience_level: ""
@@ -26,19 +26,19 @@ ht-degree: 0%
 
 ## 硬件预算
 
-内存预算是用于Substance引擎的最大内存量。 可以增加以提高Substance处理的速度，但是会消耗更多的系统资源。 （在项目层面，这并非总能带来有益的增长）。
+内存预算是用于引擎的最大内存量。 可以增加以提高Substance处理的速度，但是会消耗更多的系统资源。 （在项目层面，这并非总能带来有益的增长）。
 
-CPU内核决定允许Substance引擎使用的内核数。 这包括物理内核和超线程。 (如果分配的数量大于系统上的可用内核，则默认为使用所有可用内核。
+CPU内核决定允许引擎使用的内核数。 这包括物理内核和超线程。 (如果分配的数量大于系统上的可用内核，则默认为使用所有可用内核。
 
 ## 烹饪
 
-烹饪期间移除的MIP级别计数将改变为包装创建纹理的方式。 此设置可以极大地缩短加载时间并减少包大小，因为将不再需要加载较大的纹理mip级别。 将加载较低的分辨率/较小的LOD，UE5将默认最高分辨率。 然后通过Substance引擎处理Substance，并在运行时使用高分辨率LOD进行更新。
+烹饪期间移除的MIP级别计数将改变为包装创建纹理的方式。 此设置可以极大地缩短加载时间并减少包大小，因为将不再需要加载较大的纹理mip级别。 将加载较低的分辨率/较小的LOD，UE5将默认最高分辨率。 然后通过引擎处理Substance，并在运行时使用高分辨率LOD进行更新。
 
 Substance 引擎可以是CPU或GPU。 GPU引擎将允许您创建4K纹理。 CPU引擎上限为2K。
 
 ## 优化：
 
-这限制了每批可传递到物质引擎的异步物质数量。 数量越少，异步任务的完成速度就越快；数量越多，异步任务的批量渲染和一次处理多个Substance的速度就越快，异步任务更新的速度就越快。 （该数字越大，纹理更新就越不连续，因为更新之间的时间越长）。
+这限制了每批可传递到物质引擎的异步物质数量。 数量越少，异步任务的完成速度就越快；数量越多，异步任务的批量渲染和一次处理多个Substance的速度就越快，异步任务更新的速度就越快。 （该数字越大，纹理更新变得越不连贯，因为更新之间的时间越长）。
 
 ## 异步/同步渲染
 

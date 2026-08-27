@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-5.html"
 breadcrumb-title: ''
 description: 查看Unreal Engine 4增效工具版本4.25.0.5的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/adobe-standard-material/asm-technical-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/asm-technical-documentation.html"
 breadcrumb-title: ''
-description: 访问详细的技术文档，包括Adobe标准材料模型使用的公式和数学公式。
+description: 获取详细的技术文档，包括Adobe Standard Material模型使用的公式和数学。
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > ASM technical documentation
 helpx_experience_level: ""
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 # ASM技术文档
 
-此页面将重新组合有关Adobe标准素材的技术信息。
+此页将有关Adobe Standard Material的技术信息重新分组。
 
 ASM使用的详细公式和数学等技术文档可作为PDF文档提供：
 
-* [Adobe标准材料 — 技术文档.pdf](https://helpx.adobe.com/content/dam/substance-3d/general-knowledge/asm/Adobe%20Standard%20Material%20-%20Technical%20Documentation%20-%20May2023.pdf)（上次更新：2023年5月）
+* [Adobe Standard Material- Technical Documentation.pdf](https://helpx.adobe.com/content/dam/substance-3d/general-knowledge/asm/Adobe%20Standard%20Material%20-%20Technical%20Documentation%20-%20May2023.pdf)（上次更新：2023年5月）

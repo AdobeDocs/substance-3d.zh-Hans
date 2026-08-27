@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
 breadcrumb-title: ''
 description: 了解是否对烘焙纹理应用抖动以及它如何影响纹理质量。
 helpx_creative_field: ""

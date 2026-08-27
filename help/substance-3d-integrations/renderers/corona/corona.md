@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/corona.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona.html"
 breadcrumb-title: ''
 description: 在3ds Max中使用Substance材质，并采用“Specular/光泽度”工作流程和所需的映射，制作电晕渲染器。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
 breadcrumb-title: ''
 description: 了解如何通过首选项菜单从Blender中正确卸载Substance 3D插件。
 helpx_creative_field: ""

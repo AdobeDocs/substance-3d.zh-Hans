@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
-description: 使用Substance增效工具和标准表面素材，在3ds Max中使用Substance素材和Arnold渲染器。
+description: 使用材料和标准表面材料，在3ds Max中使用Substance增效工具和Arnold渲染器。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Arnold > Arnold - Substance in 3ds Max
 helpx_experience_level: ""
@@ -22,11 +22,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> 您需要启用旧版3ds Max Map支持Substance纹理才能使用Arnold
+> 您需要启用旧版3ds Max Map支持，纹理才能使用Arnold
 
 ## 在3ds Max增效工具中Substance
 
-使用[3ds Max增效工具](../../../3d-applications/3ds-max/3ds-max.md)，您可以在“Substance”菜单中选择“Arnold”，以自动设置具有Substance纹理输入的Arnold素材。
+使用[3ds Max增效工具](../../../3d-applications/3ds-max/3ds-max.md)，您可以在“Substance”菜单中选择“Arnold”，以使用Substance纹理输入自动设置Arnold材料。
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/arnold?$png$&jpegSize=200&wid=1047)
 
@@ -36,6 +36,6 @@ ht-degree: 0%
 
 >[!WARNING]
 >
-> 使用ActiveShade时，Substance纹理不支持GPU渲染器。
+> 使用ActiveShade时，纹理不支持GPU渲染器。
 
 ![](../../../assets/legacy-1.png)

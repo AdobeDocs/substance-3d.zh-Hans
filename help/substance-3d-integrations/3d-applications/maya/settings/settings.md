@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
-description: 通过Substance架或菜单配置Maya中的Substance增效工具设置，以自定义行为。
+description: 通过工具架或菜单在Maya中配置Substance增效工具设置以自定义行为。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Settings
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 设置
 
-Substance设置菜单可通过Substance架或Substance菜单访问。 此菜单的设置存储在可编辑的配置文件“substance.cfg”中。
+可以通过工具架或Substance菜单访问Substance设置菜单。 此菜单的设置存储在可编辑的配置文件“substance.cfg”中。
 
 >[!NOTE]
 >
@@ -39,7 +39,7 @@ Substance设置菜单可通过Substance架或Substance菜单访问。 此菜单�
 
 ## 默认分辨率
 
-设置sbsar文件加载时Substance节点的默认分辨率。
+设置sbsar 文件加载时的默认分辨率。
 
 ## 渲染工作流程
 
@@ -47,7 +47,7 @@ Substance设置菜单可通过Substance架或Substance菜单访问。 此菜单�
 
 ## Substance Engine
 
-设置特定于该Substance 引擎的首选项以及所有Substance节点的全局首选项。 Substance引擎用于计算Substance纹理。
+设置特定于该Substance 引擎的首选项以及所有Substance节点的全局首选项。 引擎用于计算Substance纹理。
 
 ### 引擎类型
 
@@ -55,13 +55,13 @@ Substance设置菜单可通过Substance架或Substance菜单访问。 此菜单�
 
 >[!WARNING]
 >
-> 由于CPU和GPU引擎的计算存在差异，因此为了得到一致的结果，最好将类型设置为Substance Designer中使用的相同引擎。
+> CPU和GPU引擎之间可能存在计算差异，因此要获得一致的结果，最好将类型设置为Substance Designer中使用的相同引擎。
 
-CPU内核和引擎内存是允许Substance引擎使用的资源量的设置。
+CPU核心和引擎内存是允许Substance引擎使用的资源量的设置。
 
 ### 阻止渲染
 
-此选项允许您设置Substance引擎计算是否阻止Maya UI进程。 启用后，Substance引擎将优先，并阻止Maya UI进程。 禁用后，Maya UI进程将不会被Substance引擎计算阻止。
+此选项允许您设置引擎计算是否阻止Maya UI进程。 启用后，将优先使用引擎并阻止Maya UI进程。 禁用后，Maya UI进程将不会被引擎计算阻止。
 
 ## 缓存输出到磁盘
 

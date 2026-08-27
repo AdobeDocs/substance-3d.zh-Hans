@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: 查看Unity增效工具版本3.0.0及更高版本的发行说明，了解新增功能和改进。
 helpx_creative_field: ""
@@ -25,19 +25,19 @@ ht-degree: 0%
 <b>已添加/已更新：</b>
 
 * 支持Unity中的Substance 3D连接器，支持在Substance 3D Sampler和Unity之间发送资源的“发送到”功能。
-* 支持将.sbsar图表从Designer重命名和重新发布到Unity，从而确保在将更新的图表重新导入Unity增效工具时，在Designer中所做的更改会持续存在。
+* 支持将.sbsar图形从Designer重命名和重新发布到Unity，从而确保在将更新后的图形重新导入Unity增效工具时，保留在Designer中所做的更改。
 * 用于在Unity项目之间共享.sbsar文件的文档。
 * 社区稿页面收录到Unity插件文档： https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/community-contributions.html.
 
 <b>已修复：</b>
 
-* 在重新发布.sbsar文件（显示以前的材料而非当前的材料）后，Unity项目资源文件夹中的材料微型化未更新的问题。
+* 在重新发布。sbsar 文件后，显示上一个材料而非当前材料时，“Unity项目资源”文件夹中的缩微图未更新的问题。
 
 ## Unity 3.11.0
 
 <b>已添加/已更新：</b>
 
-* 改进了具有1000多个Substance图表的项目的性能，从而显着缩短了检查Assets文件夹中的sbsar文件时的UI响应时间。
+* 改进了具有1000多个图形的项目性能，从而显着缩短了检查Assets文件夹中的sbsar文件时的UI响应时间。
 * 添加了一个重置按钮，可将sbsar文件恢复到其原始状态，从而提升了工作流程效率。
 * 更新了有关“图像输入锁定为8位”问题的解决方法的文档，网址为： [Unity中的Substance 3D集成 — 升级项目和已知问题](../../../../game-engines/unity/upgrading-projects-known/upgrading-projects-known-issues.md)。
 * 更新了文档以解决在Unity中导航面板文件夹时遇到的“表达式断言失败”错误： [Unity中的Substance 3D集成 — 升级项目和已知问题](../../../../game-engines/unity/upgrading-projects-known/upgrading-projects-known-issues.md)。
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * 解决了增效工具C++代码中的内存泄漏问题，从而确保在处理对象时完全恢复内存。
 * 修复了Linux上导入Unity增效工具包时会导致“SubstanceException：为API提供的参数无效”错误的问题，现在可以成功导入SBSAR文件。
-* 解决了SubstanceGraphSO.CurrentStatePreset在Unity中加载具有自定义编辑器窗口脚本的预设时无法正常工作的问题；我们的Substance文档(HelpX)页面上现在提供了一个更正脚本： https://experienceleague.adobe.com/zh-hans/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* 解决了SubstanceGraphSO.CurrentStatePreset在Unity中加载具有自定义编辑器窗口脚本的预设时无法正常工作的问题；我们的Substance文档(HelpX)页面上现在提供了一个更正脚本： https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * 修复了在Unity编辑器中重新选择图表属性时图表属性消失的错误。
 * 解决了Unity增效工具中与SubstanceGraphSO相关的“引用的未知托管类型”问题，从而改进了Android平台（特别是Unity 2022.1）上的兼容性和功能，并且可能在所有Unity版本上实现此目的。
 * 修复了“技术参数”部分中的“正常格式”选项未正确显示为数字输入字段，而不是显示为包含DirectX和OpenGL选项的预期下拉列表的问题。
@@ -214,5 +214,5 @@ ht-degree: 0%
 * 空纹理输入会中断Substance更新
 * “生成所有输出”、“生成Mip映射”和“仅运行时”切换开关不起作用
 * 命名空间的问题
-* 在选定图形资源的情况下进入播放模式时出现Null参考错误
-* 使用仅运行时材质时，最新的Unity 2021.3 LTS版本的HDRP和URP出现问题
+* 在选择图形资源的情况下进入播放模式时出现“空参考”错误
+* 使用仅运行时材料时，最新的2021.3 LTS版本Unity的HDRP和URP出现问题

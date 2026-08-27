@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: 了解如何使用Substance Bakers将基于网格的信息计算到纹理文件中，并增强您的纹理化工作流程。
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ ht-degree: 13%
 ### 常见问题
 
 * [UV接缝上的锯齿](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [面包机输出完全为黑色或为空](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [面包机输出完全为黑色或为空](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [无法通过网格中的颜色映射进行烘焙](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [黑着色十字在网格表面上可见](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [网格部分之间出血](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

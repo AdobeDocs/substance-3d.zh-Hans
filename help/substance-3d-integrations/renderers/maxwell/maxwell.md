@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/maxwell.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell.html"
 breadcrumb-title: ''
 description: 将Maya和Painter中的Substance素材与Maxwell渲染器一起使用，以用于基于物理的渲染工作流程。
 helpx_creative_field: ""

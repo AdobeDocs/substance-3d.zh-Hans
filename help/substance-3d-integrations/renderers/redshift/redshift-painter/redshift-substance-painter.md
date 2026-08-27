@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
-description: 使用Substance Painter和适当的材质设置导出红移渲染器的输出模板纹理。
+description: 使用Substance Painter和适当的纹理设置导出Redshift渲染器的输出模板材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift > Redshift - Substance Painter
 helpx_experience_level: ""
@@ -20,19 +20,19 @@ ht-degree: 2%
 
 # Redshift -Substance Painter
 
-Substance Painter2020.1 (6.1.0)支持将红移[输出模板](https://docs.substance3d.com/display/SPDOC/Export)用于金属/粗糙度(rsMaterial)。 只需使用Redshift模板导出即可生成与Redshift材质兼容的纹理。
+Substance Painter2020.1 (6.1.0)支持Redshift [输出模板](https://docs.substance3d.com/display/SPDOC/Export)用于金属/粗糙度(rsMaterial)。 只需使用Redshift模板导出即可生成与Redshift材料兼容的纹理。
 
 ![](../../../assets/rs-export.png)
 
-## Redshift材质设置
+## Redshift材料设置
 
-| Substance Painter导出 | 红移材质 |
+| Substance Painter导出 | Redshift材料 |
 | --- | --- |
-| Color | 扩散/颜色 |
+| Color | Diffuse/颜色 |
 | 粗糙度 | 反射/粗糙度(BRDF = GGX) |
 | 金属度 | 反射/金属度（菲涅尔类型=金属度） |
-| 法线 | 总体/凹凸图/ rsBumpMap（输入映射类型=切线空间法线 — Height比例= 1.0） |
-| DisplaceHeightField | 位移着色器/rsDisplacement TexMap（映射编码=Height字段） |
+| 法线 | 总体/凹凸图/rsBumpMap（输入图类型=切线空间法线 — Height比例= 1.0） |
+| DisplaceHeightField | 着色器/ rsDisplacement TexMap（映射编码=Height字段） |
 | 发射颜色 | 总体/排放（排放重量= 1.0） |
 
 >[!NOTE]

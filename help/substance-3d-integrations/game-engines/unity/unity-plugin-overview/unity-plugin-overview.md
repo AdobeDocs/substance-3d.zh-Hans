@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
 breadcrumb-title: ''
 description: 了解适用于Unity的Substance 3D插件，包括版本支持、功能和集成功能。
 helpx_creative_field: ""

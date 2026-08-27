@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
 breadcrumb-title: ''
 description: 了解Substance如何在Unity中生成纹理，并配置纹理打包以获得最佳着色器输入。
 helpx_creative_field: ""

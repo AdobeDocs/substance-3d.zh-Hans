@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: 了解如何针对不同的工作流程将Substance素材与混合器的循环和Eevee渲染器配合使用。
 helpx_creative_field: ""
@@ -54,17 +54,17 @@ ht-degree: 0%
 
 Substance 3D面板的“输出”部分还提供了用于筛选输出的选项。 着色器预设下拉列表旁的三个按钮可用于按启用的输出（复选标记）、着色器输出（球形）和所有可用的输出（线）进行过滤。
 
-可使用复选框单独启用输出。 启用输出后，将在纹理节点组中创建相应的输出。 如果“原则性BSDF”材料节点支持该输出，则会自动将其连接到该节点。 Height将连接到位移节点，而环境遮蔽将与MixRGB节点中的基色合并。\
+可使用复选框单独启用输出。 启用输出后，将创建纹理节点组中的相应输出。 如果Principled BSDF材料节点支持该输出，则它将自动连接到该节点。 Height将连接到位移节点，Ambient occlusion将与MixRGB节点中的base color合并。\
 复选标记旁边的文件格式下拉菜单可用于设置输出纹理保存的文件类型。
 
 此外，可以在加载项[首选项](../../../3d-applications/blender/preferences/preferences.md)中更改默认文件输出首选项。
 
-## 交换对象上的材质
+## 交换对象上的材料
 
-单击Blender材质属性面板中的球面图标，以打开Blende项目中的材质列表。 已在面板中创建的Substance材质也将显示在列表中。 从此列表中选取材料将替换该材料槽中的活动材料。
+单击Blender的材料属性面板中的球面图标，以打开Blende项目中的材料列表。 已在面板中创建的材料也将显示在列表中。 从此列表中选择材料将替换该材料插槽中的活动材料。
 
 ## 位移
 
-从Cycles渲染器支持（但在Eevee中未支持）的纹理中位移网格。 要查看位移，请确保已启用Height输出。 加载项将自动将素材的位移设置设为&#x200B;**位移和凹凸**。 现在，查看对象上的材质将在渲染视图中显示位移。 位移比例可在材质面板或位移节点中调整。
+从循环渲染器支持的位移网格，但不在Eevee中。 要查看位移，请确保已启用Height输出。 该加载项将自动将材料的位移设置设为&#x200B;**位移和凹凸**。 现在，查看对象上的材料将在渲染视图中显示位移。 可以在“位移”面板或材料位移中调整节点比例。
 
-为获得最佳效果，请对具有复杂细分级别细节的材质使用更高位移或高多边形网格。
+为获得最佳效果，请针对具有复杂位移细节的材料，使用较高的细分级别或高多边形网格。

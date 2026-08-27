@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
 breadcrumb-title: ''
 description: 在Unity中使用Substance 3D API编写脚本，以便在运行时更新和更改Substance参数。
 helpx_creative_field: ""
@@ -36,15 +36,15 @@ ht-degree: 0%
 
 #### Adobe.Substance.编辑器
 
-包含编辑器特定的类，用于处理有关UnitySubstance对象的信息显示，以及在将sbsar文件添加到项目时处理导入管道。 SubstanceEditorEngine类是一个单独的类，用于处理Substance引擎及其所有受管理实例的生命周期。
+包含编辑器特定的类，用于处理有关UnitySubstance对象的信息显示，以及在将sbsar文件添加到项目时处理导入管道。 SubstanceEditorEngine类是一个单独的实例，用于处理Substance引擎及其所有托管实例的生命周期。
 
 #### Adobe.Substance.运行时
 
-此类具有一些组件，这些组件将在运行时执行期间处理Substance对象的创建和管理。 SubstanceRuntime与运行时的SubstanceEditorEngine类等效。 它将处理Substance引擎的初始化，以及用户脚本将与之交互的任何Substance实例的实例化。
+此类具有一些组件，这些组件将在运行时执行期间处理Substance对象的创建和管理。 SubstanceRuntime与运行时的SubstanceEditorEngine类等效。 它将处理Substance引擎的初始化以及用户脚本将与之交互的任何Substance实例的实例化。
 
 ## 运行时使用
 
-为了在运行时修改Substance实例输入，需要向场景中添加一个SubstanceRuntime← — 素材（最好与Substance素材添加到同一个GameObject）。 此类充当帮助程序，以使用Adobe.Substance.Runtime.SubstanceRuntime单一实例设置材料，该实例在运行时管理SubstanceSDK对象的实例化。Substance
+为了在运行时修改Substance实例输入，需要将SubstanceRuntime←-材料添加到您的场景（最好与Substance材料添加到同一个GameObject）。 此类充当使用Adobe.Substance.Runtime.SubstanceRuntime单一实例设置材料的助手，该实例在运行时管理SubstanceSDK对象的实例化。
 
 ## 代码示例
 

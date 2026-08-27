@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: 了解如何访问和使用Substance 3D Designer中的烘焙窗口将模型信息烘焙到纹理中。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-可以通过[资源管理器](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)窗口中的网格文件访问烘焙窗口。 右键单击网格名称并选择“**烘焙模型信息**”以打开烘焙窗口。
+可以通过[资源管理器](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)窗口中的网格文件访问烘焙窗口。 右键单击网格名称并选择“**烘焙模型信息**”以打开烘焙窗口。
 
 ## 概述
 
@@ -73,7 +73,7 @@ ht-degree: 2%
 * **添加新的面包师：**&#x200B;单击“添加面包师”按钮。
 * **删除面包机：**&#x200B;在列表中选择面包机，然后单击“删除面包机”按钮。
 * **将面包机移动到顶部：**&#x200B;在列表中选择面包机，然后单击“拉至顶部”按钮。
-* **向下移动面包机：**&#x200B;在列表中选择面包机，然后单击“Push down”（下移）按钮。
+* **向下移动面包机：**在列表中选择面包机，然后单击“Push down”（下移）按钮。
 
 默认情况下，继承中的每个面包师都使用默认值（请参阅上文）。 例如，可以通过单击面包机行上的单元格来覆盖大小（分辨率）。 这适用于行中的其他设置。
 

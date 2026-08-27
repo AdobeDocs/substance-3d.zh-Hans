@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/ecosystem/import-and-export-formats.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/import-and-export-formats.html"
 breadcrumb-title: ''
 description: 了解每个Substance 3D应用程序都支持哪些文件格式来导入和导出您的项目和资源。
 helpx_creative_field: ""

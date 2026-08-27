@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-0.html"
 breadcrumb-title: ''
 description: 查看Maya增效工具版本2.1.0的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -28,12 +28,12 @@ Maya 2.1.0 changelog中的Substance
 * Redshift工作流程现在将fresnel设置为金属性
 * 添加了新的增效工具文件substancelink，它处理与其他Substance程序和Substance启动器的互操作性
 * 如果加载了substancelink增效工具，现在打开Substance Source将会打开“源”选项卡的Substance启动器
-* Substancelink增效工具允许启动器在添加UI时，将Substance Source素材发送到Maya集成
+* Substancelink增效工具允许启动器在添加UI后，将材料发送到Maya集成
 * 添加脚本命令以获取内部库版本以及打开substance启动器以进入源页面
 * 网站链接现在已打开到[substance3d.com](http://substance3d.com)而不是[allegorithmic.com](http://allegorithmic.com)
 * 现在，打开网页时，文档和源链接将打开用户设置的默认浏览器
-* 在Windows上，不再打开Internet Explorer
-* 在书架和菜单中添加了要Substance share的新链接
+* 在Windows上，不再打开Internet资源管理器
+* 在工具架和菜单中添加了要Substance share的新链接
 * 添加了用于查询Substance链接器版本和哈希的新命令
 * 在Maya LT中，该版本已从设置菜单中删除
 * “关于”菜单不再使用PySide2和Python编写，而是使用本机代码中的Qt进行编写。 它现在可以在Maya LT中使用，而它以前并不存在。

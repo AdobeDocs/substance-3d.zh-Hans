@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
 description: 通过将纹理Substance坐标节点和标量参数添加到材质中，在Unreal Engine 5中拼贴纹理节点。
 helpx_creative_field: ""

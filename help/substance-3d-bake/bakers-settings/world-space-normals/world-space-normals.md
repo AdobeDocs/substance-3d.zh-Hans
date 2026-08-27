@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: 使用世界空间坐标将网格法线、切线和二项式保存到纹理中，以用于高级工作流程。
 helpx_creative_field: ""

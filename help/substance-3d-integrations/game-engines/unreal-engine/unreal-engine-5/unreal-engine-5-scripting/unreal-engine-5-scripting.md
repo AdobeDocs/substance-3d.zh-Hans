@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
 breadcrumb-title: ''
-description: 使用SubstanceUnreal Engine 5脚本API以编程方式管理项目中的Substance素材。
+description: 使用SubstanceUnreal Scripting 5引擎API以编程方式管理项目中的Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Scripting
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Unreal Engine 5脚本
 
-可以对Unreal Engine增效工具中的Substance编写脚本。 在插件的SubstanceGraphInstance.h文件中列出并批注方法，在从Marketplace安装插件时，通常可以在以下目录中找到该文件：
+可以对虚构引擎增效工具中的Substance编写脚本。 在插件的SubstanceGraphInstance.h文件中列出并批注方法，在从Marketplace安装插件时，通常可以在以下目录中找到该文件：
 
 * **引擎安装**： [UE\_5.X.X location]\Engine\Plugins\Marketplace\Substance\Source\SubstanceCore\Classes\SubstanceGraphInstance.h
 * **项目安装**： [项目文件夹位置]\Plugins\Runtime\Substance\Source\SubstanceCore\Classes\SubstanceGraphInstance.h
@@ -29,17 +29,17 @@ ht-degree: 0%
 
 `BlueprintCallable`表示该方法在Blueprint编辑器中也可用。
 
-## 虚实引擎的Python编辑器中的脚本
+## 虚构引擎Python编辑器中的脚本
 
-在Unreal Engine的Python编辑器中使用SubstanceGraphInstance.h文件中列出的方法时，必须将这些方法从Pascal大小写转换为Snake大小写（每个单词之间用小写字母标记下划线）。 例如，`SetInputColor`变为`set_input_color`。
+在使用虚构引擎Python编辑器的SubstanceGraphInstance.h文件中列出的方法时，必须将这些方法从Pascal大小写转换为Snake大小写（每个单词之间使用小写字母和下划线）。 例如，`SetInputColor`变为`set_input_color`。
 
-可以通过“窗口”>“输出日志”并将左下方的下拉菜单设置为Python来访问Unreal Engine中的Python编辑器。
+可以通过“窗口”>“输出日志”并将左下方的下拉菜单设置为Python来访问虚构引擎中的Python编辑器。
 
 ## 示例脚本
 
 下面是可以在Python编辑器中使用的一组示例脚本。
 
-## 创建Substance材质
+## 创建材料
 
 ```
 ## Python example on creating a Substance material.
@@ -96,7 +96,7 @@ for graph_desc in graph_descs:
 ```
 
 
-## 创建Substance材料的单个图表
+## 创建材料的单个图形
 
 ```
 ## Python example on creating a Substance material.
@@ -147,7 +147,7 @@ graph.save_all_outputs(True)
 ```
 
 
-## 使用不同的参数创建多种Substance材料实例。
+## 使用不同的参数创建一个材料的多个实例。
 
 ```
 ## Python example on creating mulitple Substance materials.

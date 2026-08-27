@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-1.html"
 breadcrumb-title: ''
 description: 查看Unreal Engine 5增效工具版本5.0.1的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""

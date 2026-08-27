@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
 description: 使用Specular/光泽度和适当的转换为电晕渲染器导出Substance Painter纹理。
 helpx_creative_field: ""

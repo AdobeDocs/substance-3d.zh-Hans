@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-3.html"
 breadcrumb-title: ''
 description: 查看Unity增效工具版本2.5.3的发行说明，了解新增功能、改进和错误修复。
 helpx_creative_field: ""
@@ -25,9 +25,9 @@ ht-degree: 0%
 已修复：
 
 * 更改Specular映射的打包时崩溃
-* 在标准3d项目中，Specular映射在Alpha通道中不是打包Smoothness
-* 删除“库”文件夹后，重新启动HDRP/HRP项目时崩溃
-* 重复的材质缺少分配的着色器和材质属性
+* Specular映射在标准3d项目中的Alpha 通道中不是打包Smoothness
+* 删除“资源库”文件夹后重新启动HDRP/HRP项目时崩溃
+* 重复的材料缺少分配的着色器和材料属性
 * 场景和预设文件中的行尾字符更改。
 
 已知问题：

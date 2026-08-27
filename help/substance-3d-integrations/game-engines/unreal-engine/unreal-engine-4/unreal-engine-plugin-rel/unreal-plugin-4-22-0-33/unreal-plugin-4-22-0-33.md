@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-22-0-33.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-22-0-33.html"
 breadcrumb-title: ''
 description: 查看Unreal Engine 4增效工具版本4.22.0.33的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 非实际插件4.22.0.33
 
-此版本与我们的Substance v7引擎兼容
+此版本与我们的substance v7引擎兼容
 
 下载链接：\
 <https://drive.google.com/open?id=11CDsNMfSJfjb86KGdEjFH4k5L2ElrJ4Q>

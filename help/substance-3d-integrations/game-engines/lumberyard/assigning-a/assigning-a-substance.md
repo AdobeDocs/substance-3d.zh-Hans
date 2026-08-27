@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
 breadcrumb-title: ''
-description: 与其他素材一样，使用素材编辑器将Substance素材分配给Lumberyard中的对象。
+description: 与其他Substance一样，使用材料编辑器为Lumberyard中的对象分配材料材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Lumberyard > Assigning a Substance
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 分配Substance
 
-可使用素材编辑器分配Substance素材，就像Lumberyard中的任何其他素材一样。
+可以使用材料编辑器分配Substance材料，就像分配Lumberyard中的任何其他材料一样。
 
-1. 单击材质编辑器按钮以打开编辑器，并导航到您复制substance文件时材质文件夹中的位置。
-1. 选择对象和素材，然后单击素材编辑器顶部的“将项目指定给选定对象”按钮。
+1. 单击“材料编辑器”按钮以打开编辑器并导航到您复制Substance文件时在“材料”文件夹中的位置。
+1. 选择对象和材料，然后单击材料编辑器顶部的“将项目分配给所选对象”按钮。
 
 ![](../../../assets/assign-7.png)
