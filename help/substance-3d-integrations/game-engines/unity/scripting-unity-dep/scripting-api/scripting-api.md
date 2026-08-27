@@ -22,12 +22,12 @@ ht-degree: 1%
 
 ## Unity API - 2.2.0中的Substance
 
-## Substance材料参数
+## 材料参数
 
 | Public方法 | 描述 | 参数 |
 | --- | --- | --- |
-| 公共&#x200B;**浮点** *GetInputFloat*（**字符串**&#x200B;输入名称） | 获取Substance **浮点**&#x200B;输入 | **字符串** *输入名称* SBSAR中的输入名称 |
-| 公共&#x200B;**int** *SetInputFloat*（**字符串** inputName，**float**&#x200B;值） | 更新Substance **浮动**&#x200B;输入 | **String** i *nputName* SBSAR中输入的名称&#x200B;**Float** *值*&#x200B;用于更新参数的值 |
+| 公共&#x200B;**浮点** *GetInputFloat*（**字符串**&#x200B;输入名称） | 获取Substance **Float**&#x200B;输入 | **字符串** *输入名称* SBSAR中的输入名称 |
+| 公共&#x200B;**int** *SetInputFloat*（**字符串** inputName，**float**&#x200B;值） | 更新Substance **Float**&#x200B;输入 | **String** i *nputName* SBSAR中输入的名称&#x200B;**Float** *值*&#x200B;用于更新参数的值 |
 | 公共&#x200B;**void** *SetInputVector2*（**string** inputName， **Vector2**&#x200B;值） | 更新Substance **矢量2**&#x200B;输入 | **字符串** *输入名称* SBSAR中输入的名称&#x200B;**矢量2** *输入*&#x200B;用于更新参数的值 |
 | 公共&#x200B;**矢量2** *GetInputVector2*（**字符串**&#x200B;输入名称） | 获取Substance **矢量2**&#x200B;输入 | **字符串**“inputName”SBSAR中输入的名称 |
 | 公共&#x200B;**void** *SetInputVector3*（**字符串** inputName，**Vector3**&#x200B;值） | 更新Substance **矢量3**&#x200B;输入 | **字符串** *输入名称* SBSAR中输入的名称&#x200B;**矢量3** *值*&#x200B;用于更新参数的值 |

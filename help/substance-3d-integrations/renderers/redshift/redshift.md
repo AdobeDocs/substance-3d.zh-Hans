@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
-description: 在Maya和3ds Max中使用带Redshift渲染器的Substance材质，包括支持金属质感的工作流程。
+description: 在Maya和3ds Max中使用带有Redshift渲染器的材料，包括金属工作流程支持。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Redshift
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Redshift
 
-2.5.43版中的Redshift素材支持金属色工作流程。 要通过Redshift进行渲染，可使用[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)中从Substance Painter或Substance增效工具导出的地图。
+2.5.43版中的Redshift材料支持金属工作流程。 要通过Redshift进行渲染，可使用[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)中从Substance Painter或Substance增效工具导出的地图。
 
 Substance Painter2020.1 (6.1.0)附带了Redshift ([rsMaterial](https://docs.redshift3d.com/display/RSDOCS/Material)) [输出模板](https://docs.substance3d.com/display/SPDOC/Export)以及Redshift 3的旧版输出。
 

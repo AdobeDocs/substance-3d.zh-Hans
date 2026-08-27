@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
-description: 使用此参考资料检查哪个Substance引擎版本与软件兼容，并确保材料兼容性。
+description: 使用此参考资料检查哪个引擎版本与您的软件兼容，并确保材料兼容性。
 helpx_creative_field: ""
 helpx_description: General Knowledge > Ecosystem > Substance engine versioning
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Substance引擎版本控制
+title: 引擎版本控制
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 19%
 ---
 
 
-# Substance引擎版本控制
+# 引擎版本控制
 
-本页将有关每个软件和工具中使用的Substance引擎版本的信息重新分组。
+本页将有关每个软件和工具中使用的引擎版本的信息重新分组。
 
-在Substance软件中创建的Substance材料和模型只能用于支持相同版本的Substance引擎或更新版本的应用程序，否则新功能将不兼容。
+在Substance软件中创建的Substance材料和模型只能在支持相同版本的substance引擎或更新版本的应用程序中使用，否则新功能将不兼容。
 
-本页中的表格有助于了解Substance材料或Substance过程模型是否可用于软件的当前版本。 他们可能并未提及所有已发布的版本，仅提及进行了更新的版本。 因此，如果未提及某个版本，则意味着前一版本即是适用的版本
+本页中的表格有助于了解材料或Substance程序化模型是否可用于软件的当前版本。 他们可能并未提及所有已发布的版本，仅提及进行了更新的版本。 因此，如果未提及某个版本，则意味着前一版本即是适用的版本
 
 <table>
 <tr style="border: 0;">

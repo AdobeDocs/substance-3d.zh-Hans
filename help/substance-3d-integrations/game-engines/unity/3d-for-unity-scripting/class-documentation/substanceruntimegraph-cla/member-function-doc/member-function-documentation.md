@@ -130,7 +130,7 @@ float Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputFloat ( string input
 ```
 
 
-获取Substance浮点输入
+获取Float输入
 
 **参数**
 
@@ -363,7 +363,7 @@ void Adobe.Substance.Runtime.SubstanceRuntimeGraph.LoadPreset ( string presetXML
 ```
 
 
-使用预设XML设置图形输入参数。
+使用预设XML设置输入参数。
 
 **参数**
 

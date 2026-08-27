@@ -31,13 +31,13 @@ ht-degree: 0%
 * 不再出现调试断言错误
 * Substance2节点现在可正确使用iMultipleOutputChannelsWithValues的脚本接口
 * 现在，菜单上的Substance源条目将会打开Substance启动器，如果源选项卡已安装，则会打开该启动器
-* 现在，使用Corona渲染器时，Substance素材应正确更新
+* 现在，在使用Corona渲染器时，应正确更新材料
 * 与VRay Next一起使用时，Substance输出不再临时替换为图像
 * 渲染兼容性对话框已从自动显示中删除。 如果需要，它仍然可以在“设置”对话框中使用
-* 修复了在3ds Max 2021中应用Substance素材时导出fbx时可能存在的问题
+* 修复了在3ds Max 2021中应用Substance材料时导出fbx时可能出现的问题
 
 已知问题：
 
-* 在3ds Max 2018中，导出将Substance素材附加到对象的fbx将在fbxmax.dlu增效工具中崩溃。 我们目前正在与Autodesk联系，以确定我们这一端是否有可执行的操作，或者这是否是旧版fbx集成的限制。 以前的解决方法不可靠，已被删除。 在3ds Max 2019或更高版本中不会发生这种情况。
+* 在3ds Max 2018中，导出带有材料的fbx将崩溃在fbxmax.dlu插件中。 我们目前正在与Autodesk联系，以确定我们这一端是否有可执行的操作，或者这是否是旧版fbx集成的限制。 以前的解决方法不可靠，已被删除。 在3ds Max 2019或更高版本中不会发生这种情况。
 
 此版本针对3ds Max 2018、2019、2020和2021发行。

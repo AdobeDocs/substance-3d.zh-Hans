@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 非实际插件4.22.0.33
 
-此版本与我们的Substance v7引擎兼容
+此版本与我们的substance v7引擎兼容
 
 下载链接：\
 <https://drive.google.com/open?id=11CDsNMfSJfjb86KGdEjFH4k5L2ElrJ4Q>

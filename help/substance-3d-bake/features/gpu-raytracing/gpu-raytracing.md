@@ -103,11 +103,11 @@ ht-degree: 18%
 | 网格中的布局 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | 位置 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | 网格中的厚度 | <div><img alt="（刻度）&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| 已转移网格中的纹理 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 来自网格的转移纹理 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | 世界空间方向 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | 世界空间法线 | <div><img alt="（错误）&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
-\*：支持CPU光线追踪，它比GPU 射线追踪慢得多。
+\*：支持CPU射线追踪，该速度明显低于GPU 射线追踪。
 
 +++

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Maya 2.1.1
 
-修复：卸载substancelink增效工具后不再崩溃
+修复：卸载后，substancelink增效工具不再崩溃

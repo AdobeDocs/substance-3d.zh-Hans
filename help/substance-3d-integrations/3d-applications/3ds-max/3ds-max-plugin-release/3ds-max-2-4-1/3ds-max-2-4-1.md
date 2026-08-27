@@ -32,6 +32,6 @@ ht-degree: 0%
 * substance\_link.dll占用大量CPU周期
 * 导出Substance预设时出现断言错误
 * 在没有预设的情况下创建预设时崩溃
-* 使用Corona渲染器的降噪器崩溃
+* 用于Corona渲染器的降噪器崩溃
 
 此版本针对3ds Max 2019、2020和2021发行

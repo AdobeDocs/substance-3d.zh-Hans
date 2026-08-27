@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
 breadcrumb-title: ''
-description: 用于Unity中Substance材料管理的SubstanceEditorTools类的参考文档。
+description: 用于Unity中材料管理的SubstanceEditorTools类的参考文档。
 helpx_creative_field: ""
 helpx_description: Substance 3D Integrations
 helpx_experience_level: ""
@@ -63,7 +63,7 @@ Adobe.SubstanceEditor.SubstanceEditorTools的继承图：
 ```
 
 
-将图形设置为输入。
+将图形设置为int输入。
 
 ```
 • static void SetGraphInt2Input (SubstanceGraphSO graph, int inputId, Vector2Int value)
@@ -98,14 +98,14 @@ Adobe.SubstanceEditor.SubstanceEditorTools的继承图：
 ```
 
 
-设置图形纹理输入。
+设置纹理输入。
 
 ```
 • static void RenderGraph (SubstanceGraphSO graph)
 ```
 
 
-渲染目标图表并更新其资源。
+渲染目标图形并更新其资源。
 
 ```
 • static string CreatePresetFromCurrentState (SubstanceGraphSO graph)

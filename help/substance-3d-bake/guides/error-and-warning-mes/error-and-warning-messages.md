@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
-description: 有关使用Substance软件生成时可能出现的所有错误和警告消息的参考指南。
+description: 有关使用Substance软件烘焙时可能出现的所有错误和警告消息的参考指南。
 helpx_creative_field: ""
 helpx_description: bakers > Guides > Error and Warning Messages
 helpx_experience_level: ""
@@ -20,21 +20,21 @@ ht-degree: 0%
 
 # 错误和警告消息
 
-下面是使用Substance软件生成时可能出现的所有错误消息的列表。
+下面列出了使用Substance软件烘焙时可能出现的所有错误消息。
 
-## 任何烘焙师
-
-| *消息* | *描述* |
-| --- | --- |
-| 面包机不可用。 | 此错误消息后面通常还会跟其他错误消息，这些错误消息通常与GPU问题相关。 如果GPU太旧且不符合软件的[技术要求](https://www.allegorithmic.com/products/tech-specs)，则可能会发生这种情况。 |
-| UV集[X]不存在。 | 贝克尝试使用给定的UV集，该集在低多边形网格中不存在。 |
-| 无法从URL加载场景。 | 此消息意味着烘焙商无法加载网格文件，通常为高多边形网格。 此消息可能源于以下几个原因：<ul data-preserve-html="true"><li data-preserve-html="true">参照的网格文件不再存在。</li><li data-preserve-html="true">网格文件已损坏或损坏，无法读取。</li><li data-preserve-html="true">网格当前正由其他应用程序编辑，无法读取。</li></ul> |
-
-## UV到SVG烘焙器
+## 任何Baker
 
 | *消息* | *描述* |
 | --- | --- |
-| 找不到网格[网格名称]的UV。 | 未找到与特定网格相关的UV。 如果导入了多个网格但其中只有几个具有UV，则可能会发生这种情况。 |
+| Baker不可用。 | 此错误消息后面通常还会跟其他错误消息，这些错误消息通常与GPU问题相关。 如果GPU太旧且不符合软件的[技术要求](https://www.allegorithmic.com/products/tech-specs)，则可能会发生这种情况。 |
+| UV 集[X]不存在。 | 贝克尝试使用给定的UV集，该集在低多边形网格中不存在。 |
+| 无法从URL加载场景。 | 此消息表示Baker无法加载网格文件，通常是高模网格。 此消息可能源于以下几个原因：<ul data-preserve-html="true"><li data-preserve-html="true">引用的网格文件不再存在。</li><li data-preserve-html="true">网格文件已损坏或损坏，无法读取。</li><li data-preserve-html="true">该网格当前正由其他应用程序编辑，无法读取。</li></ul> |
+
+## UV到SVGBaker
+
+| *消息* | *描述* |
+| --- | --- |
+| 找不到网格[网格名称]的UV。 | 未找到有关特定网格的UV。 如果导入多个网格但其中只有少数具有UV，则可能会发生这种情况。 |
 | 场景没有UV。 正在取消烘焙。 | 如果场景中的网格没有UV，则取消烘焙过程。 |
 
 ## 位置烘焙器

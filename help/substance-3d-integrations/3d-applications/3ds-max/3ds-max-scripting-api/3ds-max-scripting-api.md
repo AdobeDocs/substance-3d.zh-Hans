@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
 breadcrumb-title: ''
-description: 有关Substance3ds Max脚本API的参考文档，用于自动执行素材操作。
+description: 有关Substance3ds Max脚本API的参考文档，用于自动化材料操作。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > 3ds MAX Scripting API
 helpx_experience_level: ""
@@ -32,11 +32,11 @@ ht-degree: 2%
 
 | 命令 | 描述 | Return | 返回类型： | 参数 |
 | --- | --- | --- | --- | --- |
-| getCurrentPackageName | 获取加载包（图形节点中加载的sbsar文件）的基本文件名 | 加载的包（sbsar文件）的文件名（不带前缀目录） | 字符串 |  |
-| getCurrentGraphName | 获取当前图表的名称 | 当前图形实例的标识符 | 字符串 |  |
+| getCurrentPackageName | 获取加载的包（在图形节点中加载的sbsar 文件）的基本文件名 | 加载的包(sbsar 文件)的文件名（不带前缀目录） | 字符串 |  |
+| getCurrentGraphName | 获取当前图形的名称 | 当前图形实例的标识符 | 字符串 |  |
 | getOutputsNamesFromCurrentGraph | 获取启用的输出的输出使用名称列表 | 包含已启用输出的通道名称列表的表 | 列表 |  |
-| getPresetIdentifiers | 从Substance图表中获取预设列表 | 包含所有预设的字符串标识符列表的表 | 列表 |  |
-| setPackageAndGraphNames | 将sbsar文件从磁盘加载到图形节点 | 成功时为True，失败时为False | 布尔型 | ***字符串参数***： **substancePackageFilePath** disk ***String参数上sbsar文件的路径***： **graphInstanceNameToSelect**&#x200B;图形的字符串标识符 |
+| getPresetIdentifiers | 从图形获取预设列表 | 包含所有预设的字符串标识符列表的表 | 列表 |  |
+| setPackageAndGraphNames | 将sbsar 文件从磁盘加载到图形节点 | 成功时为True，失败时为False | 布尔型 | ***字符串参数***： **substancePackageFilePath** disk ***String参数上sbsar文件的路径***： **graphInstanceNameToSelect**&#x200B;图形的字符串标识符 |
 | setInputInt | 使用新值设置整数输入 |  |  | ***整数参数***： **值**&#x200B;将输入设置为&#x200B;***String参数的整数值***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
 | setInputFloat | 使用新值设置浮点输入 |  |  | ***浮点参数***： **值**&#x200B;将输入设置为&#x200B;***String参数的浮点值***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
 | setInputString | 使用新值设置字符串输入 |  |  | ***字符串参数***： **值**&#x200B;将输入设置为&#x200B;***String参数的字符串值***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
@@ -63,4 +63,4 @@ ht-degree: 2%
 | 导入预设 | 将sbsprs文件导入到当前预设中 |  |  | ***String参数：**&#x200B;***filePath**&#x200B;包含导入预设的文件路径的字符串 |
 | ExportPreset&#x200B;**\*已弃用**&#x200B;要在2.5.0\*中移除 | 将当前选定的预设导出到sbsprs文件 |  |  | ***字符串参数***： **filePath**&#x200B;包含要将预设导出到的文件路径的字符串 |
 | 导出预设列表 | 将给定预设导出为单个预设文件 |  |  | ***字符串参数***： **filePath**&#x200B;包含将预设导出到&#x200B;***List参数的文件路径的字符串***： **预设**&#x200B;包含要导出的预设名称的列表 |
-| BakeOutputsOfSelectedGraph | 将所选图形实例的位图烘焙到磁盘 |  |  | ***String参数：* filePath &#x200B;** 将图像写入的根路径目录&#x200B;***String参数&#x200B;***： **imageFormatExtension**&#x200B;将图像写入的文件扩展名/格式 |
+| BakeOutputsOfSelectedGraph | 将选定图形实例的位图烘焙到磁盘 |  |  | ***String参数：* filePath &#x200B;** 将图像写入的根路径目录&#x200B;***String参数&#x200B;***： **imageFormatExtension**&#x200B;将图像写入的文件扩展名/格式 |

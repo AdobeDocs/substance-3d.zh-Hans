@@ -25,9 +25,9 @@ ht-degree: 0%
 已修复：
 
 * 更改Specular映射的打包时崩溃
-* 在标准3d项目中，Specular映射在Alpha通道中不是打包Smoothness
-* 删除“库”文件夹后，重新启动HDRP/HRP项目时崩溃
-* 重复的材质缺少分配的着色器和材质属性
+* Specular映射在标准3d项目中的Alpha 通道中不是打包Smoothness
+* 删除“资源库”文件夹后重新启动HDRP/HRP项目时崩溃
+* 重复的材料缺少分配的着色器和材料属性
 * 场景和预设文件中的行尾字符更改。
 
 已知问题：

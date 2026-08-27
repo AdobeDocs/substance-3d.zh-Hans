@@ -22,8 +22,8 @@ ht-degree: 0%
 
 ## 错误修复/更新：
 
-* 使用HDRP时，生成的HDRP素材上的金属值设置为0。 已将其修复为默认值1.0。
+* 使用HDRP时，所生成的HDRP材料上的金属值设置为0。 已将其修复为默认值1.0。
 * HDRP蒙版输出设置为sRGB — 固定为禁用的sRGB
-* 非Substance纹理上不再启用读/写
+* 非Substance纹理上不再启用读取/写入
 * Android现在可正常支持64位。
 * 修复了Mac操作系统上无法加载Substance Source的问题

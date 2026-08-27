@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
-description: 通过“Substance属性”面板在MODO中修改Substance材质参数以自定义材质。
+description: 通过“材料”面板修改MODO中的Substance属性参数以自定义材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Parameters
 helpx_experience_level: ""
@@ -32,12 +32,12 @@ Substance具有一组核心参数，可以在“Substance属性”面板的“Su
 * **重新加载Substance：**&#x200B;此参数允许您重新加载Substance。 它旨在与Substance Designer配合使用。 如果您正在处理自定义Substance并添加了新的调整或输出，则可以将新发布的Substance重新加载回MODO。 将添加新的微调和输出，并保留以前的微调设置。
 * **着色模式：**&#x200B;此参数允许您设置用于Substance的着色模式。 Principled（默认）、Unreal、Unity或glTF。
 * **重置Substance：**&#x200B;此参数会将微调重置为默认设置。
-* **选择图形：**&#x200B;允许您选择Substance文件中的哪个图形来创建材质。
+* **选择图形：**&#x200B;允许您选择Substance文件中的哪个图形来创建材料。
 * **加载预设：**&#x200B;您可以加载一个预设，这将配置Substance微调参数。 可以使用Substance Player创建预设。 预设文件是.sbsprs文件类型。 加载预设后，您需要单击“预设”下拉菜单并选择预设，因为.sbspr可以包含多个预设。
 * **保存预设：**&#x200B;允许您保存预设
 * **选择预设：**&#x200B;允许您选择Substance文件中的嵌入预设或从MODO中存储的预设中进行选择。
-* **烘焙到磁盘：**&#x200B;此参数会将由Substance生成的纹理烘焙到位图文件。
-* **输出大小：**&#x200B;此参数会将纹理动态调整为所设置的大小。 Substance 引擎会将纹理重新生成到所需大小。
+* **烘焙到磁盘：**&#x200B;此参数将Substance生成的纹理烘焙为位图文件。
+* **输出大小：**&#x200B;此参数会将纹理动态调整到所设置的大小。 Substance 引擎会将纹理重新生成到所需大小。
 * **随机植入：**&#x200B;此参数将改变Substance的程序生成。 此参数非常适合创建同一Substance的随机版本。 它允许您快速改变Substance参数以生成新版本的纹理
 
 ## 输出

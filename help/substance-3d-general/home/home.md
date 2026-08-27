@@ -29,10 +29,10 @@ ht-degree: 1%
 * [常规系统要求](../ecosystem/system-requirements/general-system-requirements.md) — 此页面将Substance 3D产品/服务的系统要求重新分组https://www.adobe.com/products/substance3d/3d-augmented-reality.html。
 * [导入和导出格式](../ecosystem/import-and-export-formats/import-and-export-formats.md) — 此页面概述了每个应用程序在导入和导出时支持的文件格式。
 * [旧版本](../ecosystem/legacy-versions/legacy-versions.md) — 旧版本与Substance 3D应用程序兼容，在过渡到“Adobe帐户激活”之前，旧版本与现有的旧版许可证密钥文件激活系统兼容。 这些版本与通过Adobe帐户或Steam帐户购买的许可证不兼容。
-* [Substance引擎版本控制](../ecosystem/engine-versioning/substance-engine-versioning.md) — 此页面将有关每个软件和工具中使用的Substance引擎版本的信息重新分组。
+* [引擎版本控制](../ecosystem/engine-versioning/substance-engine-versioning.md) — 此页面将有关每个软件和工具中使用的Substance引擎版本的信息重新分组。
 
 ### Adobe 标准材质
 
-* [ASM规范](../adobe-standard-material/asm-specifications/asm-specifications.md) — 此页面将Adobe标准素材(ASM)模型的规范重新分组。
-* [ASM技术文档](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md) — 此页面将重新组合有关Adobe标准素材的技术信息。
+* [ASM规范](../adobe-standard-material/asm-specifications/asm-specifications.md) — 此页重新分组Adobe Standard Material(ASM)模型的规范。
+* [ASM技术文档](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md) — 此页将有关Adobe Standard Material的技术信息重新分组。
 

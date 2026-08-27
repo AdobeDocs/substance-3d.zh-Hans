@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
-description: 在Cinema 4D中使用SubstanceAsset Manager添加、删除和整理场景中的Substance素材。
+description: 在Cinema 4D中使用SubstanceAsset Manager添加、删除和整理场景中的Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D > Substance Asset Manager
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance资产管理器
 
-“Substance资源管理器”窗口将列出场景中加载的所有Substance。 您可以在此处添加、删除和重新组织Substance。
+“Substance资产管理器”窗口将列出场景中加载的所有Substance。 您可以在此处添加、删除和重新组织Substance。
 
 选择（左击）Substance资源管理器中的Substance可在Cinema 4D的属性管理器中打开Substance。 您可以在此处更改参数和关键帧Substance输入，就像Cinema 4D中的任何其他参数一样。
 
@@ -52,11 +52,11 @@ ht-degree: 0%
 
 ## 从所选材料中选择
 
-选择当前&#x200B;*选定的*&#x200B;素材引用的所有Substance。
+选择当前&#x200B;*选定的* Substance引用的所有材料。
 
 ## 从标记的材料中选择
 
-选择当前&#x200B;*已标记*&#x200B;材质引用的所有Substance。 在Cinema 4D中，如果选择了使用此素材的对象或标签，则标记该素材。
+选择当前&#x200B;*已标记* Substance引用的所有材料。 在Cinema 4D中，如果选择了使用此材料的对象或标签，则标记该材料。
 
 ## 选择材料
 

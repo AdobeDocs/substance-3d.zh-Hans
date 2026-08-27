@@ -26,6 +26,6 @@ ht-degree: 0%
 
 * 现在应显示sbsar文件，并且可以在文件路径编辑器中对其进行设置
 * 共享项目时，文件路径应由Maya亲属设置
-* 现在，从Substance启动器发送到将把sbsar文件复制到项目目录中
+* 现在，从Substance启动器发送到的内容会将sbsar 文件复制到项目目录中
 
 此版本在Linux、MacOS和Windows上为Maya 2017、2018、2019和2020发布，在MacOS和Windows上为Maya LT 2018、2019和2020发布

@@ -29,16 +29,16 @@ ht-degree: 0%
 此版本目前针对3ds Max 2018、2019、2020和2021发行。
 
 * 现在，“加载sbsar”会首先查找项目图像文件夹
-* 渲染器兼容性对话框现在仅针对VRay RT和VUE文件渲染器显示
-* 拖放禁用“石板材质编辑器”，以删除“最大批量”问题
+* 现在仅针对VRay RT和VUE文件渲染器显示渲染器兼容性对话框
+* 拖放已禁用的Slate材料编辑器，以删除Max批处理问题
 * 渲染对话框不再显示在3ds Max静默模式下
 * 较小的Python脚本现在与Python 3兼容
 * 增加了对Substance启动器将Substance Source资源发送到3ds Max的支持。 这将需要更改启动器，但添加该功能时，将会提供插件支持。
 * 现在，Redshift渲染器脚本使用Redshift 2.6.24中设置的新节点名称
-* 为Substance2 SubstanceFilePath分配空路径时，Max不再崩溃
+* 为Substance2 SubstanceFilePath分配空崩溃时，最大路径不再为
 * 删除SubstanceOutput类型与旧插件的名称冲突
 * 将SubstanceOutput类重命名为Substance2Output
 * 将Substance菜单管理器类重命名为Substance2MenuManager
-* 现在，在打开场景时会强制清除参数块ID，从而消除场景文件之间的冲突。 这应该可以修复场景之间切换时加载时参数块无效的问题。 导入可能仍存在问题，因为这需要进行更复杂的更改
+* 现在，打开场景时会强制清除参数块ID，从而删除场景文件之间的冲突。 这应该可以修复在场景之间切换时加载时参数块无效的问题。 导入可能仍存在问题，因为这需要进行更复杂的更改
 * 现在，增效工具安装在3ds Max之外。 所有路径都已更改为相对于载荷位置。
 * 该插件现在使用Autodesk应用程序插件系统。

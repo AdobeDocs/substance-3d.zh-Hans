@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
-description: 使用Substance Painter和适当的输出模板设置为V-Ray Next渲染器导出工作流程纹理。
+description: 使用输出模板和适当的Substance Painter设置导出V-Ray下一个渲染器工作流程纹理。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Vray > Vray Next - Substance Painter
 helpx_experience_level: ""
@@ -28,20 +28,20 @@ Substance Painter2020.1 (6.1.0)随附[VrayMtl](https://docs.chaosgroup.com/displ
 
 >[!NOTE]
 >
-> 您的项目是否设置为使用[UV磁贴UDIM旧版](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用Vray Next UDIM输出模板。
+> 您的项目是否设置为使用[UDIM旧版](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用“查看下一个UDIM”输出模板。
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 
-要导出纹理以便在“Vray下一步”中渲染，请选择“Vray Mtl”输出模板。
+要导出纹理以便在Vray Next中渲染，请选择Vray Mtl输出模板。
 
 ![](../../../assets/template-project.jpg){width="800px"}
 
-## 变材质（变材质 — 下一个 — 金属/粗糙度）
+## Vray材料(Vray Next -金属/粗糙度)
 
 | Substance Painter导出 | VRayMtl |
 | --- | --- |
 | 底色 | (**Maya**)漫射颜色（数量= 1.0） （**3ds最大值**）漫射 |
-| 粗糙度 | (**Maya**)反射/粗糙度(BRDF = GGX) +（启用使用粗糙度）（**3ds最大**）粗糙度→ BRDF/使用GGX并启用使用粗糙度 |
+| 粗糙度 | (**Maya**)反射/粗糙度(BRDF = GGX) + （使用粗糙度已启用）(**3ds Max**)粗糙度→ BRDF/使用GGX并启用使用粗糙度 |
 | 金属 | (**Maya**)反射/金属性（**3ds最大值**）金属性 |
 | 法线 | (**Maya**)凹凸和法线映射/映射（映射类型=正切空间中的法线）(**3ds** **Max**)位图→法线 |
 | 高度 | (**Maya**)位移着色器/位移(**3ds** **Max**)对象修饰符→VrayDisplacementMod → Tex映射 |

@@ -74,4 +74,4 @@ Substance增效工具支持Unreal、Unity和glTF自定义素材。 在加载sbsa
 
 ![](../../../assets/gltf.png){width="600px"}
 
-您可能需要反转正常值。 如果Substance具有法向方向控件，则可以从“调整”菜单执行此操作。 如果没有，可以对纹理本身执行此操作。 有关详细信息，请参阅“**[使用法线](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**”页面。
+您可能需要反转正常值。 如果Substance具有法向方向控件，则可以从“调整”菜单执行此操作。 如果不是，则可以对纹理本身执行此操作。 有关详细信息，请参阅“**[使用法线](../../../3d-applications/modo/working-with-normals/working-with-normals.md)**”页面。

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
-description: 了解如何使用Substance增效工具和标准表面素材，在Maya中将Substance素材与Arnold渲染器配合使用。
+description: 了解如何在Maya中使用材料和Arnold渲染器，同时使用Substance增效工具和标准表面材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Arnold > Arnold - Substance in Maya
 helpx_experience_level: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Maya增效工具中的Substance
 
-您可以使用Arnold[渲染工作流](../../../3d-applications/maya/using-workflows/using-workflows.md)自动创建着色器网络。
+您可以使用Arnold[渲染工作流程](../../../3d-applications/maya/using-workflows/using-workflows.md)自动创建着色器网络。
 
 ![](../../../assets/render-workflow.png)

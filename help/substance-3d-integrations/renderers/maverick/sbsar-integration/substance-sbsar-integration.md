@@ -55,7 +55,7 @@ ht-degree: 0%
 
    “C:\Users\User\Documents\RandomControl\library\Shading\My地图”。
 
-   然后，只需将它们放在对象上，以便Maverick可以创建相应的包装材料。
+   然后，只需将它们放在对象上，以便Maverick可以创建相应的包装器材料。
 
    可在Maverick中看到有关SBSAR的介绍视频： <https://youtu.be/HosZOoMRfcM>
 

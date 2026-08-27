@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # 快捷键和导航
 
-可以在“加载项首选项”底部找到快捷键列表。 通过在“键”字段中输入所需的键，可自定义每个快捷键的键绑定。 也可以为每个快捷键启用Ctrl、Shift和Alt键。
+可以在“加载项首选项”底部找到快捷键列表。 通过在“键”字段中输入所需的键，可以自定义每个快捷键的键绑定。 也可以为每个快捷键启用Ctrl、Shift和Alt键。
 
 默认键绑定为：
 
 * **浮动菜单** - CTRL + SHIFT + U
 * **加载SBSAR** - CTRL + SHIFT + L
-* **应用当前材质** - CTRL + SHIFT + U
+* **应用当前材料** - CTRL + SHIFT + U
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/blender-shortcuts?$png$&jpegSize=200&wid=960)

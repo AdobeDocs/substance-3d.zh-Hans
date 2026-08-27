@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo.html"
 breadcrumb-title: ''
-description: 安装并使用用于MODO的Substance增效工具在3D项目中导入和使用Substance素材。
+description: 安装并使用用于MODO的Substance增效工具在3D项目中导入和使用Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO
 helpx_experience_level: ""
