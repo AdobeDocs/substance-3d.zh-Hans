@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
->> 
+&#x200B;>> 
 
 （来源： [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)）
 
@@ -60,7 +60,7 @@ Substance软件生成纹理，并且可以使用与网格几何相关的信息�
 * **弯曲**（几何形状的边和腔）
 * **位置**（规范化多维数据集内几何的相对位置）
 
-有关详细信息，请参阅每个Baker](../../bakers-settings/bakers-settings.md)的[文档。
+有关详细信息，请参阅每个Baker[&#128279;](../../bakers-settings/bakers-settings.md)的文档。
 
 ## “常规”和“来自网格”Baker之间的区别
 
