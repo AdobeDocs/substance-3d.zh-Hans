@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/redshift/redshift-for-maya.html"
 breadcrumb-title: ''
 description: 通过导出的地图或Substance增效工具，在Maya中使用Redshift渲染器和Substance材料。
 helpx_creative_field: ""

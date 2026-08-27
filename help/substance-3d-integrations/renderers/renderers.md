@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: 在3D材料中将主要渲染器（例如Arnold、V-Ray、Redshift等）与Substance工作流程结合使用。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 例如，对于Arnold或Vray Next，您可以直接使用金属/粗糙度输出。 但是，使用Renderman的pxrSurface时，基色/金属输出需要转换为漫射和Specular脸部。 如果支持渲染器，Substance集成增效工具将自动处理这些转换。
 
-使用Substance Painter，您可以选择一个[输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)，它将创建给定渲染器所需的适当映射类型。 如果默认情况下不支持渲染器，您还可以创建自定义输出模板。
+使用Substance Painter，您可以选择一个[输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)，它将创建给定渲染器所需的适当映射类型。 如果默认情况下不支持渲染器，您还可以创建自定义输出模板。
 
 **输出模板**
 

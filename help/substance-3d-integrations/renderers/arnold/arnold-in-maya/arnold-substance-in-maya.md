@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
 description: 了解如何在Maya中使用材料和Arnold渲染器，同时使用Substance增效工具和标准表面材料。
 helpx_creative_field: ""

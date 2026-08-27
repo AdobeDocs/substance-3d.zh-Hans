@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
 breadcrumb-title: ''
 description: 通过导出的地图或Substance增效工具，在Maya中将麦克斯韦渲染器用于Substance素材。
 helpx_creative_field: ""

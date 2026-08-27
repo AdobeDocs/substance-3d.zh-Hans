@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: 通过调整填充、消除锯齿和UV布局，消除烘焙的正常纹理中的可见接缝。
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * 通常UV不会与像素对齐，这会导致锯齿并生成接缝。 有关详细信息，请参阅[此页面](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)。
 >   * 提高纹理分辨率可能会降低这种效果。
 >   * 将UV边框与像素对齐是减少这种效果的另一种方法。
-> * 增加着色器&#x200B;**质量**&#x200B;设置。 着色器质量会影响Specular反射的计算方式。 如果某些UV 岛被旋转，并且该参数太低，则可能产生可见的接缝。 有关详细信息，请参阅[此页面](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html)。
+> * 增加着色器&#x200B;**质量**&#x200B;设置。 着色器质量会影响Specular反射的计算方式。 如果某些UV 岛被旋转，并且该参数太低，则可能产生可见的接缝。 有关详细信息，请参阅[此页面](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html)。

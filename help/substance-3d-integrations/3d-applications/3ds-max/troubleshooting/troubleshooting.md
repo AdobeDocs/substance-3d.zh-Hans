@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
 breadcrumb-title: ''
 description: 使用脚本侦听器诊断并解决3ds Max中的Substance增效工具问题，以获取错误消息。
 helpx_creative_field: ""

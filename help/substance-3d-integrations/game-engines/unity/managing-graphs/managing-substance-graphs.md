@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
 breadcrumb-title: ''
 description: 了解如何在Unity项目中导入、整理和管理图形，以实现高效工作流程。
 helpx_creative_field: ""

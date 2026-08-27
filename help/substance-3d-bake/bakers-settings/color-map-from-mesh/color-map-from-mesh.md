@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: 将颜色属性从高多边形网格投射到纹理中，以便为选区蒙版烘焙多边形颜料或材质ID。
 helpx_creative_field: ""

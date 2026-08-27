@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
 breadcrumb-title: ''
 description: 使用“曲线编辑器”在3ds Max中使用材料参数随时间的推移制作动画以获得动态效果。
 helpx_creative_field: ""

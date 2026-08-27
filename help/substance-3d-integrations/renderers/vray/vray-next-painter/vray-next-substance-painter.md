@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: 使用输出模板和适当的Substance Painter设置导出V-Ray下一个渲染器工作流程纹理。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Substance Painter2020.1 (6.1.0)随附[VrayMtl](https://docs.chaosgroup.com/displ
 
 >[!NOTE]
 >
-> 您的项目是否设置为使用[UDIM旧版](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用“查看下一个UDIM”输出模板。
+> 您的项目是否设置为使用[UDIM旧版](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用“查看下一个UDIM”输出模板。
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

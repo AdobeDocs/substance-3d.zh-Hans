@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
 description: 安装并使用用于Cinema 4D的Substance增效工具导入并使用项目中的Substance素材。
 helpx_creative_field: ""

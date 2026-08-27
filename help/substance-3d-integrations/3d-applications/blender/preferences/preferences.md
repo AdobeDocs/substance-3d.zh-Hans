@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: 在Blender中配置Substance 3D加载项偏好设置，以自定义增效工具行为和设置。
 helpx_creative_field: ""

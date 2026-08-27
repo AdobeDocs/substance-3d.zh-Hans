@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/cn/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: 使用“按名称匹配”功能可隔离低多边形和高多边形网格，并防止在烘焙过程中出现几何出血。
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ ht-degree: 0%
 默认后缀为\_low和\_high，可通过以下方式进行更改：
 
 * **Substance Painter**：在[烘焙窗口](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)中，在公共参数内。
-* **Substance Designer**：在[项目设置](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)中的烘焙设置下。
+* **Substance Designer**：在[项目设置](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/workspace/preferences/project-settings)中的烘焙设置下。
 
 ## zBrush中的高多边形网格
 

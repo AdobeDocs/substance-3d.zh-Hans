@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++什么是OpenPBR？Painter支持哪个版本？
 
-OpenPBR是由Academy Software Foundation托管的开放材料规范，定义了一个标准着色模型，旨在跨应用程序一致地工作。 [Painter的文档提供了有关使用OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)的更多信息。
+OpenPBR是由Academy Software Foundation托管的开放材料规范，定义了一个标准着色模型，旨在跨应用程序一致地工作。 [Painter的文档提供了有关使用OpenPBR](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/home)的更多信息。
 
 +++
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-assets-library-usage-ue5.html"
 breadcrumb-title: ''
 description: 从“资源”库和“虚构Substance5”项目中的社区资源访问高质量的引擎材料。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance 3D Assets库使用情况 — UE5
 
-在[Substance 3D Assets Library](https://helpx.adobe.com/substance-3d/unlisted/assets.html)上访问超过1000种具备预设功能的高质量可调整和可用于导出的4K素材。 您可以在[社区资源库](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)中浏览社区贡献的资源。
+在[Substance 3D Assets Library](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)上访问超过1000种具备预设功能的高质量可调整和可用于导出的4K素材。 您可以在[社区资源库](https://helpx.adobe.com/cn/substance-3d/unlisted/community-assets.html)中浏览社区贡献的资源。
 
 可从资源库下载材料并在UE5中使用它们。
 

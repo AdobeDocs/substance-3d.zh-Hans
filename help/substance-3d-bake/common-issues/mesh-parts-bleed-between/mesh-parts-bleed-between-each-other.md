@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: 通过使用“按名称匹配”或调整距离来防止网格部分在烘焙过程中相互渗透。
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > 有几种解决方案可避免此问题：
 > 
 > * 使用[按名称匹配](../../features/matching-by-name/matching-by-name.md)功能隔离网格
-> * 使用[笼子](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)限制光线距离。
+> * 使用[笼子](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)限制光线距离。
 > * 将常用烘焙器设置中的默认光线距离更改为较低的值。

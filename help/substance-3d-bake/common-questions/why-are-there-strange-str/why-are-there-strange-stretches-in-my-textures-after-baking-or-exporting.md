@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-questions/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.html"
 breadcrumb-title: ''
 description: 识别并修复由于UV映射或网格问题而导致的烘焙纹理中的奇怪拉伸。
 helpx_creative_field: ""
@@ -30,4 +30,4 @@ ht-degree: 0%
 >
 > **解决方案**
 > 
-> Substance Bakers在UV 岛之外应用漫射和膨胀来填补空白，并确保在生成mipmap时纹理能够在游戏引擎中正常工作。 要了解有关此内容的更多信息，请参阅： [填充](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。
+> Substance Bakers在UV 岛之外应用漫射和膨胀来填补空白，并确保在生成mipmap时纹理能够在游戏引擎中正常工作。 要了解有关此内容的更多信息，请参阅： [填充](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)。
