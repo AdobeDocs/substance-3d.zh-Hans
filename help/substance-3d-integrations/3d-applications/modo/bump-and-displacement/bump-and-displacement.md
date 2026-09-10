@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
 description: 使用MODO中材料的凹凸和位移贴图将表面细节和深度添加到模型中。
 helpx_creative_field: ""

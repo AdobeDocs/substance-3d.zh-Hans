@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
 breadcrumb-title: ''
 description: 通过材料插件集成，将Substance 3DSubstance与Blender的Cycles和Eevee渲染器配合使用。
 helpx_creative_field: ""

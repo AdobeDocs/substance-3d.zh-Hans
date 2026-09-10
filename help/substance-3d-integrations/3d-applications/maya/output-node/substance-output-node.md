@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: 了解Maya中的Substance输出节点如何将计算纹理连接到着色器网络。
 helpx_creative_field: ""

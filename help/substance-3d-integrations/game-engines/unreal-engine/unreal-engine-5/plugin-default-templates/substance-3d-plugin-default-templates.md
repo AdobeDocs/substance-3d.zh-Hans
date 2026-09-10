@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
 breadcrumb-title: ''
 description: 了解Substance 3D增效工具为Unreal Template 5材料提供的默认引擎模板。
 helpx_creative_field: ""

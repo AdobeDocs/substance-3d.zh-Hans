@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
 breadcrumb-title: ''
 description: 在Maya中启用和禁用材料输出，以控制计算和使用哪些纹理。
 helpx_creative_field: ""

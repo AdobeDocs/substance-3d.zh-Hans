@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-substance-material-parameters.html"
 breadcrumb-title: ''
 description: 使用BlueprintSubstance进行动态材料控制，在运行时在不真实引擎4中更改材料参数。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 更改浮点参数：
 
-您将使用[设置输入Float节点](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)来更改float、color(float4)和布尔值substance参数。
+您将使用[设置输入Float节点](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)来更改float、color(float4)和布尔值substance参数。
 
 1. 创建类型为“Substance 图形实例”的变量作为引用。
 1. 创建一个“设置输入Float节点”，并将目标设置为“Substance 图形实例”变量。

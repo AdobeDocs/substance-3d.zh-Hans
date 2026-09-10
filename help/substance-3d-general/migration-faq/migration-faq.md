@@ -18,24 +18,24 @@ ht-degree: 0%
 
 Experience League上现在提供以下产品和主题的文档：
 
-[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
-[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/home)
-[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/home)
-[使用烘焙](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)
-[Substance 3D一般知识](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/home)
-[生态系统和集成](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)
+[Substance 3D Painter](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/home)
+[Substance 3D Designer](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/home)
+[Substance 3D Sampler](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-sampler/using/home)
+[使用烘焙](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/bakers/home)
+[Substance 3D一般知识](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/general-knowledge/home)
+[生态系统和集成](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/ecosystem/home)
 
 +++
 
 +++ 我在哪里可以找到新文档？
 
 内容正在从HelpX移动到Experience League。 您可以在以下链接中找到有关Experience League的以下产品和主题的文档：
-[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
-[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/home)
-[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/home)
-[使用烘焙](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)
-[Substance 3D一般知识](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/home)
-[生态系统和集成](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)
+[Substance 3D Painter](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/home)
+[Substance 3D Designer](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/home)
+[Substance 3D Sampler](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-sampler/using/home)
+[使用烘焙](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/bakers/home)
+[Substance 3D一般知识](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/general-knowledge/home)
+[生态系统和集成](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/ecosystem/home)
 
 +++
 

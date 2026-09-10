@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: 在3ds Max中使用V-Ray Next材料，通过导出的地图或Substance增效工具进行渲染。
 helpx_creative_field: ""

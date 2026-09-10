@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: 根据网格的UV在法线图之间转移纹理，包括支持UV转换。
 helpx_creative_field: ""

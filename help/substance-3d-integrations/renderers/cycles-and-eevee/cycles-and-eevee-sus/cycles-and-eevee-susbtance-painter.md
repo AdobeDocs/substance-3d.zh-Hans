@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
 description: 使用正确的输出设置导出混合器循环和Eevee渲染器的纹理。
 helpx_creative_field: ""

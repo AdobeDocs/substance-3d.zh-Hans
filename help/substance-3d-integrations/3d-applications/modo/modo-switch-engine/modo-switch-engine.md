@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
 breadcrumb-title: ''
 description: 在MODO中切换CPU和GPU引擎，以根据硬件优化性能。
 helpx_creative_field: ""

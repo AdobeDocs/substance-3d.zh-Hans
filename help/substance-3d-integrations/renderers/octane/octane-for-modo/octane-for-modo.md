@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-modo.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/octane/octane-for-modo.html"
 breadcrumb-title: ''
 description: 通过实时数据库材料和正确的输出配置，在MODO中使用带有辛烷值渲染器的Substance材料。
 helpx_creative_field: ""

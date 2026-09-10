@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/houdini.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
 description: 通过导出的Substance映射使用Houdini中的纹理材料进行程序化的工作流程和渲染。
 helpx_creative_field: ""

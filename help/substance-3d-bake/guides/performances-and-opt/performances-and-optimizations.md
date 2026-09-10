@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: 了解如何优化硬件设置和网格准备以实现更快的烘焙性能。
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Baker可以使用超采样执行消除锯齿操作。 超取样意味着Baker将
 * 使用Baker烘焙密集网格时
 * 使用具有非常密集的高多边形（超过6,000万个三角形）的DXR加速Baker时
 
-有关TDR的其他信息，以及有关如何修改其关联设置的分步指南，请参阅此处： [带有长计算的GPU驱动程序崩溃(TDR崩溃)](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+有关TDR的其他信息，以及有关如何修改其关联设置的分步指南，请参阅此处： [带有长计算的GPU驱动程序崩溃(TDR崩溃)](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

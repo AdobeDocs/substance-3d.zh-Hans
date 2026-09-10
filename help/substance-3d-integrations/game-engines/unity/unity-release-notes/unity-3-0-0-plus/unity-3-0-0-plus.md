@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: 查看Unity增效工具版本3.0.0及更高版本的发行说明，了解新增功能和改进。
 helpx_creative_field: ""
@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * 解决了增效工具C++代码中的内存泄漏问题，从而确保在处理对象时完全恢复内存。
 * 修复了Linux上导入Unity增效工具包时会导致“SubstanceException：为API提供的参数无效”错误的问题，现在可以成功导入SBSAR文件。
-* 解决了SubstanceGraphSO.CurrentStatePreset在Unity中加载具有自定义编辑器窗口脚本的预设时无法正常工作的问题；我们的Substance文档(HelpX)页面上现在提供了一个更正脚本： https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* 解决了SubstanceGraphSO.CurrentStatePreset在Unity中加载具有自定义编辑器窗口脚本的预设时无法正常工作的问题；我们的Substance文档(HelpX)页面上现在提供了一个更正脚本： https://experienceleague.adobe.com/zh-hans/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * 修复了在Unity编辑器中重新选择时图形属性消失的错误。
 * 解决了Unity增效工具中与SubstanceGraphSO相关的“引用的未知托管类型”问题，从而改进了Android平台（特别是Unity 2022.1）上的兼容性和功能，并且可能在所有Unity版本上实现此目的。
 * 修复了“技术参数”部分中的“正常格式”选项未正确显示为数字输入字段，而不是显示为包含DirectX和OpenGL选项的预期下拉列表的问题。

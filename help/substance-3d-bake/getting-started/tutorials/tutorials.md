@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/tutorials.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/getting-started/tutorials.html"
 breadcrumb-title: ''
 description: 访问教程和学习资源以掌握Substance Bakers并改进烘焙工作流程。
 helpx_creative_field: ""

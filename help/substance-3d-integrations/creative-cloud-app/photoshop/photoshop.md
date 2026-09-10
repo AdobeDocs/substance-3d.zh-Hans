@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications/photoshop.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/creative-cloud-applications/photoshop.html"
 breadcrumb-title: ''
 description: 直接在Photoshop中使用Substance材料创建逼真的纹理，并通过3D材料增强您的2D图稿。
 helpx_creative_field: ""

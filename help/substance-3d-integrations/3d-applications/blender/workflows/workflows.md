@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: 了解如何将材料与混合器的循环和Eevee渲染器一起用于不同的工作流程。
 helpx_creative_field: ""

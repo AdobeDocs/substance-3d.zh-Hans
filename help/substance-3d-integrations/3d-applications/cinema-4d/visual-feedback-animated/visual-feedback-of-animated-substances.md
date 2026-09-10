@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
 breadcrumb-title: ''
 description: 在Cinema 4D中启用动画预览，以查看视口中动画Substance材料的视觉反馈。
 helpx_creative_field: ""

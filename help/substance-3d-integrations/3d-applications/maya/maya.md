@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
 description: 安装并使用适用于Maya的Substance增效工具以导入Substance材料并将其集成到您的工作流程中。
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ ht-degree: 3%
 * [Arnold支持](../../3d-applications/maya/arnold-support/arnold-support.md)
 * [将工作流应用于地图](../../3d-applications/maya/apply-workflow-to-maps/apply-workflow-to-maps.md)
 * [Maya脚本](../../3d-applications/maya/maya-scripting/maya-scripting.md)
-* [玛雅物理尺寸](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/232292481.html)
+* [玛雅物理尺寸](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/232292481.html)

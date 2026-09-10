@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/metal-material-references.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
 description: 使用准确的颜色值和数据表利用Adobe Standard Material模型模拟现实世界的金属材料。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: 使用“工具包2”中的Substance粗糙度和金属质感输出进行实时素材预览和渲染。
 helpx_creative_field: ""

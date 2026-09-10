@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: 计算网格的几何位置并将其保存到纹理中，以创建基于体积的效果和渐变蒙版。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications.html"
 breadcrumb-title: ''
 description: 了解如何在主要的DCC应用程序（如Maya、3ds Max、Blender等）中导入和使用Substance文件。
 helpx_creative_field: ""

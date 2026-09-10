@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: 了解如何访问和使用Substance 3D Designer中的烘焙窗口，将模型信息烘焙纹理。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-可以通过[资源管理器](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)窗口中的网格文件访问烘焙窗口。 右键单击网格名称并选择“**烘焙模型信息**”以打开烘焙窗口。
+可以通过[资源管理器](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html)窗口中的网格文件访问烘焙窗口。 右键单击网格名称并选择“**烘焙模型信息**”以打开烘焙窗口。
 
 ## 概述
 

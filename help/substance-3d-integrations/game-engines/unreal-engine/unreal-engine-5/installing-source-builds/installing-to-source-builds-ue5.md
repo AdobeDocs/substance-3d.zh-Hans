@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-to-source-builds-ue5.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-to-source-builds-ue5.html"
 breadcrumb-title: ''
 description: 将Substance 3D插件安装到Unreal引擎5源内部版本以进行自定义引擎修改。
 helpx_creative_field: ""

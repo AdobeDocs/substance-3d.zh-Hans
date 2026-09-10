@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
 breadcrumb-title: ''
 description: 在Unity中将图像纹理用作Substance材料的输入参数，以增强材料自定义。
 helpx_creative_field: ""

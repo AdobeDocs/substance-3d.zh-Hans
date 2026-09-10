@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
 description: 有关使用Substance软件烘焙时可能出现的所有错误和警告消息的参考指南。
 helpx_creative_field: ""

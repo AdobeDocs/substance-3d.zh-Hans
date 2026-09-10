@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
 description: 使用正确的输出模板和Substance Painter设置导出Maxwell渲染器的材料纹理。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maxwell -Substance Painter
 
-Substance Painter2020.1 (6.1.0)支持金属/粗糙度和Specular/光泽度的Maxwell [输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)。 只需使用Maxwell**即可导出。\
+Substance Painter2020.1 (6.1.0)支持金属/粗糙度和Specular/光泽度的Maxwell [输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/export)。 只需使用Maxwell**即可导出。\
 Maxwell 5.1.0**与Substance Painter集成，可轻松导入纹理并自动设置Maxwell材料。
 
 ## 导出纹理

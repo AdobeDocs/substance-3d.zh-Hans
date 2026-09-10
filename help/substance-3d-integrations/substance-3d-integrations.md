@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations.html"
 breadcrumb-title: ''
 description: 了解材料如何通过增效工具和本机支持与游戏引擎、DCC应用程序和渲染器集成。
 helpx_creative_field: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 生态系统和插件
 
-所有主要游戏和数字内容创建(DCC)工具都支持[材料sbsar格式](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)。 该格式从Designer发布为。sbsar 文件。 此sbsar 文件可以通过Substance增效工具或本机集成加载到支持Substance材料的DCC应用程序和游戏引擎中。
+所有主要游戏和数字内容创建(DCC)工具都支持[材料sbsar格式](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/getting-started/overview/what-is-a-substance-3d-file)。 该格式从Designer发布为。sbsar 文件。 此sbsar 文件可以通过Substance增效工具或本机集成加载到支持Substance材料的DCC应用程序和游戏引擎中。
 
-* 可在[3D社区资源](https://helpx.adobe.com/substance-3d/unlisted/assets.html)网站上找到免费材料。
-* 可下载的材料作为Substance订阅的一部分通过[Substance 3D Assets](https://helpx.adobe.com/substance-3d/unlisted/assets.html)网站提供。
+* 可在[3D社区资源](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)网站上找到免费材料。
+* 可下载的材料作为Substance订阅的一部分通过[Substance 3D Assets](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)网站提供。
 * 可以使用[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)进行Substance材料。 (请务必查看我们的[优化准则](game-engines/unity/optimization-guidelines/optimization-guidelines.md)。 )
 
 有关如何使用这些材料的详细信息，请参阅：

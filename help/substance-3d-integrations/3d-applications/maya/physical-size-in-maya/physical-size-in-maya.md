@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
 breadcrumb-title: ''
 description: 使用Maya中的物理尺寸设置以应用真实规模的Substance材料，实现准确的可视化。
 helpx_creative_field: ""

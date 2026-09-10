@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/maverick.html"
 breadcrumb-title: ''
 description: 使用Maverick渲染器中的材料实现产品可视化，并集成了Painter和支持SBSAR。
 helpx_creative_field: ""

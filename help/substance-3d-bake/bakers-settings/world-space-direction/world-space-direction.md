@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-direction.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
 description: 在世界空间中计算矢量方向，并将它们存储到纹理中用于方向效果和蒙版。
 helpx_creative_field: ""

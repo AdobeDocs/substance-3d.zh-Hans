@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
 breadcrumb-title: ''
 description: 在Unity项目之间共享SubstanceSBSAR文件，同时使用预设文件保留参数调整。
 helpx_creative_field: ""

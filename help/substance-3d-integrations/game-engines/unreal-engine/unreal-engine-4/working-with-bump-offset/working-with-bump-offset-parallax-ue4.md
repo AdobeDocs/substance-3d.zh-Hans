@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
 breadcrumb-title: ''
 description: 将“凹凸偏移”映射与Unreal Engine 4中的Substance材质结合使用，可创建深度错觉和表面细节。
 helpx_creative_field: ""

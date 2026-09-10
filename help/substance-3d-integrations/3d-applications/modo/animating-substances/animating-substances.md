@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/animating-substances.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/animating-substances.html"
 breadcrumb-title: ''
 description: 在MODO中随时间推移而动画化材料参数，以创建动态材料效果和变化。
 helpx_creative_field: ""

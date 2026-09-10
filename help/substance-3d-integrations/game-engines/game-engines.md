@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines.html"
 breadcrumb-title: ''
 description: 了解如何在Unity、虚构引擎、Lumberyard和其他游戏引擎中导入和使用Substance材料。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/redshift/redshift-for-3ds-max.html"
 breadcrumb-title: ''
 description: 通过导出的映射或Substance增效工具，在3ds Max中使用Substance材料和Redshift渲染器。
 helpx_creative_field: ""

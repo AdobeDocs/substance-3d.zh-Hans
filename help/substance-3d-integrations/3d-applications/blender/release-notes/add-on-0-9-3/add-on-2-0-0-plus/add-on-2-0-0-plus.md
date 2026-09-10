@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus.html"
 breadcrumb-title: ''
 description: 查看Blender加载项2.0.0版及更高版本的发行说明，以了解新增功能和改进。
 helpx_creative_field: ""

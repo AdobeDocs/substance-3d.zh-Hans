@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4.html"
 breadcrumb-title: ''
 description: 通过“项目设置”在“虚构引擎4”中配置Substance增效工具设置以自定义增效工具行为。
 helpx_creative_field: ""

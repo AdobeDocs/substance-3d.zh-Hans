@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: 了解将材料用于不同渲染器时的色彩管理和灰度系数校正。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 2%
 
 ## 色彩管理
 
-本文旨在详细介绍在[3D软件](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)和渲染器中处理从&#x200B;**Substance Painter**&#x200B;和&#x200B;**Substance Designer**&#x200B;导出的纹理的过程。
+本文旨在详细介绍在[3D软件](https://www.adobe.com/cn/products/substance3d/3d-augmented-reality.html)和渲染器中处理从&#x200B;**Substance Painter**&#x200B;和&#x200B;**Substance Designer**&#x200B;导出的纹理的过程。
 
 将图像解释为素材通道输入的正确方式取决于图像在场景中的使用方式。 色彩空间、编码以及颜色值是否与&#x200B;**场景引用的明亮度**&#x200B;或&#x200B;**显示引用的明亮度**&#x200B;成比例也起着重要的作用。
 

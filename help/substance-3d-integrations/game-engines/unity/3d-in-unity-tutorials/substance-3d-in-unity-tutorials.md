@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
 breadcrumb-title: ''
 description: 访问视频教程和学习资源，掌握如何在Unity项目中使用材料。
 helpx_creative_field: ""

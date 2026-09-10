@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
 breadcrumb-title: ''
 description: 直接在Substance版订阅的虚构引擎4中访问和下载Substance Source材料。
 helpx_creative_field: ""

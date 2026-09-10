@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: 使用关键帧渲染器中的材料可直观显示导出的纹理图。
 helpx_creative_field: ""

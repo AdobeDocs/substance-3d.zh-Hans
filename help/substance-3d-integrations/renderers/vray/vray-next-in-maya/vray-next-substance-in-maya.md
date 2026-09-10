@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
 breadcrumb-title: ''
 description: 在Maya中通过V-Ray Next使用Substance素材，使用导出的地图或Substance增效工具进行渲染。
 helpx_creative_field: ""

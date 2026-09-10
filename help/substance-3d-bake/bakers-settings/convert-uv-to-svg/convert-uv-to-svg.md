@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: 将网格UV变换矢量图形文件，这些文件可用于创建精确的蒙版和叠加。
 helpx_creative_field: ""

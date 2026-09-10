@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
 description: 使用几何缓存可保留预处理的网格数据并显着加快后续的烘焙操作。
 helpx_creative_field: ""

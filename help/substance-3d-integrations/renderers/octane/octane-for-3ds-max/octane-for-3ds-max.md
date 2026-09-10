@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
 description: 通过实时数据库材料和适当的输出设置，在3ds Max中使用带有辛烷值渲染器的Substance材料。
 helpx_creative_field: ""

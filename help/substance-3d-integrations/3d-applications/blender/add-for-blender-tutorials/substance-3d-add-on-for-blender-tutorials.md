@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-3d-add-on-for-blender-tutorials.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/substance-3d-add-on-for-blender-tutorials.html"
 breadcrumb-title: ''
 description: 访问视频教程和学习资源，以使用Blender中的Substance 3D插件进行学习。
 helpx_creative_field: ""

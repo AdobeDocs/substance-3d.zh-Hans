@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: 将颜色属性从高聚网格投影到纹理中，以烘焙多色颜料或选区蒙版的材料ID。
 helpx_creative_field: ""
