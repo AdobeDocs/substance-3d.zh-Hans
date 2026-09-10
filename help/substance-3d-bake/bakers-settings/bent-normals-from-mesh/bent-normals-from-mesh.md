@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # 来自网格的Bent normals
 
-来自Baker的Bent normals计算一个描述环境光照平均方向的纹理。 此Baker派生自网格](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)Baker的[Ambient occlusion。
+来自Baker的Bent normals计算一个描述环境光照平均方向的纹理。 此Baker派生自网格[&#128279;](../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)Baker的Ambient occlusion。
 
 **适用于：**
 
@@ -33,7 +33,7 @@ ht-degree: 3%
 | *参数* | *描述* |
 | --- | --- |
 | **次生射线** | 遮挡射线数量。 较高的值会产生较少的噪声，但计算时间将较长。 |
-| **分钟遮挡板距离** | 遮挡射线将到达高多边形几何的最小距离**.** |
+| **分钟遮挡板距离** | 遮挡射线将到达高多边形几何的最小距离&#x200B;**.** |
 | **最大遮挡板距离** | 遮挡射线将到达高多边形几何的最大距离。 |
 | **相对于定界框** | 如果启用，则光线距离计算基于低多边形网格的归一化空间（0到1）。 如果禁用，则光线距离计算基于导出时在低多边形网格中指定的单位（米、厘米等）。 |
 | **扩散角度** | 遮蔽射线的最大扩散角度。 默认值为180。 |

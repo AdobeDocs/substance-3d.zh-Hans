@@ -58,7 +58,7 @@ Substance软件生成纹理，并且可以使用与网格几何相关的信息�
 * **曲率**（几何形状的边和腔）
 * **位置**（规范化多维数据集内几何的相对位置）
 
-有关详细信息，请参阅每个Baker](../../bakers-settings/bakers-settings.md)的[文档。
+有关详细信息，请参阅每个Baker[&#128279;](../../bakers-settings/bakers-settings.md)的文档。
 
 ## “常规”和“来自网格”面包师之间的差异
 

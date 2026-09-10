@@ -30,5 +30,5 @@ ht-degree: 8%
 
 | *参数* | *描述* |
 | --- | --- |
-| ****标准化**** | 定义应如何将Height范围的值保存到纹理中。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>相对于光线距离</strong>：</li><li data-preserve-html="true"><strong>相对于低模网格（每个UV 平铺）</strong>（默认）</li><li data-preserve-html="true"><strong>相对于最小/最大（每个UV 平铺）</strong></li><li data-preserve-html="true"><strong>手动</strong></li></ul> |
+| **&#x200B;**&#x200B;标准化&#x200B;**&#x200B;** | 定义应如何将Height范围的值保存到纹理中。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>相对于光线距离</strong>：</li><li data-preserve-html="true"><strong>相对于低模网格（每个UV 平铺）</strong>（默认）</li><li data-preserve-html="true"><strong>相对于最小/最大（每个UV 平铺）</strong></li><li data-preserve-html="true"><strong>手动</strong></li></ul> |
 | **缩放除数** | 定义Height值应相乘或相除的量。仅在&#x200B;**标准化**&#x200B;设置为&#x200B;**手动**&#x200B;时可用。 |
