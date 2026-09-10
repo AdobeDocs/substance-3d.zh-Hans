@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
 breadcrumb-title: ''
-description: 了解何时启用每个片段的计算切线空间以及它如何影响您的烘焙结果。
+description: 了解何时启用每个片段的计算正切空间以及它如何影响您的烘焙结果。
 helpx_creative_field: ""
 helpx_description: bakers > Common Questions > Should I enable
 helpx_experience_level: ""
@@ -24,15 +24,15 @@ ht-degree: 1%
 >
 > **问题**
 > 
-> “计算每个片段的切线空间”设置的含义是什么，其用法是什么？
+> “计算每个片段的正切空间”设置的含义是什么，其用法是什么？
 
 >[!NOTE]
 >
 > **说明**
 > 
-> 启用此设置后，将指示生成器在片断着色器（也称为像素着色器）中执行相切空间计算，而不是在顶点着色器中执行。 这意味着计算将按每个像素完成，而不是从顶点插入到顶点。 正常映射生成器使用此设置来了解如何对纹理进行编码。 它以前还知道如何读取着色器所呈现的纹理。
+> 启用此设置后，将告知Baker在片段着色器（也称为像素着色器）中执行切线空间计算，而不是顶点着色器。 这意味着计算将按每个像素完成，而不是从顶点插入到顶点。 Baker使用此设置了解如何对纹理进行编码。 它以前还知道如何读取着色器所呈现的纹理。
 > 
-> 启用或禁用此参数通常需要重新生成纹理，才能将其与3D视口和渲染引擎（例如Iray）同步。
+> 启用或禁用此参数通常需要重新生成纹理，以将其与3D视口和渲染引擎（如Iray）同步。
 
 >[!NOTE]
 >
@@ -42,5 +42,5 @@ ht-degree: 1%
 > 
 > | *软件* | *计算每个片段的正切空间* |
 > | --- | --- |
-> | **不实引擎4** | 启用 |
+> | **虚构引擎4** | 启用 |
 > | **统一** | 禁用 |

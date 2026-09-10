@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: 启用曲面细分并使用虚构引擎4中Substance材料的位移图以获取表面细节。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![](../../../../assets/tess.png){width="600px"}
 
-要使用Height输出，需要双击Substance工厂实例中的输出以创建Height。 默认情况下不启用Height。 然后可以将此Height输出拖入素材。
+要使用Height输出，需要双击Substance工厂实例中的输出以创建Height。 默认情况下不启用Height。 然后可以将此Height输出拖入材料。
 
 ![](../../../../assets/height-1.png){width="800px"}
 

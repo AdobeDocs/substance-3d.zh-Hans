@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: 了解Substance增效工具如何处理3ds Max中纹理的灰度系数设置，以确保进行正确的色彩管理。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max.html"
 breadcrumb-title: ''
 description: 安装并使用3ds Max的Substance增效工具来导入Substance材料并增强您的渲染工作流程。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/creative-cloud-applications/after-effects.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications/after-effects.html"
 breadcrumb-title: ''
 description: 使用After Effects中的Substance材料为动态图形和视觉效果创建逼真的纹理和材料。
 helpx_creative_field: ""
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Adobe After Effects支持使用SBSAR文件，因此您可以使用SBSAR材料支持的所有自定义参数将SBSAR格式应用于3D对象。
 
-[要了解有关如何在After Effects中使用SBSAR文件的更多信息，请单击此处。](https://helpx.adobe.com/cn/after-effects/using/apply-substance-3d-materials.html)
+[要了解有关如何在After Effects中使用SBSAR文件的更多信息，请单击此处。](https://helpx.adobe.com/after-effects/using/apply-substance-3d-materials.html)

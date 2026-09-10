@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/creative-cloud-applications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications.html"
 breadcrumb-title: ''
 description: 使用Adobe Creative Cloud应用程序（如Photoshop和After Effects）中的Substance材料实现增强的工作流程。
 helpx_creative_field: ""

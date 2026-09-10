@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
 description: 使用Lumberyard中的“流图形”节点，以编程方式配置程序化的材料设置。
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > Game Engines > Lumberyard > Flow Gra
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 流图API
+title: 流程图形API
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 流图API
+# 流程图形API
 
 您可以使用以下流图形节点来配置程序化的材料设置。
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/substance-input-image-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/substance-input-image-ue4.html"
 breadcrumb-title: ''
 description: 使用图像纹理作为Unreal Engine 4中Substance素材的输入参数，以创建模块化素材。
 helpx_creative_field: ""

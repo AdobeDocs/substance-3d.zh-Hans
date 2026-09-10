@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++什么是OpenPBR？Painter支持哪个版本？
 
-OpenPBR是由Academy Software Foundation托管的开放材料规范，定义了一个标准着色模型，旨在跨应用程序一致地工作。 [Painter的文档提供了有关使用OpenPBR](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/home)的更多信息。
+OpenPBR是由Academy Software Foundation托管的开放材料规范，定义了一个标准着色模型，旨在跨应用程序一致地工作。 [Painter的文档提供了有关使用OpenPBR](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)的更多信息。
 
 +++
 
@@ -104,7 +104,7 @@ OpenPBR是由Academy Software Foundation托管的开放材料规范，定义了�
 
 最常见的错误是传输深度设置过低。 此参数定义在“透射颜色”达到完全饱和之前，光线的传输距离；在较低的值下，即使是细的几何形状也会显得暗而密集。 增加它以匹配对象的大致物理比例。 如果材料看起来过于清晰，请同时调整“Transmission Color”（传输颜色）和“Color”(深度)，找到适当的平衡点
 
-散布可能会增加更多的复杂性。 透射色并不是一种简单的色调 — 它的效果取决于光线在物体中传播多远，而物体由透射色深度控制。 与此同时，“散点颜色”可控制单独的旅程光线 — 在材料内部来回反射，而不是直接穿过。 由于散射是有方向性的，因此结果也会随光源的位置而变化。 调整其中一个而不考虑另一个是常见的意外结果来源。
+散布可能会增加更多的复杂性。 透射色并不是一种简单的色调 — 它的效果取决于光线在物体中传播多远，而物体由透射色深度控制。 与此同时，“散点颜色”可控制光线可以单独穿过的旅程 — 在素材内部来回反射，而不是直接穿过。 由于散射是有方向性的，因此结果也会随光源的位置而变化。 调整其中一个而不考虑另一个是常见的意外结果来源。
 
 +++
 

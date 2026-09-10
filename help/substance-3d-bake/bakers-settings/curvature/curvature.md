@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
-description: 从网格中提取曲率信息，以创建突出显示几何图形的型腔和边缘的纹理。
+description: 从网格中提取弯曲信息以创建纹理来加亮几何图形的型腔和边缘。
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Curvature
 helpx_experience_level: ""
@@ -38,7 +38,7 @@ ht-degree: 3%
 
 | *参数* | *描述* |
 | --- | --- |
-| **算法** | 定义如何在网格上计算曲率信息。 |
-| **详细信息** | 控制曲率中信息的强度。 较高的值可能产生更多的细节，但不太精细。 |
+| **算法** | 定义如何在网格上计算弯曲信息。 |
+| **详细信息** | 控制弯曲中信息的强度。 较高的值可能产生更多的细节，但不太精细。 |
 | **启用接缝** | 如果启用，烘焙师将尝试通过将边框处的纹理从一侧复制到另一侧来减少UV 岛之间的接缝。 |
-| **接缝** **强度** | 如果启用&#x200B;**启用接缝**，则此参数控制接缝修复的强度。 |
+| **接缝** **强度** | 如果已启用&#x200B;**启用接缝**，则此参数将控制接缝修复的强度。 |

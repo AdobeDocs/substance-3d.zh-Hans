@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: 了解如何使用Baker通过快速GPU加速算法生成环境阴影纹理。
 helpx_creative_field: ""

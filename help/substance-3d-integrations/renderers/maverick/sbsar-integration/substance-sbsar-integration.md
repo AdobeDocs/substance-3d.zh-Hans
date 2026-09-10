@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: 直接在Maverick渲染器中使用SubstanceSBSAR文件进行实时素材编辑和参数控制。
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # SubstanceSBSAR集成
 
-**&#x200B;**&#x200B;**您可以** **轻松携带** **SBSAR文件** **已创建** **在Substance Designer或Substance中** **Alchemist** **到** **特立克&#x200B;**&#x200B;**正在关注**&#x200B;**或** **/** **这些** **2** **方法**&#x200B;**：**
+**** **您可以** **轻松携带** **SBSAR文件** **已创建** **在Substance Designer或Substance中** **Alchemist** **到** **特立克&#x200B;****正在关注****或** **/** **这些** **2** **方法****：**
 
 **方法** **1：**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **方法** **2**&#x200B;**：**
+   **方法** **2****：**
 1. 只需将SBSAR文件从Windows资源管理器中拖放到场景中的任何对象上。 也可以将SBSAR文件拖放到“材质”面板上。
 1. 在“导入”对话框中，可以设置某些材料参数：
 

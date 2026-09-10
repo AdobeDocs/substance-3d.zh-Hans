@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: 了解Blender中Substance 3D插件的键盘快捷键，并自定义键绑定以提高效率。
 helpx_creative_field: ""

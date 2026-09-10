@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
 breadcrumb-title: ''
 description: 使用材料编辑器将Substance材料文件导入Lumberyard项目。
 helpx_creative_field: ""

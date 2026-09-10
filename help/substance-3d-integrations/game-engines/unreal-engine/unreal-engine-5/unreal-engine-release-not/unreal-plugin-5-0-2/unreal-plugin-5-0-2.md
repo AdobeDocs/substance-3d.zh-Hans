@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes/unreal-plugin-5-0-2.html"
 breadcrumb-title: ''
-description: 查看Unreal Engine 5增效工具版本5.0.2的发行说明，以了解新功能、改进和错误修复。
+description: 查看虚构引擎5增效工具版本5.0.2的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Release Notes > Unreal plugin 5.0.2
 helpx_experience_level: ""

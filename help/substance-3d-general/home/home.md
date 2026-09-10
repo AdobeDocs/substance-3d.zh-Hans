@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/home.html"
 breadcrumb-title: ''
 description: 发现有关Substance 3D生态系统的基本信息，并了解如何开始使用Adobe的3D工具。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 ![](../assets/ecosystem-banner.jpg)
 
-了解并发现与整个[Substance 3D生态系统](https://www.adobe.com/cn/products/substance3d/3d-augmented-reality.html)相关的信息。
+了解并发现与整个[Substance 3D生态系统](https://www.adobe.com/products/substance3d/3d-augmented-reality.html)相关的信息。
 
 ## 生态系统
 

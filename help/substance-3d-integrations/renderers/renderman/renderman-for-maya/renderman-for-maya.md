@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
 breadcrumb-title: ''
 description: 在Maya中使用pxrSurface或pxrDisney素材进行PBR渲染，同时使用Renderman和Substance素材。
 helpx_creative_field: ""

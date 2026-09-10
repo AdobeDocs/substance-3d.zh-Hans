@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-2.html"
 breadcrumb-title: ''
 description: 查看Maya插件版本2.1.2的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 它包含的唯一更改是：
 
-* 修复了创建Stingray着色器网络时Maya LT中的错误。
+* 修复了创建stingray着色器网络时Maya LT中的错误。
 
 该版本还与Maya 2020.2一起发布，并包含在Maya安装程序中。
 

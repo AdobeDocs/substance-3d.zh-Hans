@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
 breadcrumb-title: ''
 description: 了解Substance着色器如何将Substance资源链接到Cinema 4D材料以用于渲染工作流程。
 helpx_creative_field: ""

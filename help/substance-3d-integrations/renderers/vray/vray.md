@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray.html"
 breadcrumb-title: ''
-description: 使用导出的映射或Substance增效工具，在Maya和3ds Max中使用V-Ray渲染Substance素材。
+description: 在Maya中通过V-Ray和3ds Max使用导出的地图或Substance增效工具渲染Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Vray
 helpx_experience_level: ""
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 要使用Vray进行渲染，您可以使用从Substance Painter或[Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)或[3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/)中的Substance增效工具导出的地图。
 
-Substance Painter2020.1 (6.1.0)随附VrayMtl着色器，适用于金属和Specular工作流程，并支持Vray through Vray Next [输出模板](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/getting-started/export/export)。
+Substance Painter2020.1 (6.1.0)随附VrayMtl着色器，适用于金属和Specular工作流程，并支持Vray through Vray Next [输出模板](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)。
 
 ## 目录
 
-* [Vray Next — 玛雅Substance](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
-* [Vray Next — 以3ds MaxSubstance](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
+* [Vray Next — 玛雅Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-maya-157352249.html)
+* [Vray Next — 以3ds MaxSubstance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/vray-for-3ds-max-157352261.html)
 * [虚拟下一个 — Substance Painter](../../renderers/vray/vray-next-painter/vray-next-substance-painter.md)

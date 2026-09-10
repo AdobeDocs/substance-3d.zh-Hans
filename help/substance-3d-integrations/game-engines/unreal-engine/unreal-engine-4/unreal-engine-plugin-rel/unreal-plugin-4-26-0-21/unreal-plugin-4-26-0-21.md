@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-26-0-21.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-26-0-21.html"
 breadcrumb-title: ''
 description: 查看Unreal Engine 4增效工具版本4.26.0.21的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -23,5 +23,5 @@ ht-degree: 0%
 已修复：
 
 * 默认Substance导入设置不适用于从实例创建的纹理
-* 在删除基础材质后将网格发送到Substance Painter时，UE4崩溃
+* UE4在删除基础材质后向Substance Painter发送网格时崩溃
 * 对UE编辑器中的压缩设置的更新未应用

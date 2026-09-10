@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
-description: 使用MODO中Substance素材的凹凸和位移贴图将表面细节和深度添加到模型中。
+description: 使用MODO中材料的凹凸和位移贴图将表面细节和深度添加到模型中。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Bump and Displacement
 helpx_experience_level: ""
@@ -22,10 +22,10 @@ ht-degree: 0%
 
 使用凹凸和位移
 
-Substance可以具有可选的Height输出。 您可以将其用作位移或凹凸。 启用“Height”后，它将设置为凹凸纹理效果。 对于Unity来说，它将会变成Unity Bump，而Unreal Bump将变成Unreal Bump。 然后，您可以选择Substance项目材质并相应地设置凹凸振幅。 如果要使用Height作为位移，您可以将素材图层效果更改为表面着色>位移。 然后在“材料参考”中，设置适当的“位移距离”。
+Substance可以具有可选的Height输出。 您可以将其用作位移或凹凸。 启用Height后，它将设置为凹凸纹理效果。 对于Unity来说，它将会变成Unity Bump，而Unreal Bump将变成Unreal Bump。 然后，您可以选择Substance项材料并相应地设置凹凸振幅。 如果要将Height用作位移，可将材料图层效果更改为表面着色>位移。 然后在“材料参考”中，设置适当的“位移距离”。
 
 ![](../../../assets/bump-1.png)
 
-在本例中，我使用了不真实的材质，但将不真实的凹凸图层效果更改为位移。 然后在Substance项目材质上，设置位移距离并相应地渲染细分级别。
+在本例中，我使用虚构材料，但将虚构“Bump Layer”（凹凸图层）效果更改为“位移”。 然后在Substance项材料上，设置位移距离并相应地渲染细分级别。
 
 ![](../../../assets/dis.png)

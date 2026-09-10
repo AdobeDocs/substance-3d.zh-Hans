@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
 breadcrumb-title: ''
 description: 了解如何从Unity项目正确删除Substance 3D增效工具并清理关联文件。
 helpx_creative_field: ""

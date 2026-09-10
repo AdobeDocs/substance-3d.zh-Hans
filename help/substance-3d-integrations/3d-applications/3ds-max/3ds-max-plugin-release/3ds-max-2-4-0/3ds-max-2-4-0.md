@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-4-0.html"
 breadcrumb-title: ''
 description: 查看3ds Max增效工具版本2.4.0的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 已添加：
 
-* 新Substance材料样本
+* 新材料示例
 
 已修复：
 
@@ -32,6 +32,6 @@ ht-degree: 0%
 
 已知问题：
 
-* 在Substance对象上加载具有关键帧的旧场景并打开曲线编辑器，但不保存场景并重新打开它，3dsMax会崩溃。 解决方法是将场景保存到新版本的文件中，然后重新打开
+* 在Substance对象上加载具有关键帧的旧场景并打开曲线编辑器，但不保存场景并重新打开它，3dsMax将崩溃。 解决方法是将场景保存到文件的新版本，然后重新打开
 
 此版本针对3ds Max 2019、2020和2021发行

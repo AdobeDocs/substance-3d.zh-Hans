@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
 breadcrumb-title: ''
-description: 使用SubstanceMaya API为Maya工作流程中的Substance素材创建和管理编写脚本。
+description: 使用SubstanceMaya API为Maya材料中的Substance创建和管理编写脚本。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Maya Scripting
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maya脚本
 
-可以为Maya增效工具中的Substance编写脚本。 公开的API允许在脚本中使用Substance命令来创建和管理Substance素材。 您可以通过转到插件信息来访问可用的命令。
+可以为Maya增效工具中的Substance编写脚本。 公开的API允许在用于创建和管理Substance材料的脚本中使用Substance命令。 您可以通过转到插件信息来访问可用的命令。
 
 ***Windows>Settings/Preferences/Plugin Manager并搜索substancemaya.mll文件。***
 
@@ -30,12 +30,12 @@ ht-degree: 0%
 
 ## 示例脚本：
 
-此脚本将加载sbsar文件，并将Arnold渲染工作流程应用于选定网格。 要使用该脚本，请按照此处列出的示例进行操作。
+此脚本将加载一个sbsar 文件，并将Arnold渲染工作流程应用于所选网格。 要使用该脚本，请按照此处列出的示例进行操作。
 
 1. 将代码复制并粘贴到脚本编辑器的Python选项卡中。
-1. 在视区中选择并网格化
+1. 在视口中选择并网格
 1. 在Python选项卡中选择文本，然后按ctrl + enter
-1. 在窗口中，浏览以查找sbsar文件。
+1. 在窗口中，浏览以查找sbsar 文件。
 
 ```
 import maya.cmds as cmds 
@@ -170,4 +170,4 @@ if __name__ == '__main__':
 ```
 
 
-公开的API允许在脚本中使用Substance命令
+公开API允许在脚本中使用Substance命令

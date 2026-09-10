@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-4.html"
 breadcrumb-title: ''
 description: 查看Unity增效工具版本2.5.4的发行说明，了解新增功能、改进和错误修复。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 已修复：
 
-* 当Unity项目包含Substance素材时，无法生成与位码兼容的iOS应用程序
+* 当Unity项目包含材料时，无法生成与位码兼容的iOS应用程序
 
 已知问题：
 

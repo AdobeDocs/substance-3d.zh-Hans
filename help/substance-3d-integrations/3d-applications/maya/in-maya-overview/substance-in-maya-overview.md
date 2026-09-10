@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-in-maya-overview.html"
 breadcrumb-title: ''
 description: 了解适用于Maya的Substance增效工具，以及如何导入和使用Substance材料。
 helpx_creative_field: ""
@@ -46,6 +46,6 @@ Substance增效工具允许您直接在Maya中加载在Substance Designer中创�
 1. 启用“缓存输出到磁盘”，以便将Substance输出烘焙到磁盘，以便可以与渲染器（如Arnold）一起使用。 增效工具将使用Maya文件节点读回缓存的文件。
 
    ![](../../../assets/outputsettings.png)
-1. 为您使用的渲染器选择一个工作流程，然后单击“创建着色器网络”按钮。 为渲染器工作流程创建了一个着色器网络。 您现在可以在场景中应用素材。
+1. 为您使用的渲染器选择一个工作流程，然后单击“创建着色器网络”按钮。 为渲染器工作流程创建了一个着色器网络。 您现在可以应用场景中的材料。
 
    ![](../../../assets/createnetwork.gif){width="1000px"}

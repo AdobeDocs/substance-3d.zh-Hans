@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
 breadcrumb-title: ''
-description: 使用“曲线编辑器”在3ds Max中使用材料参数随时间的推移制作动画以获得动态效果。
+description: 使用曲线编辑器在3ds Max中使用曲线来动画化Substance材料参数随时间的变化，以获得动态效果。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > 3ds Max > Animating a Substance material
 helpx_experience_level: ""
@@ -25,7 +25,7 @@ ht-degree: 0%
 1. 右键单击Substance2节点，然后选择“曲线编辑器”。
 
    ![](../../../assets/1-687.png)
-1. 单击相应材料上的+号可显示所有渠道。 可以在为材料列出的映射下找到Substance参数。 更改参数将传播到所有纹理，而不管您在选择要制作动画的纹理参数时选择哪个Substance映射。
+1. 单击相应资料上的+号可显示所有渠道。 Substance参数可在为材料列出的映射下找到。 更改参数将传播到所有Substance纹理，无论您在选择要制作动画的Substance参数时选择哪种纹理映射。
 1. 向下滚动到显示Diffuse映射的位置，然后单击+以显示源映射参数。 此时，您将看到Substance文件中的所有参数。
 
    ![](../../../assets/3-395.png)

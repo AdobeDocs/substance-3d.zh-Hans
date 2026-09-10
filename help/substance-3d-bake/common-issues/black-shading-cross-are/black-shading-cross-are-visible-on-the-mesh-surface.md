@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/black-shading-cross-are-visible-on-the-mesh-surface.html"
 breadcrumb-title: ''
 description: 通过更正着色空间和法向计算，修复网格表面上可见的黑色正切伪影。
 helpx_creative_field: ""

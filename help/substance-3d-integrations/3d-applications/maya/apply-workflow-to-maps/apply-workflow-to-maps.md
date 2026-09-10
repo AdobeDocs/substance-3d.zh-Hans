@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
 breadcrumb-title: ''
 description: 使用工作流程将来自Substance Painter或其他应用程序的导出纹理快速应用于Maya中的材质。
 helpx_creative_field: ""
@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ![](../../../assets/applymaps.png)
 
-使用&#x200B;**选择多个映射**&#x200B;可根据左侧列出的命名惯例选择要应用的多个映射。 *例如，\_roughness将映射到粗糙度通道。*
+使用&#x200B;**选择多个映射**&#x200B;可根据左侧列出的命名惯例选择要应用的多个映射。 *例如，\_粗糙度将映射到粗糙度声道。*
 
-通过单击文件夹按钮并选择纹理，可以添加单个地图。
+通过单击“文件夹”按钮并选择纹理，可以添加单个地图。

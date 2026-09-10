@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/arnold-support.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/arnold-support.html"
 breadcrumb-title: ''
 description: 将Substance输出直接连接到Maya中的Arnold着色器，以实现无缝渲染工作流程。
 helpx_creative_field: ""

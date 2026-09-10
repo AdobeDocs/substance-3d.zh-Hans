@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-4-4.html"
 breadcrumb-title: ''
 description: 查看Unity增效工具版本2.4.4的发行说明，了解新增功能、改进和错误修复。
 helpx_creative_field: ""
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 * 已添加：对2019.3的正确支持：修复了破坏Substance增效工具脚本对象的Unity API更改。 重工对象以使用2019.3 API更新。 修复 — 使用自定义素材会导致退出播放时素材变黑
 * 修复 — 在脚本中使用Duplicate()函数，然后进入和退出播放时崩溃。
-* 固定 — 2019.3版中的素材拼贴、设置和着色器重置
-* 固定 — HDRP材质着色器未刷新参数更改
+* 修复 — 2019.3中的拼贴、设置和着色器重置
+* 修复 — HDRP着色器未刷新参数更改
 * 修复 — HDRP蒙版映射未更新
 * 固定 — 为Duplicate函数添加字符串参数
 * 已修复 — 在最新的Unity稳定版中修复Linux支持
@@ -36,4 +36,4 @@ ht-degree: 0%
 * 重命名HDRP资源将导致增效工具不生成蒙版映射。
 * 在HDRP项目中使用Substance增效工具时，使用Raw压缩会将灰度纹理设置为Alpha8。
 * 在“播放”模式下，将取消选择GameObjects
-* 在“播放”模式中单击Substance图表上的“生成Mip映射”时，更改参数会导致无限挂起。
+* 在“播放”模式下，在图形上单击“生成Mip映射”，然后更改参数会导致无限挂起。

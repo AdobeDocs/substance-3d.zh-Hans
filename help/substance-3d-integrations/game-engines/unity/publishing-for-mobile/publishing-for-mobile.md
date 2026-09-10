@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
 description: 在Unity中通过调整设置和Substance分辨率来优化移动平台的纹理材料。
 helpx_creative_field: ""

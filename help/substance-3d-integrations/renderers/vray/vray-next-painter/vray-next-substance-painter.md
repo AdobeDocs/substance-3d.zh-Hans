@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: 使用输出模板和适当的Substance Painter设置导出V-Ray下一个渲染器工作流程纹理。
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Substance Painter2020.1 (6.1.0)随附[VrayMtl](https://docs.chaosgroup.com/displ
 
 >[!NOTE]
 >
-> 您的项目是否设置为使用[UDIM旧版](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用“查看下一个UDIM”输出模板。
+> 您的项目是否设置为使用[UDIM旧版](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)。 使用“查看下一个UDIM”输出模板。
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 
@@ -40,27 +40,27 @@ Substance Painter2020.1 (6.1.0)随附[VrayMtl](https://docs.chaosgroup.com/displ
 
 | Substance Painter导出 | VRayMtl |
 | --- | --- |
-| 底色 | (**Maya**)漫射颜色（数量= 1.0） （**3ds最大值**）漫射 |
+| 底色 | (**Maya**)Diffuse颜色（数量= 1.0） （**3ds最大值**）Diffuse |
 | 粗糙度 | (**Maya**)反射/粗糙度(BRDF = GGX) + （使用粗糙度已启用）(**3ds Max**)粗糙度→ BRDF/使用GGX并启用使用粗糙度 |
 | 金属 | (**Maya**)反射/金属性（**3ds最大值**）金属性 |
 | 法线 | (**Maya**)凹凸和法线映射/映射（映射类型=正切空间中的法线）(**3ds** **Max**)位图→法线 |
-| 高度 | (**Maya**)位移着色器/位移(**3ds** **Max**)对象修饰符→VrayDisplacementMod → Tex映射 |
+| 高度 | (**Maya**)着色器/位移(**3ds** **Max**)对象修饰符→VrayDisplacementMod → Tex映射 |
 | 放射 | 自照明 |
-| 透射型 | (**Maya**)次表面散射/半透明颜色(**3ds Max**)半透明→背面颜色 |
+| 透射型 | (**Maya**)次表面散射/Translucency颜色（**3ds最大值**）Translucency→背面颜色 |
 | 各向异性角度 | (**Maya**)各向异性/各向异性旋转（**3ds** **最大**） BRDF/旋转 |
 | 各向异性级别 | (**Maya**)各向异性/各向异性（**3ds最大**） BRDF/角度 |
 
-## 可变素材(可变下一个 — Specular/光泽度
+## Vray材料(Vray Next -Specular/光泽度
 
 | Substance Painter导出 | VRayMtl |
 | --- | --- |
-| Diffuse | (**Maya**)漫射颜色（数量= 1.0） （**3ds最大值**）漫射 |
+| Diffuse | (**Maya**)Diffuse颜色（数量= 1.0） （**3ds最大值**）Diffuse |
 | 镜面 | (**Maya**)反射/反射颜色（数量= 1.0） （**3ds最大值**）反射 |
-| Glossiness | (**Maya**)反射/粗糙度(BRDF = GGX) +（启用使用粗糙度）(**3ds Max**)光泽度→ BRDF/使用GGX并启用使用光泽度 |
+| Glossiness | (**Maya**)反射/粗糙度(BRDF = GGX) + （使用粗糙度已启用）(**3ds Max**)光泽度→ BRDF/使用GGX并启用使用光泽度 |
 | 法线 | (**Maya**)凹凸和法线映射/映射（映射类型=正切空间中的法线）(**3ds** **Max**)位图→法线 |
-| 高度 | (**Maya**)位移着色器/位移(**3ds** **Max**)对象修饰符→VrayDisplacementMod → Tex映射 |
+| 高度 | (**Maya**)着色器/位移(**3ds** **Max**)对象修饰符→VrayDisplacementMod → Tex映射 |
 | 放射 | 自照明 |
-| 透射型 | (**Maya**)次表面散射/半透明颜色(**3ds Max**)半透明→背面颜色 |
+| 透射型 | (**Maya**)次表面散射/Translucency颜色（**3ds最大值**）Translucency→背面颜色 |
 | 各向异性角度 | (**Maya**)各向异性/各向异性旋转（**3ds** **最大**） BRDF/旋转 |
 | 各向异性级别 | (**Maya**)各向异性/各向异性（**3ds最大**） BRDF/角度 |
 

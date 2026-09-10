@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/modo-installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-installation.html"
 breadcrumb-title: ''
 description: 通过将LPK文件拖放到MODO中来添加Substance功能，安装适用于MODO的Substance增效工具。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
 breadcrumb-title: ''
 description: 通过“项目设置”在“虚构引擎5”中配置Substance增效工具设置以自定义增效工具行为。
 helpx_creative_field: ""
@@ -42,6 +42,6 @@ Substance 引擎可以是CPU或GPU。 GPU引擎将允许您创建4K纹理。 CPU
 
 ## 异步/同步渲染
 
-同步渲染是一个阻止渲染调用。 这将将Substance图形实例传递给Substance引擎进行重新计算，但它将停止执行，直到Substance引擎完成对Substance的处理，然后再继续执行任何进一步的代码执行。 该过程结束后，系统也会立即在屏幕上更新结果。
+同步渲染是一个阻止渲染调用。 这会将一个图形实例传递给要重新计算的Substance引擎，但是它将停止执行，直到Substance引擎处理完该Substance后再继续任何进一步的代码执行。 该过程结束后，系统也会立即在屏幕上更新结果。
 
-Async将在插件更新中将您的图形添加到队列，并一次将多个图形发送到Substance引擎（在Substance设置内设置）。 与同步渲染不同，一旦发送出去，程序就会像往常一样继续运行，而不是一直等待Substance引擎完成。 当Substance引擎完成该批后，它将结果发送回，然后将这些结果应用到输出中，我们启动另一个批处理。
+Async会将您的图形添加到队列中，并在插件更新中一次将多个图形发送到Substance引擎（在Substance设置中设置）。 与同步渲染不同，一旦发送出去，程序就会像往常一样继续运行，而不是一直等待引擎完成。 当引擎完成该批后，它将结果发送回，我们将其应用到输出中，然后我们启动另一个批处理。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
 description: 使用Substance Painter和适当的纹理设置导出Redshift渲染器的输出模板材料。
 helpx_creative_field: ""

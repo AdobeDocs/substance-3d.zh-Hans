@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/unity-preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-preferences.html"
 breadcrumb-title: ''
 description: 在Unity中配置Substance 3D增效工具偏好设置，以自定义增效工具行为和设置。
 helpx_creative_field: ""

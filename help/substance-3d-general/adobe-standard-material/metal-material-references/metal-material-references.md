@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/adobe-standard-material/metal-material-references.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
-description: 使用准确的颜色值和数据表，通过Adobe标准素材模型模拟现实世界的金属素材。
+description: 使用准确的颜色值和数据表利用Adobe Standard Material模型模拟现实世界的金属材料。
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > Metal material references
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 金属材料参考资料
+title: 金属材料参考
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,13 +18,13 @@ ht-degree: 54%
 ---
 
 
-# 金属材料参考资料
+# 金属材料参考
 
-使用下表用相应的&#x200B;**基色** (F0)和&#x200B;**Specular edge color** （F82色调）数据准确模拟真实世界的素材。 创建此表是为了与&#x200B;**Adobe标准素材**&#x200B;模型一起使用。 有关详细信息，请参阅[Adobe标准材料技术文档](../../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)。
+使用下表使用相应的&#x200B;**Base color** (F0)和&#x200B;**Specular edge color** （F82色调）数据准确模拟真实世界材料。 创建此表是为了与&#x200B;**Adobe Standard Material**&#x200B;模型一起使用。 有关详细信息，请参阅[Adobe Standard Material技术文档](../../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)。
 
 ## 8位sRGB
 
-| 金属 | 基色(F0) | Specular edge color（F82色调） |
+| 金属 | base color(F0) | Specular edge color（F82色调） |
 | --- | --- | --- |
 | 银 | (254, 253, 251) | (254, 255, 255) |
 | Al | (245, 246, 246) | (245, 248, 250) |
@@ -44,7 +44,7 @@ ht-degree: 54%
 
 颜色被指定为一组“红色”、“绿色”和“蓝色”值。
 
-| 金属 | 基色(F0) | Specular edge color（F82色调） |
+| 金属 | base color(F0) | Specular edge color（F82色调） |
 | --- | --- | --- |
 | 银 | (0.9868, 0.9830, 0.9667) | (0.9929, 0.9961, 1.0000) |
 | Al | (0.9157, 0.9226, 0.9236) | (0.9090, 0.9365, 0.9596) |

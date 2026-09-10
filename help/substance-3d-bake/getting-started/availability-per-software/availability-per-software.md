@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/getting-started/availability-per-software.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/availability-per-software.html"
 breadcrumb-title: ''
 description: 检查每个Substance 3D应用程序中可用的烘焙工具以规划您的烘焙工作流程。
 helpx_creative_field: ""

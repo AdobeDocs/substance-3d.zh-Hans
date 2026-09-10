@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-1-0.html"
 breadcrumb-title: ''
 description: 查看Maya增效工具版本2.1.0的发行说明，以了解新功能、改进和错误修复。
 helpx_creative_field: ""

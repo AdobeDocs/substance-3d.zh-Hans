@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: 在Blender中配置Substance 3D加载项偏好设置，以自定义增效工具行为和设置。
 helpx_creative_field: ""
@@ -109,4 +109,4 @@ ht-degree: 0%
 
 <b>输出</b> — 可以启用或禁用素材的单个输出。 也可以调整各个输出的默认色彩空间、文件深度和颜色格式。
 
-<b>快捷键</b> — 自定义用于显示浮动菜单的快捷键键，加载Substance材料并应用当前材料。 快捷键更新需要重新启动才能生效。
+<b>快捷键</b> — 自定义用于显示浮动菜单、加载Substance素材和应用当前素材的快捷键。 快捷键更新需要重新启动才能生效。

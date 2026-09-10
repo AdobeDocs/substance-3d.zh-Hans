@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/cn/substance-3d-bake/getting-started/what-is-baking.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
 description: 了解烘焙是什么，并了解如何将3D 网格信息保存到纹理文件中以增强Substance材料。
 helpx_creative_field: ''
@@ -7,7 +7,7 @@ helpx_description: 'bakers > Getting Started > What is Baking '
 helpx_experience_level: ''
 helpx_learn_topic: ''
 helpx_tags: ''
-title: '烘焙功能 '
+title: '烘焙的内容 '
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0a948aa65b787c0f84e0af681dbe74021e878687
@@ -33,13 +33,13 @@ ht-degree: 0%
 Substance软件生成纹理，并且可以使用与网格几何相关的信息来增强这些纹理。\
 许多滤镜和材料可以通过查看烘焙的纹理来适应3D 网格的特定几何形状。 烘焙可以提供有关环境阴影可以位于何处、几何图形的边在哪里，以及更多的信息。
 
-例如：一辆旧车可能在其底部应用了铁锈，因为它在一段时间内没有移动。 烘焙位置图将允许知道底部在网格上的什么位置，它将馈送铁锈发生器并产生经调整的纹理。
+例如：一辆旧车可能在其底部应用了铁锈，因为它在一段时间内没有移动。 烘焙位置图将允许知道底部在网格上的什么位置，该位置图将馈送铁锈发生器并产生经调整的纹理。
 
 ![](../../assets/examples.jpg){width="500px"}
 
 ## 烘焙是如何工作的？
 
-每个Baker都会执行特定的操作以生成自己的结果，但一般来说，烘焙过程包括两种可能的方法：
+每个Baker执行特定的操作以生成自己的结果，但通常烘焙过程包括两种可能的方法：
 
 * **烘焙到一个网格** ：依靠当前网格生成信息。
 * **从一个烘焙到另一个文档** ：从源网格计算信息并将结果转移到另一个文档。
@@ -58,7 +58,7 @@ Substance软件生成纹理，并且可以使用与网格几何相关的信息�
 * **曲率**（几何形状的边和腔）
 * **位置**（规范化多维数据集内几何的相对位置）
 
-有关详细信息，请参阅每个Baker[&#128279;](../../bakers-settings/bakers-settings.md)的文档。
+有关详细信息，请参阅每个Baker](../../bakers-settings/bakers-settings.md)的[文档。
 
 ## “常规”和“来自网格”面包师之间的差异
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
 breadcrumb-title: ''
 description: 使用SubstanceUnreal Scripting 5引擎API以编程方式管理项目中的Substance材料。
 helpx_creative_field: ""
@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unrea
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Unreal Engine 5脚本
+title: 虚实引擎5脚本
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Unreal Engine 5脚本
+# 虚实引擎5脚本
 
 可以对虚构引擎增效工具中的Substance编写脚本。 在插件的SubstanceGraphInstance.h文件中列出并批注方法，在从Marketplace安装插件时，通常可以在以下目录中找到该文件：
 

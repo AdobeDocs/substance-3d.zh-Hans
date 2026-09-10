@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
 breadcrumb-title: ''
 description: 在3ds Max中配置Substance增效工具设置，包括引擎模式和默认分辨率选项。
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在3ds max UI顶部的“Substance”菜单下，您可以更改各种设置，例如引擎模式和默认分辨率。
 
-1. **所选引擎**：这将在GPU和CPU引擎之间切换。 GPU引擎允许您计算分辨率高达8K的纹理。 CPU引擎当前上限为2K。
+1. **所选引擎**：这会在GPU和CPU引擎之间切换。 GPU引擎允许您计算分辨率高达8K的纹理。 CPU引擎当前限制为2K。
 1. **默认输入分辨率X**：设置Substance创建时的默认X分辨率。 可以按Substance更改
 1. **默认输入分辨率Y**：设置Substance创建时的默认Y分辨率。 可以按Substance更改。
 1. **默认锁定分辨率**：设置锁定Substance的X和Y分辨率的默认状态。 可以按Substance更改。

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
 description: 使用物理尺寸设置，根据Blender中的真实尺寸缩放Substance材料。
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ Substance素材中的物理尺寸允许根据素材在世界上的大小对其�
 
 ![](../../../assets/blender-physical-size.png)
 
-启用物理尺寸后，素材将根据实际大小（以厘米为单位）进行平铺。 无论对象缩放比例如何，拼贴都将保持不变。 通过在插件面板中切换到着色器，可启用该功能。 调整对象比例后，应按ctrl/cmd+A应用比例以准确平铺纹理。
+启用物理尺寸后，素材将根据实际大小（以厘米为单位）进行平铺。 无论对象缩放程度如何，素材拼贴都将保持不变。 通过在插件面板中切换到着色器，可启用该功能。 调整对象比例后，应按ctrl/cmd+A应用比例以准确平铺纹理。
 
 ## 调整物理尺寸
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
 description: 将虚构引擎5中的Substance材料与Substance增效工具一起使用，以进行实时材料编辑和渲染。
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/custom-materials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/custom-materials.html"
 breadcrumb-title: ''
 description: 在MODO中将Unreal、Unity和glTF自定义素材与Substance增效工具一起用于专门的工作流程。
 helpx_creative_field: ""

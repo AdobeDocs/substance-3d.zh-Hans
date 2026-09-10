@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-questions/what-is-the-difference-between-the-opengl-and-directx-normal-format.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-is-the-difference-between-the-opengl-and-directx-normal-format.html"
 breadcrumb-title: ''
 description: 了解OpenGL与法线贴图格式之间的差异以及何时使用它们。
 helpx_creative_field: ""
@@ -30,6 +30,6 @@ ht-degree: 0%
 >
 > **说明**
 > 
-> OpenGL和DirectX是两个图形API（函数集），程序员可在应用程序中使用，与GPU（图形处理单元）对话。 从正常映射的角度来看，这种差异会导致如何解释RGB纹理的绿色通道。 OpenGL期望第一个像素位于底部，而DirectX期望第一个像素位于顶部。 这通常是在各种技术讨论中建议尝试反转法线图的绿色通道，以查看在反转像素值（第一个变为最后一个）时它是否表现更好。 OpenGL可称为&#x200B;**Y+**（自下而上），而DirectX称为&#x200B;**Y-**（自上而下）。
+> OpenGL和DirectX是两个图形API（函数集），程序员可在应用程序中使用，与GPU（图形处理单元）对话。 从法线图的角度来看，这种差异导致了如何解释RGB纹理的绿色通道。 OpenGL期望第一个像素位于底部，而DirectX期望第一个像素位于顶部。 这通常是在各种技术讨论中建议尝试反转法线图的绿色通道，以查看在反转像素值（第一个变为最后一个）时它是否表现更好。 OpenGL可称为&#x200B;**Y+**（自下而上），而DirectX称为&#x200B;**Y-**（自上而下）。
 > 
-> 要了解使用哪种格式，请参阅将在其中使用纹理的目标应用程序。
+> 要了解使用哪种格式，请参阅将在其中使用您的纹理的目标应用程序。

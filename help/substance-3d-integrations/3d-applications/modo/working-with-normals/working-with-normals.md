@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: 在MODO中配置法线图方向设置，以确保使用Substance材料正确渲染法线图。
 helpx_creative_field: ""

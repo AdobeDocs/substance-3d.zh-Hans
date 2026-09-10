@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-release-notes.html"
 breadcrumb-title: ''
-description: 查看适用于Unreal Engine 5的Substance 3D增效工具所有版本的发行说明，以随时了解最新功能。
+description: 查看适用于虚实引擎5的Substance 3D增效工具所有版本的发行说明，以便及时了解最新功能。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Unreal Engine 5 Release Notes
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Unreal Engine 5发行说明
+title: Unreal引擎5发行说明
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Unreal Engine 5发行说明
+# Unreal引擎5发行说明
 
 我们目前支持适用于UE 5的Substance 3D插件。 虽然我们积极支持UE 4.27和更高版本，但我们建议使用UE 5.0.0和更高版本。
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
 breadcrumb-title: ''
 description: 通过满足Substance要求并正确安装增效工具，在Cinema 4D中设置系统增效工具。
 helpx_creative_field: ""

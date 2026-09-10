@@ -22,13 +22,13 @@ ht-degree: 4%
     + [常见问题解答](/help/substance-3d-general/ecosystem/for-linux/faq/faq.md)
   + [导入和导出格式](/help/substance-3d-general/ecosystem/import-and-export-formats/import-and-export-formats.md)
   + [旧版本](/help/substance-3d-general/ecosystem/legacy-versions/legacy-versions.md)
-  + [Substance引擎版本控制](/help/substance-3d-general/ecosystem/engine-versioning/substance-engine-versioning.md)
+  + [引擎版本控制](/help/substance-3d-general/ecosystem/engine-versioning/substance-engine-versioning.md)
   + [艺术家的Substance 3D图标](/help/substance-3d-general/ecosystem/susbtance-3d-app-icons/susbtance-3d-app-icons.md)
 + OpenPBR{#openpbr}
   + [OpenPBR](/help/substance-3d-general/openpbr/openpbr-overview.md)
   + [常见问题解答](/help/substance-3d-general/openpbr/openpbr-faq.md)
 + ASM{#asm}
-  + [Adobe标准素材概述](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
+  + [Adobe Standard Material概述](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
   + [ASM规范](/help/substance-3d-general/adobe-standard-material/asm-specifications/asm-specifications.md)
   + [ASM技术文档](/help/substance-3d-general/adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)
-  + [金属材料参考资料](/help/substance-3d-general/adobe-standard-material/metal-material-references/metal-material-references.md)
+  + [金属材料参考](/help/substance-3d-general/adobe-standard-material/metal-material-references/metal-material-references.md)

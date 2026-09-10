@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
 breadcrumb-title: ''
 description: 在3ds Max中使用Substance素材和电晕渲染器，同时使用Specular/光泽度和必要的地图。
 helpx_creative_field: ""

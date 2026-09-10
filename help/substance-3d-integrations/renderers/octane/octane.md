@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/octane.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
 description: 使用3ds Max和MODO中的独立渲染器或DCC增效工具使用Octane渲染材料。
 helpx_creative_field: ""

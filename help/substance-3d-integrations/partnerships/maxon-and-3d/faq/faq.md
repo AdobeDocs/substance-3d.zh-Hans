@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
 breadcrumb-title: ''
 description: 查找有关Substance 3D和Maxon One伙伴关系和集成的常见问题解答。
 helpx_creative_field: ""
@@ -59,7 +59,7 @@ ht-degree: 4%
   * Red Giant
   * Zbrush
   * 伪造
-  * Capsule资源的完整库
+  * 完整的胶囊体资源库
 
 * Cinema 4D
 
@@ -71,7 +71,7 @@ ht-degree: 4%
 
 * 伪造
 
-* Capsule资源的完整库
+* 完整的胶囊体资源库
 
 * Substance 3D Collection包括：
   * Substance 3D Modeler
@@ -96,7 +96,7 @@ ht-degree: 4%
 +++
 
 +++第一年后如何续订？
-您的Maxon One订阅将按正常价格（每年1199美元或地区等价物）自动续订一年。
+您的Maxon One订阅将按正常价格（每年1199美元USD或地区等价物）自动续订一年。
 
 仅在以下情况下，Substance 3D收藏集才会自动续订：您在兑换优惠券代码时输入了有效信用卡，或者您在订阅期到期之前，在account.adobe.com帐户管理页面中添加了信用卡。
 

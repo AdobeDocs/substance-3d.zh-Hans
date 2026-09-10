@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
-description: 通过实时DB素材和适当的输出设置，在3ds Max中使用带有辛烷值渲染器的Substance素材。
+description: 通过实时数据库材料和适当的输出设置，在3ds Max中使用带有辛烷值渲染器的Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Octane > Octane for 3ds Max
 helpx_experience_level: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## 在3ds Max增效工具中Substance
 
-使用[3ds Max增效工具](../../../3d-applications/3ds-max/3ds-max.md)，您可以在“Substance”菜单中选择“辛烷”，以自动设置包含Substance纹理输入的辛烷素材。
+使用[3ds Max增效工具](../../../3d-applications/3ds-max/3ds-max.md)，您可以在“Substance”菜单中选择“辛烷”，以自动设置包含Substance纹理输入的辛烷材料。
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/octane?$png$&jpegSize=200&wid=852)
