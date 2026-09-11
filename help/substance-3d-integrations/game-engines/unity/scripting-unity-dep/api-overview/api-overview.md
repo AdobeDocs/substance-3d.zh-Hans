@@ -31,7 +31,7 @@ Substance.Game是包含用于脚本的类的程序集。 这些类别如下：
 
 **Substance.游戏。**&#x200B;**Substance**：引用sbsar
 
-**Substance.Game.SubstanceGraph**： sbsar.*（在Unity 2017中曾是ProcedualMaterial）*&#x200B;中的单个图形
+**Substance.Game.SubstanceGraph**：sbsar中的单个图形。*（在Unity 2017中曾是ProcedualMaterial）*
 
 ## 脚本编写过程
 
@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-引号中的值是Substance Designer中设置的参数“标识符”。
+引号中的值是在Substance Designer中设置的参数标识符。
 
-在Unity Inspector中，可以将鼠标悬停在参数上以显示工具提示，其中显示了Substance Designer中设置的标识符的名称。
+在Unity Inspector中，可以将鼠标悬停在参数上以显示工具提示，其中显示了Substance Designer中设置的该标识符的名称。
 
 ![](../../../../assets/tooltip-6.png)
 

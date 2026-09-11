@@ -23,13 +23,13 @@ ht-degree: 0%
 现在，[网站](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)上发布了增效工具的2.0.3版本。
 
 更改：\
-\* VRay工作流程现在将视频素材设置为使用粗糙度\
+\* VRay工作流程现在将Vray材料设置为使用粗糙度\
 \*更新了一些指向新的substance3d站点的链接。\
 \*已将Substance 引擎版本添加到“关于”菜单\
 \*添加了用于查询Substance 引擎版本的脚本命令\
 \* $pixelsize输入不再崩溃\
 \*现在，节点上可以看到Designer中设置的值输入，例如图像输入\
-\* Redshift工作流程脚本现在将brdf设置为ggx，凹凸节点则使用相切空间法线\
+\* Redshift工作流程脚本现在将brdf设置为ggx，将凹凸节点设置为使用正切空间法线\
 \*新的Renderman工作流脚本可更好地匹配预期用途\
 \* substanceSetWorkflow命令现在可正确接受字符串参数\
 \*增加了对Maya 2020的支持

@@ -7,7 +7,7 @@ helpx_description: bakers > Common Issues > Seams are visible after baking a nor
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 烘焙常规纹理后，接缝可见
+title: 烘焙普通纹理后，接缝可见
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 烘焙常规纹理后，接缝可见
+# 烘焙普通纹理后，接缝可见
 
 >[!WARNING]
 >

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/corona.html"
 breadcrumb-title: ''
-description: 在3ds Max中使用Substance材质，并采用“Specular/光泽度”工作流程和所需的映射，制作电晕渲染器。
+description: 在3ds Max中使用材料和电晕渲染器，同时使用Specular/光泽度工作流程和所需的映射。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Corona
 helpx_experience_level: ""
@@ -27,11 +27,11 @@ ht-degree: 1%
 * Glossiness
 * 1/IOR（已转换）
 
-1/IOR映射只能从金属/粗糙度工作流程中转换，后者是Substance Designer和Substance Painter的默认工作流程。
+1/IOR映射只能从金属/粗糙度工作流程中转换，该工作流程是Substance Designer和Substance Painter的默认工作流程。
 
 1. 使用Corona预设从Substance Painter导出地图。
-1. 对于自定Substance，可以使用设置为Vray预设的basecolor\_metallic\_roughness转换节点来创建自定义输出。
-1. 对于3ds Max和Cinema 4D，使用层状电晕材料处理金属和介电材料，并绕过转换1/IOR映射的需要。
+1. 对于自定义Substance，可以使用设置为Vray预设的基色\_金属\_粗糙度转换节点来创建自定义输出。
+1. 对于3ds Max和Cinema 4D，使用分层电晕材料处理金属和电介质材料，并绕过转换1/IOR映射的需要。
 
 ## 目录
 

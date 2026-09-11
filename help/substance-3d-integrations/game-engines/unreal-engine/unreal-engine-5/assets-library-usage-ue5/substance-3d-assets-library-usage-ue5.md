@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance 3D Assets库使用情况 — UE5
 
-在[Substance 3D Assets Library](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)上访问超过1000种具备预设功能的高质量可调整和可用于导出的4K素材。 您可以在[社区资源库](https://helpx.adobe.com/cn/substance-3d/unlisted/community-assets.html)中浏览社区贡献的资源。
+在[Substance 3D Assets Library](https://helpx.adobe.com/cn/substance-3d/unlisted/assets.html)上访问超过1000种具备预设功能的高质量可调整且可用于导出的4K材料。 您可以在[社区资源库](https://helpx.adobe.com/cn/substance-3d/unlisted/community-assets.html)中浏览社区贡献的资源。
 
 可从资源库下载材料并在UE5中使用它们。
 

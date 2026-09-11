@@ -26,7 +26,7 @@ ht-degree: 0%
 
 它包含的唯一更改是：
 
-* 修复了创建Stingray着色器网络时Maya LT中的错误。
+* 修复了创建stingray着色器网络时Maya LT中的错误。
 
 该版本还与Maya 2020.2一起发布，并包含在Maya安装程序中。
 

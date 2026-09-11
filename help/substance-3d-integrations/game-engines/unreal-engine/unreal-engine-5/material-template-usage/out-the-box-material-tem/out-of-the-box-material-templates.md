@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unrea
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 开箱即用的材质模板
+title: 开箱即用的材料模板
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 开箱即用的材质模板
+# 开箱即用的材料模板
 
 将SBSAR材料导入内容浏览器时，您可以在下拉菜单中选择现成的其他材料模板。
 

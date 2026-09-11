@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity.html"
 breadcrumb-title: ''
-description: 在Unity游戏引擎中导入和使用Substance素材，并具有原生增效工具支持和运行时参数控制。
+description: 在Unity游戏引擎中导入和使用Substance材料，并具有本机插件支持和运行时参数控制。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity
 helpx_experience_level: ""
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 >[!WARNING]
 >
-> 在创作自定义Substance素材之前，请确保检查[优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md)页。
+> 在创作自定义材料之前，请务必检查[优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md)页。
 
 ## 目录
 
@@ -42,11 +42,11 @@ ht-degree: 0%
 * [在Unity中下载Substance 3D插件](../../game-engines/unity/downloading-plugin-unity/downloading-substance-3d-plugin-in-unity.md) - Unity Asset Store中提供Substance 3D for UnityAdobehttps://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555.
 * [Unity插件概述](../../game-engines/unity/unity-plugin-overview/unity-plugin-overview.md)
 * [Unity首选项](../../game-engines/unity/unity-preferences/unity-preferences.md) —Substance首选项窗口允许您为增效工具设置用户定义的选项。
-* [优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md) — 创建自己的自定义Substance素材时，请确保检查以下优化准则。
+* [优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md) — 创建自己的自定义材料时，请确保检查以下优化准则。
 * [升级项目/已知问题](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) - Unity增效工具中Substance的已知问题
-* [管理Substance 图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — 您可以使用Substance 图形管理器(SGM)基于Substance素材创建新素材
-* [更改参数](../../game-engines/unity/changing-parameters/changing-parameters.md) — 可在Substance 图形对象(SGO)上访问Substance素材的参数。
-* [生成的纹理(打包)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — 生成的纹理显示Substance 引擎为创建纹理而计算的Substance输出
+* [管理Substance 图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — 您可以使用材料管理器(SGM)基于Substance材料创建新Substance 图形
+* [更改参数](../../game-engines/unity/changing-parameters/changing-parameters.md) -材料的参数可在Substance 图形对象(SGO)上访问。
+* [生成的纹理(打包)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — 生成的纹理显示Substance 引擎为创建Substance而计算的纹理输出
 * [渲染色彩空间](../../game-engines/unity/rendering-color-space/rendering-color-space.md) — 为获得最佳效果，应在Unity Player设置中将色彩空间设置为线性。
 * [使用图像输入](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [发布为移动设备](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) — 在移动平台上发布的准则
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 >[!WARNING]
 >
-> 在创作自定义Substance素材之前，请确保检查[优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md)页。
+> 在创作自定义材料之前，请务必检查[优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md)页。
 
 ### 目录
 
@@ -74,11 +74,11 @@ ht-degree: 0%
 * [在Unity中下载Substance 3D插件](../../game-engines/unity/downloading-plugin-unity/downloading-substance-3d-plugin-in-unity.md) - Unity Asset Store中提供Substance 3D for UnityAdobehttps://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555.
 * [Unity插件概述](../../game-engines/unity/unity-plugin-overview/unity-plugin-overview.md)
 * [Unity首选项](../../game-engines/unity/unity-preferences/unity-preferences.md) —Substance首选项窗口允许您为增效工具设置用户定义的选项。
-* [优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md) — 创建自己的自定义Substance素材时，请确保检查以下优化准则。
+* [优化准则](../../game-engines/unity/optimization-guidelines/optimization-guidelines.md) — 创建自己的自定义材料时，请确保检查以下优化准则。
 * [升级项目/已知问题](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) - Unity增效工具中Substance的已知问题
-* [管理Substance 图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — 您可以使用Substance 图形管理器(SGM)基于Substance素材创建新素材
-* [更改参数](../../game-engines/unity/changing-parameters/changing-parameters.md) — 可在Substance 图形对象(SGO)上访问Substance素材的参数。
-* [生成的纹理(打包)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — 生成的纹理显示Substance 引擎为创建纹理而计算的Substance输出
+* [管理Substance 图形](https://helpx.adobe.com/cn/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) — 您可以使用材料管理器(SGM)基于Substance材料创建新Substance 图形
+* [更改参数](../../game-engines/unity/changing-parameters/changing-parameters.md) -材料的参数可在Substance 图形对象(SGO)上访问。
+* [生成的纹理(打包)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) — 生成的纹理显示Substance 引擎为创建Substance而计算的纹理输出
 * [渲染色彩空间](../../game-engines/unity/rendering-color-space/rendering-color-space.md) — 为获得最佳效果，应在Unity Player设置中将色彩空间设置为线性。
 * [使用图像输入](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [发布为移动设备](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) — 在移动平台上发布的准则

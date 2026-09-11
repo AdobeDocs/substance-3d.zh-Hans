@@ -15,10 +15,10 @@ ht-degree: 2%
 + [主屏幕](/help/substance-3d-integrations/home/home.md)
 + 游戏引擎{#game-engines}
   + [游戏引擎概述](/help/substance-3d-integrations/game-engines/game-engines.md)
-  + 虚引擎{#unreal-engine}
+  + 虚构引擎{#unreal-engine}
     + 虚引擎5{#unreal-engine-5}
-      + [Unreal Engine 5概述](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
-      + Unreal Engine 5发行说明{#unreal-engine-5-release-notes}
+      + [虚构引擎5概述](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
+      + Unreal引擎5发行说明{#unreal-engine-5-release-notes}
         + [Unreal plugin 5.3.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-3-2/unreal-plugin-5-3-2.md)
         + [Unreal plugin 5.0.3](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-0-3/unreal-plugin-5-0-3.md)
         + [Unreal plugin 5.0.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-0-2/unreal-plugin-5-0-2.md)
@@ -34,15 +34,15 @@ ht-degree: 2%
       + [Substance 3D增效工具默认模板](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
       + [Substance 3D Assets库使用情况 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
       + 蓝图 — UE5{#blueprints-ue5}
-        + [Blueprint- UE5：Substance材料参数](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md)
-        + [Blueprint- UE5：动态素材实例跳到元数据结尾](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-mat/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.md)
+        + [Blueprint- UE5：材料参数](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-material-par/blueprintue5-substance-material-parameters.md)
+        + [Blueprint- UE5：动态材料实例跳到元数据结尾](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-dynamic-mat/blueprintue5-dynamic-material-instance-skip-to-end-of-metadata.md)
         + [Blueprint- UE5：聚合Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-aggregate/blueprintue5-aggregate-substance.md)
         + [Blueprint- UE5：节点引用](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-node-ref/blueprintue5-node-reference.md)
-      + [Unreal Engine 5脚本](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting/unreal-engine-5-scripting.md)
+      + [虚实引擎5脚本](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting/unreal-engine-5-scripting.md)
       + [安装到源版本](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/installing-source-builds/installing-to-source-builds-ue5.md)
-    + 虚引擎4{#unreal-engine-4}
-      + [Unreal Engine 4概述](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4.md)
-      + Unreal Engine 4增效工具发行说明{#unreal-engine-4-plugin-release-notes}
+    + 虚线引擎4{#unreal-engine-4}
+      + [虚构引擎4概述](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4.md)
+      + Unreal Plugin 4引擎发行说明{#unreal-engine-4-plugin-release-notes}
         + [非实际插件4.27.0.1](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-27-0-1/unreal-plugin-4-27-0-1.md)
         + [非实际插件4.26.0.21](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-26-0-21/unreal-plugin-4-26-0-21.md)
         + [非实际插件4.26.0.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-26-0-2/unreal-plugin-4-26-0-2.md)
@@ -58,16 +58,16 @@ ht-degree: 2%
         + [非实际插件4.21.0.31](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-plugin-rel/unreal-plugin-4-21-0-31/unreal-plugin-4-21-0-31.md)
       + [增效工具概述 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4/plugin-overview-ue4.md)
       + [增效工具设置 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4/plugin-settings-ue4.md)
-      + [Substance输入图像 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
+      + [输入图像- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
       + [物料实例定义 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
-      + [拼贴Substance- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
+      + [Substance- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
       + [使用凹凸偏移 — 视差 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset/working-with-bump-offset-parallax-ue4.md)
       + [使用位移- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement/working-with-displacement-ue4.md)
       + [UE4中的源](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4/source-in-ue4.md)
       + [UE4中的Live Link](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/live-link-in-ue4/live-link-in-ue4.md)
       + 蓝图 — UE4{#blueprints-ue4}
-        + [Blueprint- UE4：Substance材料参数](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-material-par/blueprintue4-substance-material-parameters.md)
-        + [Blueprint- UE4：动态材质实例](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-mat/blueprintue4-dynamic-material-instance.md)
+        + [Blueprint- UE4：材料参数](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-material-par/blueprintue4-substance-material-parameters.md)
+        + [蓝图 — UE4：动态材料实例](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-mat/blueprintue4-dynamic-material-instance.md)
         + [Blueprint- UE4：聚合Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate/blueprintue4-aggregate-substance.md)
         + [Blueprint- UE4：节点引用](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-ref/blueprintue4-node-reference.md)
       + [Unreal Engine 4脚本](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting/unreal-engine-4-scripting.md)
@@ -97,7 +97,7 @@ ht-degree: 2%
     + [升级项目/已知问题](/help/substance-3d-integrations/game-engines/unity/upgrading-projects-known/upgrading-projects-known-issues.md)
     + [管理Substance 图形](/help/substance-3d-integrations/game-engines/unity/managing-graphs/managing-substance-graphs.md)
     + [更改参数](/help/substance-3d-integrations/game-engines/unity/changing-parameters/changing-parameters.md)
-    + [生成的纹理 — 打包](/help/substance-3d-integrations/game-engines/unity/generated-textures-pac/generated-textures-packing.md)
+    + [生成的纹理-打包](/help/substance-3d-integrations/game-engines/unity/generated-textures-pac/generated-textures-packing.md)
     + [渲染色彩空间](/help/substance-3d-integrations/game-engines/unity/rendering-color-space/rendering-color-space.md)
     + [使用图像输入](/help/substance-3d-integrations/game-engines/unity/using-image-inputs/using-image-inputs.md)
     + [发布移动版](/help/substance-3d-integrations/game-engines/unity/publishing-for-mobile/publishing-for-mobile.md)
@@ -153,7 +153,7 @@ ht-degree: 2%
     + [Substance输出节点](/help/substance-3d-integrations/3d-applications/maya/output-node/substance-output-node.md)
     + [使用工作流](/help/substance-3d-integrations/3d-applications/maya/using-workflows/using-workflows.md)
     + [使用输出](/help/substance-3d-integrations/3d-applications/maya/working-with-outputs/working-with-outputs.md)
-    + [程序取样](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
+    + [程序化取样](/help/substance-3d-integrations/3d-applications/maya/procedural-sampling/procedural-sampling.md)
     + [预设](/help/substance-3d-integrations/3d-applications/maya/presets/presets.md)
     + [设置](/help/substance-3d-integrations/3d-applications/maya/settings/settings.md)
     + [Arnold支持](/help/substance-3d-integrations/3d-applications/maya/arnold-support/arnold-support.md)
@@ -245,8 +245,8 @@ ht-degree: 2%
   + [转换Substance输出](/help/substance-3d-integrations/renderers/converting-outputs/converting-substance-outputs.md)
   + 色彩管理{#color-management}
     + [色彩管理概述](/help/substance-3d-integrations/renderers/color-management/color-management.md)
-    + [Maya中的Substance纹理](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
-    + [3ds Max中的Substance纹理](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
+    + [Maya中的纹理](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
+    + [3ds Max中的纹理](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + Arnold{#arnold}
     + [Arnold概述](/help/substance-3d-integrations/renderers/arnold/arnold.md)
     + [Arnold — 在3ds Max中Substance](/help/substance-3d-integrations/renderers/arnold/arnold-in-3ds-max/arnold-substance-in-3ds-max.md)

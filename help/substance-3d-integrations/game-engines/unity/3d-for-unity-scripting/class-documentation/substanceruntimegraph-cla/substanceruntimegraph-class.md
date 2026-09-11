@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
 breadcrumb-title: ''
-description: 用于Unity中运行时图操作的SubstanceRuntimeGraph类的参考文档。
+description: 用于Unity中运行时图形操作的SubstanceRuntimeGraph类的参考文档。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Substance 3D for Unity Scripting > Class Documentation > SubstanceRuntimeGraph Class
 helpx_experience_level: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 此类提供运行时功能以修改输入并渲染Substance图表，从而允许←GraphSO在运行时生成其资源。
 
-Adobe.Substance.运行时.SubstanceRuntimeGraph的继承图：
+Adobe.Substance.Runtime.SubstanceRuntimeGraph的继承图：
 
 ![](../../../../../assets/image2022-10-14-17-53-23-1.png)
 
@@ -42,14 +42,14 @@ Adobe.Substance.运行时.SubstanceRuntimeGraph的继承图：
 ```
 
 
-更新Substance浮点输入
+更新Float输入
 
 ```
 • float GetInputFloat (string inputName)
 ```
 
 
-获取Substance浮点输入
+获取Float输入
 
 ```
 • void SetInputVector2 (string inputName, Vector2 value)
@@ -112,14 +112,14 @@ Adobe.Substance.运行时.SubstanceRuntimeGraph的继承图：
 ```
 
 
-更新Substance布尔输入
+更新布尔值输入
 
 ```
 • bool GetInputBool (string inputName)
 ```
 
 
-获取Substance的布尔型输入。
+获取布尔值输入。
 
 ```
 • void SetInputInt (string inputName, int value)
@@ -203,14 +203,14 @@ Adobe.Substance.运行时.SubstanceRuntimeGraph的继承图：
 ```
 
 
-更新SubstanceTexture2D输入。
+更新纹理2D输入。
 
 ```
 • Vector2Int GetTexturesResolution ()
 ```
 
 
-返回实例纹理输出分辨率。
+返回实例纹理输出解析。
 
 ```
 • void SetTexturesResolution (Vector2Int size)
@@ -231,7 +231,7 @@ Adobe.Substance.运行时.SubstanceRuntimeGraph的继承图：
 ```
 
 
-返回一个列表，其中包含Substance实例的所有输出纹理。
+返回包含Substance实例的所有输出纹理的列表。
 
 ```
 •  Texture2D GetOutputTexture (string outputName)
@@ -259,7 +259,7 @@ Adobe.Substance.运行时.SubstanceRuntimeGraph的继承图：
 ```
 
 
-使用预设XML设置图形输入参数。
+使用预设XML设置输入参数。
 
 ```
 • string CreatePresetFromCurrentState ()
@@ -309,4 +309,4 @@ SDK。
 ```
 
 
-Substance实例生成的主要素材。
+Substance材料生成的主实例。

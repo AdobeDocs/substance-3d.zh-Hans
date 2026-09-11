@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
-description: 通过检查网格颜色属性和UV映射，从网格烘焙失败解决颜色映射。
+description: 通过检查烘焙属性和网格映射来解决UV映射失败问题。
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Baking failed with Color Map from Mesh
 helpx_experience_level: ""
@@ -28,14 +28,14 @@ ht-degree: 0%
 > 
 > &#x200B;> > > 
 > 
-> [烘焙]烘焙失败（来自网格的颜色图）\
+> [烘焙]烘焙失败(来自网格的色图)\
 > 找不到顶点颜色
 
 >[!NOTE]
 >
 > **说明**
 > 
-> 来自网格[&#128279;](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)的颜色映射的默认设置是根据网格UV将高多边形网格顶点颜色烘焙到纹理中。 但是，通常情况下，高多边形网格没有任何顶点颜色信息。 因此，面包师无法写入不存在的信息。
+> [来自网格的色图](../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)的默认设置是根据顶点UV将高多边形网格纹理烘焙为网格。 但是，通常情况下，高多边形网格没有任何顶点颜色信息。 因此，Baker无法写入不存在的信息。
 
 >[!NOTE]
 >
@@ -43,6 +43,6 @@ ht-degree: 0%
 > 
 > 有不同的解决方案可避免此错误消息：
 > 
-> * 使用具有顶点颜色的高多边形网格
-> * 使用不同的设置从网格烘焙器设置颜色图
-> * 如果不需要颜色图，请不要使用网格烘焙器中的颜色图
+> * 使用具有网格的高多边形颜色
+> * 使用其他设置设置Baker
+> * 如果您不需要Baker，请不要使用它

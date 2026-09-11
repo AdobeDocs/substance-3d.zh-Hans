@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/blender.html"
 breadcrumb-title: ''
-description: 安装并使用适用于Blender的Substance 3D插件，以在3D项目中导入和使用Substance素材。
+description: 安装并使用适用于Blender的Substance 3D插件，以在3D项目中导入和使用Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Blender
 helpx_experience_level: ""

@@ -26,6 +26,6 @@ ht-degree: 0%
 
 ### 核心增效工具：
 
-* 修复了在安装Unity中的Substance增效工具时覆盖Unity默认纹理GUI的错误
+* 修复了在安装Unity中的纹理增效工具时覆盖Unity默认SubstanceGUI的错误
   * 修复了设置EditorApplication.delayCall导致其他插件出现问题的错误
-  * 修正了在项目名称中使用非拉丁字符时发生崩溃的问题
+  * 修复了在项目名称中使用非拉丁字符时发生的崩溃

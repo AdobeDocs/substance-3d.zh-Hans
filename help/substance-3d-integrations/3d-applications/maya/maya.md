@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
-description: 安装并使用适用于Maya的Substance增效工具导入Substance素材，并将其集成到您的工作流程中。
+description: 安装并使用适用于Maya的Substance增效工具以导入Substance材料并将其集成到您的工作流程中。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya
 helpx_experience_level: ""

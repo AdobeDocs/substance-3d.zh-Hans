@@ -44,8 +44,8 @@ ht-degree: 2%
 | setInputVec2 | 设置具有两个元素的矢量输入 |  |  | ***Point2参数： &#x200B;**&#x200B;***值**&#x200B;设置输入到&#x200B;***String参数的Max point2值&#x200B;***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
 | setInputVec3 | 设置具有三个元素的矢量输入 |  |  | ***Point3参数：*&#x200B;值&#x200B;**&#x200B;用于将输入设置为&#x200B;***String参数的Max point3值&#x200B;***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
 | setInputVec4 | 设置具有四个元素的矢量输入 |  |  | ***Point4参数***： **值** Max point4值，用于将输入设置为&#x200B;***字符串参数：* inputIdentifier &#x200B;** 输入的唯一字符串标识符 |
-| setInputColor | 使用新值设置颜色输入 |  |  | ***颜色参数***： **值**&#x200B;设置输入的最大颜色值&#x200B;***字符串参数：* inputIdentifier &#x200B;** 输入的唯一字符串标识符 |
-| setInputComboSelection | 在组合框输入中设置当前选定的值 |  |  | ***整数参数***： **值**&#x200B;组合框widget ***String参数的索引***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
+| setInputColor | 使用新值设置颜色输入 |  |  | ***Color参数***： **值**&#x200B;最大颜色值以将输入设置为&#x200B;***String参数：* inputIdentifier &#x200B;** 输入的唯一字符串标识符 |
+| setInputComboSelection | 在组合框输入中设置当前选定的值 |  |  | ***参数***&#x200B;整数： **值**&#x200B;组合框widget ***String参数的索引***： **inputIdentifier**&#x200B;输入的唯一字符串标识符 |
 | getInputInt | 获取整数输入类型的输入值 | 输入的当前整数值 | 整数 | ***字符串参数：* inputIdentifier &#x200B;** 输入的唯一字符串标识符 |
 | getInputFloat | 获取浮点输入类型的输入值 | 输入的当前浮点值 | 浮点 | ***字符串参数：* inputIdentifier &#x200B;** 输入的唯一字符串标识符 |
 | getInputString | 获取字符串输入类型的输入值 | 输入的当前字符串值 | 字符串 | ***字符串参数：* inputIdentifier &#x200B;** 输入的唯一字符串标识符 |

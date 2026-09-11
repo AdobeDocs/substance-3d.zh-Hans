@@ -26,5 +26,5 @@ ht-degree: 0%
 * [适用于Linux的Substance 3D](../ecosystem/for-linux/substance-for-linux.md)
 * [导入和导出格式](../ecosystem/import-and-export-formats/import-and-export-formats.md)
 * [旧版本](../ecosystem/legacy-versions/legacy-versions.md)
-* [Substance引擎版本控制](../ecosystem/engine-versioning/substance-engine-versioning.md)
+* [引擎版本控制](../ecosystem/engine-versioning/substance-engine-versioning.md)
 * [艺术家的Substance 3D图标](../ecosystem/susbtance-3d-app-icons/susbtance-3d-app-icons.md)

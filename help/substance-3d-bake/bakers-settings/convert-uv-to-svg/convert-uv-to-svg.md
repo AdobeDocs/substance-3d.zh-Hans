@@ -32,4 +32,4 @@ ht-degree: 6%
 | *参数* | *描述* |
 | --- | --- |
 | **填充** | 控制要为SVG形状添加多少几何边距。 |
-| **颜色模式** | 定义SVG形状的着色方式。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>随机：</strong>每个UV壳都用随机颜色着色。</li><li data-preserve-html="true"><strong>色相偏移：</strong>每个UV壳都使用唯一的色相值着色。</li><li data-preserve-html="true"><strong>灰度：</strong>每个UV壳都用唯一的灰度值着色。</li><li data-preserve-html="true"><strong>统一颜色：</strong>所有UV外壳都使用50%的灰度值着色。</li><li data-preserve-html="true"><strong>材料ID颜色</strong>：UV外壳的颜色由场景视图中定义的材料着色。</li></ul> |
+| **颜色模式** | 定义SVG形状的着色方式。可能的值：<ul data-preserve-html="true"><li data-preserve-html="true"><strong>随机：</strong>每个UV壳都用随机颜色着色。</li><li data-preserve-html="true"><strong>色相偏移：</strong>每个UV壳层均用唯一的色相值着色。</li><li data-preserve-html="true"><strong>灰度：</strong>每个UV壳都用唯一的灰度值着色。</li><li data-preserve-html="true"><strong>统一颜色：</strong>所有UV外壳均使用50%灰度值着色。</li><li data-preserve-html="true"><strong>材质ID颜色</strong>：UV外壳由场景视图中定义的材质颜色着色。</li></ul> |

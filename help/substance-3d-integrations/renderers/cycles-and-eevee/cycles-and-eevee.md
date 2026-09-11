@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/cycles-and-eevee.html"
 breadcrumb-title: ''
-description: 通过导出的地图或Substance插件将Substance素材与混合器的循环和Eevee渲染器结合使用。
+description: 通过导出的地图或Substance插件将Substance材料与混合器的循环和Eevee渲染器配合使用。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Cycles and Eevee
 helpx_experience_level: ""

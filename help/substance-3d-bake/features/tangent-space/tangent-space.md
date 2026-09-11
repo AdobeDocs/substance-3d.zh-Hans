@@ -51,11 +51,11 @@ Substance Designer支持以下算法：
 
 ## Substance Painter
 
-Substance Painter目前不支持自定义切线空间增效工具。 这意味着，如果用于创建项目的低多边形网格上不存在正切和二项式，将根据MikkTSpace算法重新计算它们。
+Substance Painter目前不支持自定义Tangent Space插件。 这意味着，如果用于创建项目的低多边形网格上不存在正切和二项式，将根据MikkTSpace算法重新计算它们。
 
 ## Substance Designer
 
-要在Substance Designer中设置正切空间算法，请执行以下步骤：
+要在Substance Designer中设置切线空间算法，请执行以下步骤：
 
 1. 选择&#x200B;**编辑** > **首选项**。
 
@@ -70,7 +70,7 @@ Substance Painter目前不支持自定义切线空间增效工具。 这意味�
 
 ## Substance自动化工具包
 
-与Automation Toolkit烘焙时，可以使用特定的命令行参数指定切线空间插件：
+使用烘焙工具包进行自动化处理时，可以使用特定的命令行参数指定切线空间插件：
 
 ```
 sbsbaker normal-from-mesh --tangent-space-plugin "C:/Substance Designer/plugins⁄tangentspace⁄mikktspace.dll" ...

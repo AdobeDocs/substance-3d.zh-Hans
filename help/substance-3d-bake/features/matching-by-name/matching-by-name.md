@@ -1,7 +1,7 @@
 ---
 helpx_url: 'https://helpx.adobe.com/cn/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
-description: 使用“按名称匹配”功能可隔离低多边形和高多边形网格，并防止在烘焙过程中出现几何出血。
+description: 使用“按名称匹配”功能可隔离低多边形和高多边形网格，并防止烘焙过程中出现几何出血。
 helpx_creative_field: ''
 helpx_description: bakers > Features > Matching by Name
 helpx_experience_level: ''
@@ -22,17 +22,17 @@ ht-degree: 0%
 
 ![](../../assets/banner-matching-by-name.jpg)
 
-“按名称匹配”是一种过滤方法的名称，在Substance Bakers中，可使用该方法根据名称隔离低多边形网格和高多边形网格。
+“按名称匹配”是筛选方法的名称，可在Substance Bakers中使用，根据名称隔离低多边形和高多边形网格。
 
-此功能对于避免在烘焙过程中几何形状相互溢出以实现干净的纹理非常有用。 它避免了必须移开网格（通常称为“爆炸”）才能获得相同的结果。
+此功能非常有用，可以避免在烘焙过程中几何相互渗漏以实现干净的纹理。 它避免了必须移开网格（通常称为“爆炸”）才能获得相同的结果。
 
 ## 何时按名称使用匹配
 
-### 网格渗出的法线图烘焙
+### 烘焙和网格出血
 
-在本例中，角色头部顶部的头盔会出血到角色面部上。
+在本例中，角色头部顶部的头盔会出血到角色脸部上。
 
-通过启用“按名称匹配”，我们可以忽略头盔并正确烘焙面部。 *此结果基于主“匹配”设置。*
+通过启用“按名称匹配”，我们可以忽略头盔并正确脸部。 *此结果基于主“匹配”设置。*
 
 | *网格* | *关闭按名称匹配* | *按名称匹配* |
 | --- | --- | --- |
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 ### 浮动几何的“忽略背面”
 
-在此示例中，框顶部的“按钮”是浮动几何，它们未连接到高多边形网格。 因此，默认情况下，它们将在它们下面的框上投影，这将显示几何边框。
+在此示例中，框顶部的“按钮”是浮动几何，它们未连接到高模网格。 因此，默认情况下，它们将在它们下面的框上强制转换阴影，这将显示几何边框。
 
-通过为&#x200B;**忽略背面**&#x200B;设置启用“按名称匹配”，我们可以烘焙环境遮蔽，同时忽略按钮下方的区域，使其看起来像一个单数框。*此结果基于使用“忽略背面”设置。*
+通过为&#x200B;**忽略背面**&#x200B;设置启用“按名称匹配”，我们可以ambient occlusion，同时忽略按钮下方的区域，使其看起来像一个单数框。*此结果基于使用“忽略背面”设置。*
 
 | *网格* | *关闭按名称匹配* | *按名称匹配* |
 | --- | --- | --- |
@@ -50,15 +50,15 @@ ht-degree: 0%
 
 ## 按名称匹配的工作方式
 
-“按名称匹配”系统的工作方式是：读取低多边形网格和高多边形网格中的几何名称，然后使用关键字（后缀）来识别/匹配名称。 默认情况下，Baker使用特定的后缀，但可以进行更改（请参阅下文）。
+“按名称匹配”系统的工作方式是：读取低多边形和高多边形网格中的几何名称，然后使用关键字（后缀）来识别/匹配名称。 默认情况下，生成器使用特定的后缀，但可以进行更改（请参阅下文）。
 
 支持的当前后缀包括：
 
 | *后缀类型* | *默认值* | *用法* |
 | --- | --- | --- |
 | 高多边形 | *\_high* | 用于隔离高模网格名称以匹配低位多边形。 |
-| 低多边形 | *\_low* | 用于隔离低模网格名称以匹配高多边形名称。 |
-| 忽略背面 | *\_ignorebf* | 用于忽略使用次生射线（如Ambient occlusion）的Baker的背面。*此后缀应仅存在于高多边形网格上，例如：**网格\_high\_ignorebf*** |
+| 低多边形 | *\_low* | 用于隔离低多边形网格的名称，以便与高多边形网格匹配。 |
+| 忽略背面 | *\_ignorebf* | 用于忽略使用次生射线（如环境遮蔽）的面包师的背面。*此后缀应仅存在于高多边形网格上，例如：**mesh\_high\_ignorebf*** |
 
 为使此功能正常工作需要考虑的一些规则：
 
@@ -75,16 +75,16 @@ ht-degree: 0%
 | <ul data-preserve-html="true"><li data-preserve-html="true">Head_low</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Head_high</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">head_high</li></ul> |
 | <ul data-preserve-html="true"><li data-preserve-html="true">Leg_low_top</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Leg_high</li><li data-preserve-html="true">Leg_high_top</li><li data-preserve-html="true">Leg_high_high_top</li></ul> | <ul data-preserve-html="true"><li data-preserve-html="true">Leg_top_high</li></ul> |
 
-## 如何设置烘焙师
+## 如何设置Baker
 
 ### 启用按名称匹配
 
-可以在面包机设置的[公共参数](../../bakers-settings/common-parameters/common-parameters.md)中启用按名称匹配：
+可以在Baker设置的[公用参数](../../bakers-settings/common-parameters/common-parameters.md)中启用按名称匹配：
 
 | *软件* | *设置配置* |
 | --- | --- |
-| **Substance Painter** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     打开烘焙窗口（通过“纹理设置”）。    </li> <li class="step" data-preserve-html="true">     显示公共参数。    </li> <li class="step" data-preserve-html="true">     将设置<strong>Match</strong>从“Always”更改为“By Mesh Name”。<br/> <img data-preserve-html="true" src="../../assets/baking-match-setting-sp.png"/>    </li> </ol> |
-| **Substance Designer** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     打开烘焙窗口（通过右键单击浏览器窗口中的链接网格）。    </li> <li class="step" data-preserve-html="true">     将设置<strong>匹配</strong>从“始终”更改为“按网格名称”。<br/> <br/>    </li> </ol> |
+| **Substance Painter** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     打开烘焙窗口（通过“纹理集设置”）。    </li> <li class="step" data-preserve-html="true">     显示公共参数。    </li> <li class="step" data-preserve-html="true">     将设置<strong>Match</strong>从“Always”更改为“By网格名称”。<br/> <img data-preserve-html="true" src="../../assets/baking-match-setting-sp.png"/>    </li> </ol> |
+| **Substance Designer** | <ol class="steps" data-preserve-html="true"> <li class="step" data-preserve-html="true">     打开烘焙窗口（通过右键单击“资源管理器”窗口中的链接网格）。    </li> <li class="step" data-preserve-html="true">     将设置<strong>Match</strong>从“Always”更改为“By网格名称”。<br/> <br/>    </li> </ol> |
 
 ### 更改后缀名称
 
@@ -95,9 +95,9 @@ ht-degree: 0%
 
 ## zBrush中的高多边形网格
 
-从zBrush导出的高多边形网格可用于通过“按名称匹配”功能烘焙，但遵循一些设置：
+从zBrush导出的高多边形网格可用于“按名称匹配”功能的烘焙，但遵循一些设置：
 
 | *文件格式* | *描述* |
 | --- | --- |
 | **FBX** | 无特定参数可启用/禁用，网格文件可按原样使用。 |
-| **对象** | 默认情况下，zBrush导出的OBJ文件不能使用&#x200B;**按名称匹配**。 相反，可以指示Substance Painter改用网格文件名按名称匹配网格。要执行此操作，请确保：<ol data-preserve-html="true"><li data-preserve-html="true"><strong>禁用</strong>每个</strong>子工具的组(Grp)参数。<strong></li><li data-preserve-html="true">适当地<strong>命名</strong> OBJ文件（例如： <strong>body_high.obj</strong>）。</li></ol> ![](../../assets/zbrush-setting.png) |
+| **对象** | 默认情况下，zBrush导出的OBJ文件不能使用&#x200B;**按名称匹配**。 相反，可以指示Substance Painter改用网格文件名按名称匹配网格。要执行此操作，请确保：<ol data-preserve-html="true"><li data-preserve-html="true"><strong>禁用</strong>每个</strong>子工具的组(Grp)参数。<strong></li><li data-preserve-html="true">适当命名OBJ文件<strong></strong>（例如： <strong>body_high.obj</strong>）。</li></ol> ![](../../assets/zbrush-setting.png) |

@@ -103,7 +103,7 @@ public class scifiScript : MonoBehaviour
 ```
 
 
-## 复制图表
+## 复制图形
 
 ```
 using System.Collections; 

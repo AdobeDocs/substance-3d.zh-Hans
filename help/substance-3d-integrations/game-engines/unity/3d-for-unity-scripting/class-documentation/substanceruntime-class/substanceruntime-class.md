@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
 breadcrumb-title: ''
-description: Unity中用于运行时Substance材质操作的SubstanceRuntime类的参考文档。
+description: 有关在Unity中用于运行时材料操作的SubstanceRuntime类的参考文档。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unity > Substance 3D for Unity Scripting > Class Documentation > SubstanceRuntime Class
 helpx_experience_level: ""
@@ -22,8 +22,8 @@ ht-degree: 1%
 
 ## Adobe.Substance.Runtime.SubstanceRuntime类引用
 
-处理Substance引擎初始化的单一实例类，用于获取Substance实例的本机处理程序。\
-Adobe.Substance.运行时.SubstanceRuntime的继承图：
+处理引擎初始化的单一实例类，用于获取Substance实例的本机处理程序。\
+Adobe.Substance.Runtime.SubstanceRuntime的继承图：
 
 ![](../../../../../assets/image2022-6-22-14-35-28.png)
 
@@ -47,7 +47,7 @@ Adobe.Substance.运行时.SubstanceRuntime的继承图：
 
 ### 详细说明
 
-处理Substance引擎初始化的单一实例类，用于获取Substance实例的本机处理程序。
+处理引擎初始化的单一实例类，用于获取Substance实例的本机处理程序。
 
 ### 成员函数文档
 

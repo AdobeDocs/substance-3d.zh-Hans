@@ -27,7 +27,7 @@ Adobe已与Maxon合作，在单个包中提供Substance 3D和Maxon One的绝佳3
 
 艺术家： Peter Tarka
 
-在3D设计和可视化方面，Maxon One与Substance 3D共同提供了一系列非凡的优势。 Maxon One提供了一套创意工具，包括Cinema 4D、Forger、Red Giant、Redshift、Universe和ZBrush，以及不断增长的Capsules资源集合。 Substance 3D为艺术家提供了各种工具，例如Modeler、Sampler、Designer、Painter、Stager，并可访问巨大的资源库。 将这些业界领先的软件包结合起来，可简化工作流程、提高工作效率，并创造令人惊叹的视觉效果和沉浸式体验。
+在3D设计和可视化方面，Maxon One与Substance 3D共同提供了一系列非凡的优势。 Maxon One提供了一套创意工具，包括Cinema 4D、Forger、Red Giant、Redshift、Universe和ZBrush，以及不断增长的胶囊体资源集合。 Substance 3D为艺术家提供了各种工具，例如Modeler、Sampler、Designer、Painter、Stager，并可访问巨大的资源库。 将这些业界领先的软件包结合起来，可简化工作流程、提高工作效率，并创造令人惊叹的视觉效果和沉浸式体验。
 
 ## 一次购买，价值巨大
 

@@ -56,21 +56,21 @@ ht-degree: 0%
 
 ## 从标记的材料中选择
 
-选择当前&#x200B;*已标记* Substance引用的所有材料。 在Cinema 4D中，如果选择了使用此材料的对象或标签，则标记该材料。
+选择当前&#x200B;*已标记* Substance引用的所有材料。 在Cinema 4D中，如果选择了使用此素材的对象或标签，则标记该素材。
 
 ## 选择材料
 
-选择引用当前所选Substance的所有材质。
+选择引用当前选定材料的所有Substance。
 
 ## 动作菜单
 
 ## 创建材料
 
-从当前选定的Substance创建新的Cinema 4D材质。 素材声道将通过Substance着色器参照Substance的相应输出声道自动初始化。
+从当前选定的Cinema 4D创建新Substance材料。 材料声道将通过Substance着色器参照Substance的相应输出声道自动初始化。
 
 ## 复制Substance
 
-复制当前选定的Substance。 这可用于对多种材料使用具有不同参数集的同一Substance。
+复制当前选定的Substance。 在多个材料上使用具有不同参数集的同一Substance时，此功能非常有用。
 
 ## 重新导入Substance
 
@@ -83,7 +83,7 @@ ht-degree: 0%
 
 ## 删除未使用的Substance
 
-删除当前未由任何材料引用的所有Substance。
+删除所有材料当前未引用的Substance。
 
 ## Substance 引擎菜单
 

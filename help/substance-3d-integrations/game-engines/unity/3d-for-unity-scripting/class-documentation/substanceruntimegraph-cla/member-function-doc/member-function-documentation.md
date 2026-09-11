@@ -57,7 +57,7 @@ List< Texture2D > Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetGeneratedText
 ```
 
 
-返回一个列表，其中包含Substance实例的所有输出纹理。
+返回包含Substance实例的所有输出纹理的列表。
 
 **返回**
 
@@ -70,7 +70,7 @@ bool Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetInputBool ( string inputNa
 ```
 
 
-获取Substance的布尔型输入。
+获取布尔值输入。
 
 **参数**
 
@@ -393,7 +393,7 @@ bool value ) [inline]
 ```
 
 
-更新Substance布尔输入
+更新布尔值输入
 
 **参数**
 
@@ -429,7 +429,7 @@ float value ) [inline]
 ```
 
 
-更新Substance浮点输入
+更新Float输入
 
 **参数**
 

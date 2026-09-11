@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
 breadcrumb-title: ''
-description: 使用Maya中的物理尺寸设置以应用现实世界规模的Substance素材，从而实现准确的可视化。
+description: 使用Maya中的物理尺寸设置以应用真实规模的Substance材料，实现准确的可视化。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Maya > Physical Size in Maya
 helpx_experience_level: ""
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 玛雅物理尺寸
 
-Maya中的物理尺寸功能允许您使用物理对应物大小相同的数字素材，并以正确大小在模型上平铺或重复这些素材。 这对于时尚、运动服装和室内装饰的设计和可视化，以及电影和游戏的服装设计都非常有用。
+Maya中的物理尺寸功能允许您使用与物理对应文件相同大小的数字材料，并以正确大小在模型上平铺或重复使用它们。 这对于时尚、运动服装和室内装饰的设计和可视化，以及电影和游戏的服装设计都非常有用。
 
-在Maya中创建您选择的渲染器节点后，只需在Substance UI上启用物理尺寸功能即可，该功能将在每个Substance输出后创建三平面投影节点，并将投影大小与捕捉期间记录的素材物理尺寸保持一致。
+在Maya中创建您选择的渲染器节点后，只需在Substance UI上启用物理尺寸功能即可，该功能将在每个Substance输出后创建一个三平面投影节点，并将投影的大小与捕获期间录制的材料物理尺寸匹配。
 
 请参阅以下教程，了解有关如何使用此功能的详细信息。
 

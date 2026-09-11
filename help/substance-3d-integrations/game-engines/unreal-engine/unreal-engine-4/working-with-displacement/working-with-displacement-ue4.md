@@ -24,7 +24,7 @@ ht-degree: 0%
 
 ![](../../../../assets/tess.png){width="600px"}
 
-要使用Height输出，需要双击Substance工厂实例中的输出以创建Height。 默认情况下不启用Height。 然后可以将此Height输出拖入素材。
+要使用Height输出，需要双击Substance工厂实例中的输出以创建Height。 默认情况下不启用Height。 然后可以将此Height输出拖入材料。
 
 ![](../../../../assets/height-1.png){width="800px"}
 

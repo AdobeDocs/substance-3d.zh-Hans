@@ -32,7 +32,7 @@ ht-degree: 0%
 | **CreateGraphInstance** | 输入： **SubstanceInstanceFactory** — 要从中创建图形实例的工厂。输入： **GraphIndex** (int) — 要创建的图形的索引。 输入： **InstanceName** (FString) — 希望新实例具有的名称。 | 返回新的独立图形实例，该实例将一直持续到应用程序关闭。 |
 | **DuplicateGraphInstance** | **SubstanceGraphInstance** — 要创建副本的图形实例。 | 返回新的独立图形实例，该实例将一直持续到应用程序关闭。 |
 | **EnableInstanceOutputs** | 输入： **SubstanceGraphInstance** — 包含要启用输入的输出的图形实例： **OutputIndices** （int32数组） — 要启用的输出的索引。 | 如果之前已禁用，则创建在&#x200B;**SubstanceGraphInstance**&#x200B;中传递的纹理输出。 此功能与从&#x200B;**SubstanceGraphInstance**&#x200B;编辑器启用输出相同。 *注意：这不会使用新创建的纹理更新您的材质。 这需要在运行时使用新输出设置sampler参数来处理。* |
-| **DisableInstanceOutput** | 输入： **SubstanceGraphInstance** — 包含要禁用输入的输出的图形实例： **OutputIndices** （int32数组） — 要禁用的输出的索引 | 如果启用，将禁用并删除在图形对象中传递的纹理输出 |
+| **DisableInstanceOutput** | 输入： **SubstanceGraphInstance** — 包含要禁用输入的输出的图形实例： **OutputIndices** （int32数组） — 要禁用的输出的索引 | 如果启用，将禁用并删除图形对象中传递的纹理输出 |
 | **CopyInputParameters** | 输入： **SubstanceGraphInstance** — 要将值应用于Input的图形实例： **SubstanceGraphInstance** — 要从中获取值的图形实例 | 恢复Substance 图形实例输入参数的所有已更改输入值。 |
 | **ResetInputParameters** | 输入：SubstanceGraphInstance | 将Substance 图形实例的输入值重置为默认值 |
 | **SetGraphInstanceOutputSize** | 输入： **SubstanceGraphInstance**&#x200B;输入：宽度 — X坐标的纹理分辨率输入：Height- Y坐标的纹理分辨率 | 使用从参数传入的大小设置从此图形实例生成的所有输出的纹理分辨率。 注意：在CPU引擎上为Max 2048注意：在GPU引擎上为Max 4096 |
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 | 名称 | Input | 描述 |
 | --- | --- | --- |
-| GetDynamicMaterialInstance | 输入：名称（字符串） | 返回Substance的运行时动态素材实例，或者创建一个（如果不存在）。 对于来自substance值输出的大多数运行时值更改，需要动态素材实例。 |
+| GetDynamicMaterialInstance | 输入：名称（字符串） | 返回Substance的运行时动态材料实例，或者创建一个（如果不存在）。 对于来自substance值输出的大多数运行时值更改，需要使用动态材料实例。 |
 | **GetInputNames** | 无 | 返回包含所有输入参数名称的字符串数组。 |
 | **GetInputType** | 无 | 返回与此输入关联的数据类型。 |
 | **SetInputInt** | 输入： **标识符** （字符串）输入： **输入值** （int数组） | 更改由标识符找到的输入值。 若要应用更改，必须使用&#x200B;**AyncRender**&#x200B;或&#x200B;**SyncRender**&#x200B;从游戏中渲染素材。 |

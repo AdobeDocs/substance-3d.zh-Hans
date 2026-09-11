@@ -21,7 +21,7 @@ Experience League上现在提供以下产品和主题的文档：
 [Substance 3D Painter](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-painter/using/home)
 [Substance 3D Designer](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-designer/using/home)
 [Substance 3D Sampler](https://experienceleague.adobe.com/zh-hans/docs/substance-3d-sampler/using/home)
-[使用Substance 3D进行烘焙](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/bakers/home)
+[使用烘焙](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/bakers/home)
 [Substance 3D一般知识](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/general-knowledge/home)
 [生态系统和集成](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/ecosystem/home)
 

@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # Arnold
 
-Arnold 5中的标准表面材料现在支持金属工作流程。 在使用默认着色器时，或者简单使用Substance Painter材料的Substance增效工具金属工作流程输出时，您可以从Substance导出文档通道。
+Arnold 5中的标准表面材料现在支持金属工作流程。 在使用默认金属着色器或简单使用Substance Painter素材的Substance增效工具金属工作流程输出时，可以从Substance导出文档通道。
 
 * 底色
 * 粗糙度

@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/renderers/vray.html"
 breadcrumb-title: ''
-description: 使用导出的映射或Substance增效工具，在Maya和3ds Max中使用V-Ray渲染Substance素材。
+description: 在Maya中通过V-Ray和3ds Max使用导出的地图或Substance增效工具渲染Substance材料。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Vray
 helpx_experience_level: ""

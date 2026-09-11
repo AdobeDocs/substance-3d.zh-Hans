@@ -7,7 +7,7 @@ helpx_description: "bakers > Common Questions > Why are there strange stretches 
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: '为什么烘焙或导出后的纹理会有奇怪的拉伸 '
+title: '为什么烘焙或导出后的纹理会出现奇怪的拉伸 '
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **问题**
 > 
-> 为什么烘焙或导出后UV 岛外部会出现奇怪的拉伸线或彩色渐变？
+> 为什么在烘焙或导出后UV 岛外部会出现奇怪的拉伸线或彩色渐变？
 
 >[!NOTE]
 >

@@ -25,7 +25,7 @@ ht-degree: 0%
 * CPU引擎中的4k纹理和GPU引擎中的8k纹理
 * 增效工具版本的新LPK格式
 * Substance增效工具的新工具包菜单
-* glTF / MODO 12.0的原则着色器支持
+* glTF/对MODO 12.0的原则性着色器支持
 * 已为Substance文件添加相对路径
 * Linux支持
 * 用于加载和保存预设的新UI

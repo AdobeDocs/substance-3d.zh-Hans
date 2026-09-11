@@ -44,7 +44,7 @@ ht-degree: 0%
 
 ## 运行时使用
 
-为了在运行时修改Substance实例输入，需要将SubstanceRuntime←-材料添加到您的场景（最好与Substance材料添加到同一个GameObject）。 此类充当使用Adobe.Substance.Runtime.SubstanceRuntime单一实例设置材料的助手，该实例在运行时管理SubstanceSDK对象的实例化。
+为了在运行时修改Substance实例输入，需要向场景中添加一个SubstanceRuntime← — 素材（最好与Substance素材添加到同一个GameObject）。 此类充当帮助程序，以使用Adobe.Substance.Runtime.SubstanceRuntime单一实例设置材料，该实例在运行时管理SubstanceSDK对象的实例化。Substance
 
 ## 代码示例
 
@@ -97,7 +97,7 @@ public class scifiScript: MonoBehaviour {
 ```
 
 
-您还可以使用SubstanceRuntimeGraph来访问有关Substance素材的输入和输出信息。
+您还可以使用SubstanceRuntimeGraph来访问有关材料的输入和输出信息。
 
 #### 获取输入信息
 

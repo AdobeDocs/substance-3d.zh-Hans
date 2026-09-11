@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
 breadcrumb-title: ''
-description: 使用Cinema 4D的属性管理器来配置Substance资源属性和材质设置。
+description: 使用Cinema 4D的属性管理器来配置Substance资源属性和材料设置。
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Cinema 4D > Attribute Manager
 helpx_experience_level: ""
@@ -37,11 +37,11 @@ Cinema 4D的“属性管理器”中为Substance资源提供了一个新模式�
 
 ## Filename参数
 
-通过使用“属性管理器”中的Filename参数，可以在将Substance资源加载到场景中后更改其文件位置。
+通过在属性管理器中使用Filename参数，可以在将Substance资源加载到场景中之后更改其文件位置。
 
 ![](../../../assets/cinema-4d-10.png){width="500px"}
 
-这不仅对于重新定位Substance文件有用，而且对于与完全不同的Substance交换文档也很有用。
+此功能不仅可用于Substance文件，还可用于与完全不同的Substance交换文件。
 
 在这种情况下，将询问用户是否将对先前Substance输出通道的任何现有引用重新映射到新Substance。
 
