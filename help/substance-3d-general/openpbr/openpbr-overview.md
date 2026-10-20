@@ -911,7 +911,7 @@ PBR的核心是一些关于光和表面的基本物理思想。 光被看作是�
 
 在实践中，PBR将艺术家的角色从补偿光照或渲染器古怪，转变为根据现实世界特征描述材料。 结果就是一种优先于场景特定微调的工作流程，从明确的素材输入中自然而然地呈现真实感，而不是手工制作的光照技巧。
 
-有关PBR技术细节的详细信息，请参阅[PBR指南，作者：Wes McDermott](https://www.adobe.com/learn/substance-3d-designer/web/the-pbr-guide-part-1)。
+有关PBR技术细节的详细信息，请参阅[PBR指南，作者：Wes McDermott](https://www.adobe.com/cn/learn/substance-3d-designer/web/the-pbr-guide-part-1)。
 
 ## 附录二：什么是OpenPBR？
 
