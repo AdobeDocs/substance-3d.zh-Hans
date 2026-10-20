@@ -2,13 +2,11 @@
 user-guide-description: Substance 3D生态系统
 user-guide-title: Substance 3D生态系统
 breadcrumb-title: Substance 3D生态系统用户指南
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '818'
 ht-degree: 2%
-
 ---
-
 
 # Substance 3D生态系统 {#ecosystem}
 
@@ -16,7 +14,7 @@ ht-degree: 2%
 + 游戏引擎{#game-engines}
   + [游戏引擎概述](/help/substance-3d-integrations/game-engines/game-engines.md)
   + 虚构引擎{#unreal-engine}
-    + 虚引擎5{#unreal-engine-5}
+    + 虚线引擎5{#unreal-engine-5}
       + [虚构引擎5概述](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5.md)
       + Unreal引擎5发行说明{#unreal-engine-5-release-notes}
         + [Unreal plugin 5.3.2](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-3-2/unreal-plugin-5-3-2.md)
@@ -25,12 +23,12 @@ ht-degree: 2%
         + [Unreal plugin 5.0.1](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-release-not/unreal-plugin-5-0-1/unreal-plugin-5-0-1.md)
       + [增效工具概述 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-overview-ue5/plugin-overview-ue5.md)
       + [增效工具设置 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5/plugin-settings-ue5.md)
-      + [Substance输入图像 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md)
-      + [物料实例定义 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md)
-      + [物料模板用途 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
-      + [开箱即用的材质模板](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
+      + [输入图像- UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/input-image-ue5/substance-input-image-ue5.md)
+      + [材料实例定义 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-def/material-instance-definition-ue5.md)
+      + [材料模板使用情况 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/material-template-usage-ue5.md)
+      + [开箱即用的材料模板](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage/out-the-box-material-tem/out-of-the-box-material-templates.md)
       + [物理尺寸- UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/physical-size-ue5/physical-size-ue5.md)
-      + [拼贴Substance- UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
+      + [Substance- UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-ue5/tiling-substance-ue5.md)
       + [Substance 3D增效工具默认模板](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-default-templates/substance-3d-plugin-default-templates.md)
       + [Substance 3D Assets库使用情况 — UE5](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/assets-library-usage-ue5/substance-3d-assets-library-usage-ue5.md)
       + 蓝图 — UE5{#blueprints-ue5}
@@ -59,7 +57,7 @@ ht-degree: 2%
       + [增效工具概述 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-overview-ue4/plugin-overview-ue4.md)
       + [增效工具设置 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/plugin-settings-ue4/plugin-settings-ue4.md)
       + [输入图像- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/input-image-ue4/substance-input-image-ue4.md)
-      + [物料实例定义 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
+      + [材料实例定义 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-def-1/material-instance-definition-ue4.md)
       + [Substance- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-ue4/tiling-substance-ue4.md)
       + [使用凹凸偏移 — 视差 — UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset/working-with-bump-offset-parallax-ue4.md)
       + [使用位移- UE4](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement/working-with-displacement-ue4.md)
@@ -70,7 +68,7 @@ ht-degree: 2%
         + [蓝图 — UE4：动态材料实例](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-dynamic-mat/blueprintue4-dynamic-material-instance.md)
         + [Blueprint- UE4：聚合Substance](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-aggregate/blueprintue4-aggregate-substance.md)
         + [Blueprint- UE4：节点引用](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/blueprints-ue4/blueprintue4-node-ref/blueprintue4-node-reference.md)
-      + [Unreal Engine 4脚本](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting/unreal-engine-4-scripting.md)
+      + [虚实引擎4脚本](/help/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-scripting/unreal-engine-4-scripting.md)
   + 统一{#unity}
     + [Unity概述](/help/substance-3d-integrations/game-engines/unity/unity.md)
     + Unity发行说明{#unity-release-notes}
@@ -123,7 +121,7 @@ ht-degree: 2%
     + [导入Substance](/help/substance-3d-integrations/game-engines/lumberyard/importing-a/importing-a-substance.md)
     + [分配Substance](/help/substance-3d-integrations/game-engines/lumberyard/assigning-a/assigning-a-substance.md)
     + [参数和输出](/help/substance-3d-integrations/game-engines/lumberyard/parameters-and-outputs/parameters-and-outputs.md)
-    + [流图API](/help/substance-3d-integrations/game-engines/lumberyard/flow-graph-api/flow-graph-api.md)
+    + [流程图形API](/help/substance-3d-integrations/game-engines/lumberyard/flow-graph-api/flow-graph-api.md)
   + [Roblox](/help/substance-3d-integrations/game-engines/roblox/roblox.md)
 + 3D{#3d-applications}
   + [3D应用程序概述](/help/substance-3d-integrations/3d-applications/3d-applications.md)
@@ -180,7 +178,7 @@ ht-degree: 2%
     + [批量导入](/help/substance-3d-integrations/3d-applications/3ds-max/batch-import/batch-import.md)
     + [在3ds Max中使用工作流](/help/substance-3d-integrations/3d-applications/3ds-max/using-workflows-3ds-max/using-workflows-in-3ds-max.md)
     + [Substance Source](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
-    + [为Substance素材制作动画](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
+    + [为材料制作动画](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
     + [3ds MAX脚本API](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api/3ds-max-scripting-api.md)
     + [故障排除](/help/substance-3d-integrations/3d-applications/3ds-max/troubleshooting/troubleshooting.md)
   + MODO{#modo}
@@ -196,28 +194,30 @@ ht-degree: 2%
     + [“MODO概述”中的Substance](/help/substance-3d-integrations/3d-applications/modo/in-modo-overview/substance-in-modo-overview.md)
     + [Modo安装](/help/substance-3d-integrations/3d-applications/modo/modo-installation/modo-installation.md)
     + [参数](/help/substance-3d-integrations/3d-applications/modo/parameters/parameters.md)
-    + [自定义材质](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
+    + [自定义材料](/help/substance-3d-integrations/3d-applications/modo/custom-materials/custom-materials.md)
     + [使用法线](/help/substance-3d-integrations/3d-applications/modo/working-with-normals/working-with-normals.md)
-    + [使用发射器](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
+    + [使用Emissive](/help/substance-3d-integrations/3d-applications/modo/working-with-emissive/working-with-emissive.md)
     + [凹凸和位移](/help/substance-3d-integrations/3d-applications/modo/bump-and-displacement/bump-and-displacement.md)
     + [使用引用](/help/substance-3d-integrations/3d-applications/modo/working-with-references/working-with-references.md)
     + [为Substance制作动画](/help/substance-3d-integrations/3d-applications/modo/animating-substances/animating-substances.md)
     + [复制/复制Substance](/help/substance-3d-integrations/3d-applications/modo/copy-duplicate/copy-duplicate-substance.md)
     + [环境和渲染设置](/help/substance-3d-integrations/3d-applications/modo/environment-and-rendering/environment-and-rendering-setup.md)
-    + [Modo切换引擎](/help/substance-3d-integrations/3d-applications/modo/modo-switch-engine/modo-switch-engine.md)
-    + [拼贴模型纹理](/help/substance-3d-integrations/3d-applications/modo/tiling-modo-textures/tiling-modo-textures.md)
+    + [Modo开关引擎](/help/substance-3d-integrations/3d-applications/modo/modo-switch-engine/modo-switch-engine.md)
+    + [拼贴Modo纹理](/help/substance-3d-integrations/3d-applications/modo/tiling-modo-textures/tiling-modo-textures.md)
   + Cinema 4D{#cinema-4d}
     + [Cinema 4D概述](/help/substance-3d-integrations/3d-applications/cinema-4d/cinema-4d.md)
     + [设置](/help/substance-3d-integrations/3d-applications/cinema-4d/set-up/set-up.md)
     + [使用Substance插件](/help/substance-3d-integrations/3d-applications/cinema-4d/using-the-plugin/using-the-substance-plugin.md)
     + [Substance资产管理器](/help/substance-3d-integrations/3d-applications/cinema-4d/asset-manager/substance-asset-manager.md)
-    + [Substance着色器](/help/substance-3d-integrations/3d-applications/cinema-4d/shader/substance-shader.md)
+    + [着色器](/help/substance-3d-integrations/3d-applications/cinema-4d/shader/substance-shader.md)
     + [属性管理器](/help/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager/attribute-manager.md)
     + [动画Substance的视觉反馈](/help/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-animated/visual-feedback-of-animated-substances.md)
   + [胡迪尼](/help/substance-3d-integrations/3d-applications/houdini/houdini.md)
   + 混合器{#blender}
     + [混合器概述](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + 发行说明{#release-notes}
+      + [发行说明](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [加载项3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [加载项2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [加载项2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [加载项1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
