@@ -1,7 +1,7 @@
 ---
 title: Blender插件3.0.0+
 description: 适用于Blender的Substance 3D插件的发行说明列表。
-source-git-commit: aa5acd016cd1a55ab230d36352c4d3aa5514012a
+source-git-commit: 1488c476be7921c113d2a54f870fee090e6295e9
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 # 加载项3.0.0+
 
-**加载项3.1.0**.*发布日期：2026年10月12日*
+**加载项3.1.0**.*发布日期：2026年10月20日*
 
 **混合器加载项：**
 
