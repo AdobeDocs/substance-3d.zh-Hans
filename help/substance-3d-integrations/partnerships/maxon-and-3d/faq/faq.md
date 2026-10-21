@@ -100,7 +100,7 @@ ht-degree: 4%
 
 仅在以下情况下，Substance 3D收藏集才会自动续订：您在兑换优惠券代码时输入了有效信用卡，或者您在订阅期到期之前，在account.adobe.com帐户管理页面中添加了信用卡。
 
-[比较Adobe订阅计划](https://www.adobe.com/creativecloud/plans.html)以验证AdobeSubstance 3D Collection个人版计划的标价，年度订阅预付。
+[比较Adobe订阅计划](https://www.adobe.com/cn/creativecloud/plans.html)以验证AdobeSubstance 3D Collection个人版计划的标价，年度订阅预付。
 
 +++
 
