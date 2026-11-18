@@ -2,9 +2,9 @@
 user-guide-description: Substance 3D生态系统
 user-guide-title: Substance 3D生态系统
 breadcrumb-title: Substance 3D生态系统用户指南
-source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
+source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: '826'
 ht-degree: 2%
 ---
 
@@ -127,6 +127,7 @@ ht-degree: 2%
   + [3D应用程序概述](/help/substance-3d-integrations/3d-applications/3d-applications.md)
   + Maya{#maya}
     + Maya增效工具发行说明{#maya-plugin-release-notes}
+      + [Maya 3.1.0+](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-1-0-plus.md)
       + [Maya 3.0.0+](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus/maya-3-0-0-plus.md)
       + [Maya 2.4.1](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-4-1/maya-2-4-1.md)
       + [Maya 2.4.0](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-4-0/maya-2-4-0.md)
@@ -161,6 +162,7 @@ ht-degree: 2%
   + 3ds Max{#3ds-max}
     + [3ds Max概述](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max.md)
     + 3ds Max增效工具发行说明{#3ds-max-plugin-release-notes}
+      + [3Ds Max 3.1.0+](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release/3ds-max-3-1-0-plus.md)
       + [3ds Max 3.0.0+](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release/3ds-max-3-0-0-plus/3ds-max-3-0-0-plus.md)
       + [3ds Max 2.8.0](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release/3ds-max-2-8-0/3ds-max-2-8-0.md)
       + [3ds Max 2.7.0](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release/3ds-max-2-7-0/3ds-max-2-7-0.md)
@@ -173,6 +175,7 @@ ht-degree: 2%
       + [3ds Max 2.3.1](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release/3ds-max-2-3-1/3ds-max-2-3-1.md)
       + [3ds Max 2.2.0](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release/3ds-max-2-2-0/3ds-max-2-2-0.md)
     + [3ds Max中的Substance概述](/help/substance-3d-integrations/3d-applications/3ds-max/in-3ds-max-overview/substance-in-3ds-max-overview.md)
+    + [下载和安装](/help/substance-3d-integrations/3d-applications/3ds-max/download-and-install.md)
     + [Substance设置](/help/substance-3d-integrations/3d-applications/3ds-max/settings-1/substance-settings.md)
     + [使用预设](/help/substance-3d-integrations/3d-applications/3ds-max/using-presets/using-presets.md)
     + [批量导入](/help/substance-3d-integrations/3d-applications/3ds-max/batch-import/batch-import.md)

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/cn/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ""
 description: 使用此参考资料检查哪个引擎版本与您的软件兼容，并确保材料兼容性。
 helpx_creative_field: ""
@@ -10,9 +10,9 @@ helpx_tags: ""
 title: 引擎版本控制
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 4aabc9cc3e18e14f4d381cd98e2f320f07149298
+source-git-commit: 50cadc1d3d23c51ef24ab742a4eb85503db9b856
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '630'
 ht-degree: 25%
 ---
 
@@ -150,10 +150,10 @@ ht-degree: 25%
 
 ## Substance 插件
 
-| 插件 | 引擎版本 | 结构版本 |
-| --- | --- | --- |
-| **Maya** 2.2.2 | 8.4.2 | 不可用 |
-| **3ds最大值** 2.4.6 | 8.0.3 | 不可用 |
-| **混合器** | 8.4.2 | 不可用 |
-| **统一** | 8.2.0 | 不可用 |
-| **不真实** | 8.0.8 | 不可用 |
+| 插件 | 引擎版本 |
+| --- | --- |
+| **Maya** 3.1.1 | 9.6.1 |
+| **3ds最大值** 3.1.1 | 9.6.1 |
+| **混合器** 3.1.0 | 9.6.1 |
+| **统一** 3.8.0至3.12.0 | 9.0.0 |
+| **不真实** 5.8.2 | 9.5.1 |
