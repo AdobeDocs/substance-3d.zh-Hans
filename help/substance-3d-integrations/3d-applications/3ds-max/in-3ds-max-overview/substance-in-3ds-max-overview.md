@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/cn/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ""
 description: 了解3ds Max的Substance增效工具，以及如何导入和使用项目中的Substance材料。
 helpx_creative_field: ""
@@ -79,7 +79,7 @@ ht-degree: 0%
 
 ### 什么是OpenPBR？
 
-OpenPBR是由Adobe和Autodesk开发的开放、基于物理的材料着色模型，为学院软件基金会(ASWF)做出了贡献。 它提供了统一的材料定义，可在各个渲染器之间兼容。 有关详细信息，请访问[OpenPBR文档](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)。
+OpenPBR是由Adobe和Autodesk开发的开放、基于物理的材料着色模型，为学院软件基金会(ASWF)做出了贡献。 它提供了统一的材料定义，可在各个渲染器之间兼容。 有关详细信息，请访问[OpenPBR文档](https://experienceleague.adobe.com/zh-hans/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)。
 
 ### 何时使用OpenPBR工作流程
 
