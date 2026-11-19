@@ -10,19 +10,13 @@ helpx_tags: ""
 title: 下载和安装
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # 下载和安装
-
-默认情况下，Maya增效工具中的Substance包含在Maya安装程序中。
-
-您可以从[Adobe的Substance 3D for Maya页面](https://substance3d.adobe.com/plugins/substance-in-maya/)下载安装程序的较新版本。
-
-## 较旧的增效工具版本
 
 最新版本的增效工具由Autodesk与最新兼容版本的Maya本机分发。 如果您需要针对旧版本的特定内部版本，请参阅下面的下载链接
 

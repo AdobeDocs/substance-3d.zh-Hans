@@ -2,9 +2,9 @@
 user-guide-description: Substance 3D生态系统
 user-guide-title: Substance 3D生态系统
 breadcrumb-title: Substance 3D生态系统用户指南
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 4df288c76e7c37d13798b4d1067466746678bb92
 workflow-type: tm+mt
-source-wordcount: '826'
+source-wordcount: '829'
 ht-degree: 2%
 ---
 
@@ -148,7 +148,7 @@ ht-degree: 2%
       + [Maya 2.0.3](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-0-3/maya-2-0-3.md)
       + [Maya 0.9.11](/help/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-0-9-11/maya-0-9-11.md)
     + [Maya中的Substance概述](/help/substance-3d-integrations/3d-applications/maya/in-maya-overview/substance-in-maya-overview.md)
-    + [安装](/help/substance-3d-integrations/3d-applications/maya/installation/installation.md)
+    + [下载和安装](/help/substance-3d-integrations/3d-applications/maya/installation/installation.md)
     + [Substance输出节点](/help/substance-3d-integrations/3d-applications/maya/output-node/substance-output-node.md)
     + [使用工作流](/help/substance-3d-integrations/3d-applications/maya/using-workflows/using-workflows.md)
     + [使用输出](/help/substance-3d-integrations/3d-applications/maya/working-with-outputs/working-with-outputs.md)
@@ -180,7 +180,7 @@ ht-degree: 2%
     + [使用预设](/help/substance-3d-integrations/3d-applications/3ds-max/using-presets/using-presets.md)
     + [批量导入](/help/substance-3d-integrations/3d-applications/3ds-max/batch-import/batch-import.md)
     + [在3ds Max中使用工作流](/help/substance-3d-integrations/3d-applications/3ds-max/using-workflows-3ds-max/using-workflows-in-3ds-max.md)
-    + [Substance Source](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
+    + [Substance 3D Assets](/help/substance-3d-integrations/3d-applications/3ds-max/source/substance-source.md)
     + [为材料制作动画](/help/substance-3d-integrations/3d-applications/3ds-max/animating-a-material/animating-a-substance-material.md)
     + [3ds MAX脚本API](/help/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api/3ds-max-scripting-api.md)
     + [故障排除](/help/substance-3d-integrations/3d-applications/3ds-max/troubleshooting/troubleshooting.md)
